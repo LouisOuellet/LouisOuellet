@@ -20,5 +20,5 @@ I blog at [laswitchtech.com](https://laswitchtech.com) for nearly two decades no
 
 ### :bar_chart: All the statistics
 
-![github stats](https://github-readme-stats.vercel.app/api?username=LouisOuellet&show_icons=true&hide_title=true)
-![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LouisOuellet&layout=compact)
+![github stats](https://github-readme-stats.vercel.app/api?username=LouisOuellet&show_icons=true&rank_icon=github&hide_title=true&theme=holi)
+![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LouisOuellet&layout=donut&hide_title=true&theme=holi)
