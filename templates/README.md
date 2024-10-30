@@ -14,7 +14,7 @@ These are the projects I most recently worked on.
 
 I blog at [laswitchtech.com](https://laswitchtech.com) for nearly two decades now. Here is what I have published recently.
 
-{{range rss "https://laswitchtech.com/feed/blog" 5}}
+{{range rss "https://laswitchtech.com/feed.php" 5}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 
