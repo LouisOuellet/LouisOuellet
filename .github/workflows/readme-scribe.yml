@@ -24,4 +24,4 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GH_PAT }}
         with:
           commit_message: Update generated README
-          branch: master
+          branch: stable
