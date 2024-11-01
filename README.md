@@ -7,16 +7,16 @@ I'm Louis Ouellet, welcome to my GitHub profile. From a very young age, I have b
 These are the projects I most recently worked on.
 
 
+- [LaswitchTech/coreBootstrap](https://github.com/LaswitchTech/coreBootstrap) - Bootstrap Library for the Laswitch Core Framework (today)
 - [giterlizzi/dokuwiki-plugin-icons](https://github.com/giterlizzi/dokuwiki-plugin-icons) - Icons Plugin for DokuWiki (3 days ago)
 - [LouisOuellet/dokuwiki_plugin_formula](https://github.com/LouisOuellet/dokuwiki_plugin_formula) - A Plugin that adds a formula field to the bureaucracy plugin. This field can be used to execute spreadsheet like formulas. (1 week ago)
-- [LouisOuellet/dokuwiki_plugin_tagbutton](https://github.com/LouisOuellet/dokuwiki_plugin_tagbutton) - Add a tag via a button (2 weeks ago)
 - [LouisOuellet/dokuwiki_plugin_taskextra](https://github.com/LouisOuellet/dokuwiki_plugin_taskextra) - Extra utilities for the task plugin (2 weeks ago)
+- [LouisOuellet/dokuwiki_plugin_tagbutton](https://github.com/LouisOuellet/dokuwiki_plugin_tagbutton) - Add a tag via a button (2 weeks ago)
 - [LaswitchTech/PyRDPConnect](https://github.com/LaswitchTech/PyRDPConnect) - RDP Client for Linux based on FreeRDP (4 weeks ago)
-- [LaswitchTech/coreBootstrap](https://github.com/LaswitchTech/coreBootstrap) - Bootstrap Library for the Laswitch Core Framework (1 month ago)
 - [LaswitchTech/coreIMAP](https://github.com/LaswitchTech/coreIMAP) - IMAP Library for the Laswitch Core Framework (1 month ago)
 - [LaswitchTech/coreSMTP](https://github.com/LaswitchTech/coreSMTP) - SMTP Library for the Laswitch Core Framework (1 month ago)
 - [LaswitchTech/coreDatabase](https://github.com/LaswitchTech/coreDatabase) - Database Library for the Laswitch Core Framework (2 months ago)
-- [LaswitchTech/pythonTempHumdMonitor](https://github.com/LaswitchTech/pythonTempHumdMonitor) - A Temperature and Humidity monitor for Raspberry Pi using a SHT30 sensor (2 months ago)
+- [LaswitchTech/pythonNetworkMonitor](https://github.com/LaswitchTech/pythonNetworkMonitor) - A network monitor that uses ICMP messages to determine if a host is UP or DOWN. (2 months ago)
 
 ### :page_with_curl: My recent blog posts
 
