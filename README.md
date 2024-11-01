@@ -16,7 +16,7 @@ These are the projects I most recently worked on.
 - [LaswitchTech/coreIMAP](https://github.com/LaswitchTech/coreIMAP) - IMAP Library for the Laswitch Core Framework (1 month ago)
 - [LaswitchTech/coreSMTP](https://github.com/LaswitchTech/coreSMTP) - SMTP Library for the Laswitch Core Framework (1 month ago)
 - [LaswitchTech/coreDatabase](https://github.com/LaswitchTech/coreDatabase) - Database Library for the Laswitch Core Framework (2 months ago)
-- [LaswitchTech/pythonStartupMonitor](https://github.com/LaswitchTech/pythonStartupMonitor) - A Startup monitor that send an email when the UNIX system starts (2 months ago)
+- [LaswitchTech/pythonTempHumdMonitor](https://github.com/LaswitchTech/pythonTempHumdMonitor) - A Temperature and Humidity monitor for Raspberry Pi using a SHT30 sensor (2 months ago)
 
 ### :page_with_curl: My recent blog posts
 
