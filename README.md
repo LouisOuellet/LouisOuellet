@@ -7,10 +7,10 @@ I'm Louis Ouellet, welcome to my GitHub profile. From a very young age, I have b
 These are the projects I most recently worked on.
 
 
-- [giterlizzi/dokuwiki-plugin-icons](https://github.com/giterlizzi/dokuwiki-plugin-icons) - Icons Plugin for DokuWiki (2 days ago)
+- [giterlizzi/dokuwiki-plugin-icons](https://github.com/giterlizzi/dokuwiki-plugin-icons) - Icons Plugin for DokuWiki (3 days ago)
 - [LouisOuellet/dokuwiki_plugin_formula](https://github.com/LouisOuellet/dokuwiki_plugin_formula) - A Plugin that adds a formula field to the bureaucracy plugin. This field can be used to execute spreadsheet like formulas. (1 week ago)
-- [LouisOuellet/dokuwiki_plugin_tagbutton](https://github.com/LouisOuellet/dokuwiki_plugin_tagbutton) - Add a tag via a button (1 week ago)
-- [LouisOuellet/dokuwiki_plugin_taskextra](https://github.com/LouisOuellet/dokuwiki_plugin_taskextra) - Extra utilities for the task plugin (1 week ago)
+- [LouisOuellet/dokuwiki_plugin_tagbutton](https://github.com/LouisOuellet/dokuwiki_plugin_tagbutton) - Add a tag via a button (2 weeks ago)
+- [LouisOuellet/dokuwiki_plugin_taskextra](https://github.com/LouisOuellet/dokuwiki_plugin_taskextra) - Extra utilities for the task plugin (2 weeks ago)
 - [LaswitchTech/PyRDPConnect](https://github.com/LaswitchTech/PyRDPConnect) - RDP Client for Linux based on FreeRDP (4 weeks ago)
 - [LaswitchTech/coreBootstrap](https://github.com/LaswitchTech/coreBootstrap) - Bootstrap Library for the Laswitch Core Framework (1 month ago)
 - [LaswitchTech/coreIMAP](https://github.com/LaswitchTech/coreIMAP) - IMAP Library for the Laswitch Core Framework (1 month ago)
@@ -23,11 +23,11 @@ These are the projects I most recently worked on.
 I blog at [laswitchtech.com](https://laswitchtech.com) for nearly two decades now. Here is what I have published recently.
 
 
-- [PyRDPConnect](https://laswitchtech.com/fr/blog/projects/pyrdpconnect/index?rev=1730316527&amp;do=diff) (1 day ago)
-- [PyRDPConnect](https://laswitchtech.com/en/blog/projects/pyrdpconnect/index?rev=1730316513&amp;do=diff) (1 day ago)
-- [Configuration en tant que Client-Léger - créée](https://laswitchtech.com/fr/blog/projects/pyrdpconnect/documentation/thinclient?rev=1730312025&amp;do=diff) (1 day ago)
-- [Guide d&#39;Installation - créée](https://laswitchtech.com/fr/blog/projects/pyrdpconnect/documentation/installation?rev=1730311955&amp;do=diff) (1 day ago)
-- [Setup as a Thin-Client](https://laswitchtech.com/en/blog/projects/pyrdpconnect/documentation/thinclient?rev=1730311759&amp;do=diff) (1 day ago)
+- [PyRDPConnect](https://laswitchtech.com/fr/blog/projects/pyrdpconnect/index?rev=1730316527&amp;do=diff) (2 days ago)
+- [PyRDPConnect](https://laswitchtech.com/en/blog/projects/pyrdpconnect/index?rev=1730316513&amp;do=diff) (2 days ago)
+- [Configuration en tant que Client-Léger - créée](https://laswitchtech.com/fr/blog/projects/pyrdpconnect/documentation/thinclient?rev=1730312025&amp;do=diff) (2 days ago)
+- [Guide d&#39;Installation - créée](https://laswitchtech.com/fr/blog/projects/pyrdpconnect/documentation/installation?rev=1730311955&amp;do=diff) (2 days ago)
+- [Setup as a Thin-Client](https://laswitchtech.com/en/blog/projects/pyrdpconnect/documentation/thinclient?rev=1730311759&amp;do=diff) (2 days ago)
 
 ### :bar_chart: All the statistics
 
