@@ -23,11 +23,11 @@ These are the projects I most recently worked on.
 I blog at [laswitchtech.com](https://laswitchtech.com) for nearly two decades now. Here is what I have published recently.
 
 
+- [Writr](https://laswitchtech.com/fr/blog/projects/writr/index?rev=1730510059&amp;do=diff) (today)
+- [Writr](https://laswitchtech.com/en/blog/projects/writr/index?rev=1730510015&amp;do=diff) (today)
 - [ReverseSUM](https://laswitchtech.com/fr/blog/projects/reversesum/index?rev=1730493188&amp;do=diff) (1 day ago)
 - [ReverseSUM](https://laswitchtech.com/en/blog/projects/reversesum/index?rev=1730493170&amp;do=diff) (1 day ago)
 - [03.01. Changelog](https://laswitchtech.com/fr/blog/projects/writr/documentation/03/01/index?rev=1730492374&amp;do=diff) (1 day ago)
-- [03.01. Changelog](https://laswitchtech.com/en/blog/projects/writr/documentation/03/01/index?rev=1730492361&amp;do=diff) (1 day ago)
-- [Writr](https://laswitchtech.com/fr/blog/projects/writr/index?rev=1730492312&amp;do=diff) (1 day ago)
 
 ### :bar_chart: All the statistics
 
