@@ -7,9 +7,9 @@ I'm Louis Ouellet, welcome to my GitHub profile. From a very young age, I have b
 These are the projects I most recently worked on.
 
 
-- [LaswitchTech/ReverseSUM](https://github.com/LaswitchTech/ReverseSUM) - This web application is a versatile tool designed to find all possible combinations of individual line values that match given target totals. Users can input lists of totals and individual values, and the application will determine which combinations of values add up to each total. (1 day ago)
-- [LaswitchTech/coreBootstrap](https://github.com/LaswitchTech/coreBootstrap) - Bootstrap Library for the Laswitch Core Framework (1 day ago)
-- [giterlizzi/dokuwiki-plugin-icons](https://github.com/giterlizzi/dokuwiki-plugin-icons) - Icons Plugin for DokuWiki (4 days ago)
+- [LaswitchTech/ReverseSUM](https://github.com/LaswitchTech/ReverseSUM) - This web application is a versatile tool designed to find all possible combinations of individual line values that match given target totals. Users can input lists of totals and individual values, and the application will determine which combinations of values add up to each total. (2 days ago)
+- [LaswitchTech/coreBootstrap](https://github.com/LaswitchTech/coreBootstrap) - Bootstrap Library for the Laswitch Core Framework (2 days ago)
+- [giterlizzi/dokuwiki-plugin-icons](https://github.com/giterlizzi/dokuwiki-plugin-icons) - Icons Plugin for DokuWiki (5 days ago)
 - [LouisOuellet/dokuwiki_plugin_formula](https://github.com/LouisOuellet/dokuwiki_plugin_formula) - A Plugin that adds a formula field to the bureaucracy plugin. This field can be used to execute spreadsheet like formulas. (1 week ago)
 - [LouisOuellet/dokuwiki_plugin_tagbutton](https://github.com/LouisOuellet/dokuwiki_plugin_tagbutton) - Add a tag via a button (2 weeks ago)
 - [LouisOuellet/dokuwiki_plugin_taskextra](https://github.com/LouisOuellet/dokuwiki_plugin_taskextra) - Extra utilities for the task plugin (2 weeks ago)
@@ -23,11 +23,11 @@ These are the projects I most recently worked on.
 I blog at [laswitchtech.com](https://laswitchtech.com) for nearly two decades now. Here is what I have published recently.
 
 
-- [Projects](https://laswitchtech.com/en/blog/projects/index?rev=1730557546&amp;do=diff) (today)
-- [Home](https://laswitchtech.com/en/index?rev=1730557460&amp;do=diff) (today)
-- [Projects](https://laswitchtech.com/en/private/projects/index?rev=1730554821&amp;do=diff) (today)
-- [Writr](https://laswitchtech.com/fr/blog/projects/writr/index?rev=1730510059&amp;do=diff) (today)
-- [Writr](https://laswitchtech.com/en/blog/projects/writr/index?rev=1730510015&amp;do=diff) (today)
+- [Projects](https://laswitchtech.com/en/blog/projects/index?rev=1730557546&amp;do=diff) (1 day ago)
+- [Home](https://laswitchtech.com/en/index?rev=1730557460&amp;do=diff) (1 day ago)
+- [Projects](https://laswitchtech.com/en/private/projects/index?rev=1730554821&amp;do=diff) (1 day ago)
+- [Writr](https://laswitchtech.com/fr/blog/projects/writr/index?rev=1730510059&amp;do=diff) (1 day ago)
+- [Writr](https://laswitchtech.com/en/blog/projects/writr/index?rev=1730510015&amp;do=diff) (1 day ago)
 
 ### :bar_chart: All the statistics
 
