@@ -23,11 +23,11 @@ These are the projects I most recently worked on.
 I blog at [laswitchtech.com](https://laswitchtech.com) for nearly two decades now. Here is what I have published recently.
 
 
-- [Les Dangers Cachés dans Vos Emails : Types de Fichiers à Éviter pour la Cybersécurité](https://laswitchtech.com/fr/blog/security/2023-12-12-the-hidden-dangers-of-opening-unknown-email-attachments?rev=1730740061&amp;do=diff) (today)
-- [Projects](https://laswitchtech.com/en/private/projects/index?rev=1730739904&amp;do=diff) (today)
-- [](https://laswitchtech.com/fr/blog/projects/index?rev=1730739886&amp;do=diff) (today)
-- [Sécurité](https://laswitchtech.com/fr/blog/security/index?rev=1730739813&amp;do=diff) (today)
-- [Security](https://laswitchtech.com/en/blog/security/index?rev=1730739788&amp;do=diff) (today)
+- [01.01. Liste](https://laswitchtech.com/fr/blog/projects/writr/documentation/01/01/index?rev=1730746781&amp;do=diff) (today)
+- [03.03. Correctifs](https://laswitchtech.com/fr/blog/projects/writr/documentation/03/03/index?rev=1730746769&amp;do=diff) (today)
+- [03.02. Planification](https://laswitchtech.com/fr/blog/projects/writr/documentation/03/02/index?rev=1730746750&amp;do=diff) (today)
+- [03.02. Planning](https://laswitchtech.com/en/blog/projects/writr/documentation/03/02/index?rev=1730746725&amp;do=diff) (today)
+- [Writr](https://laswitchtech.com/fr/blog/projects/writr/index?rev=1730743278&amp;do=diff) (today)
 
 ### :bar_chart: All the statistics
 
