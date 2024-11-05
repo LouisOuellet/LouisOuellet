@@ -23,11 +23,11 @@ These are the projects I most recently worked on.
 I blog at [laswitchtech.com](https://laswitchtech.com) for nearly two decades now. Here is what I have published recently.
 
 
+- [01.01. List](https://laswitchtech.com/en/blog/projects/writr/documentation/01/01/index?rev=1730816610&amp;do=diff) (today)
 - [Dokuwiki](https://laswitchtech.com/fr/blog/tutorials/dokuwiki/index?rev=1730772221&amp;do=diff) (today)
 - [Linux](https://laswitchtech.com/fr/blog/tutorials/linux/index?rev=1730772213&amp;do=diff) (today)
 - [Raspberry Pi](https://laswitchtech.com/fr/blog/tutorials/raspberry-pi/index?rev=1730772206&amp;do=diff) (today)
 - [Windows](https://laswitchtech.com/fr/blog/tutorials/windows/index?rev=1730772197&amp;do=diff) (today)
-- [Windows](https://laswitchtech.com/en/blog/tutorials/windows/index?rev=1730772185&amp;do=diff) (today)
 
 ### :bar_chart: All the statistics
 
