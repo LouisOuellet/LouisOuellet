@@ -23,11 +23,11 @@ These are the projects I most recently worked on.
 I blog at [laswitchtech.com](https://laswitchtech.com) for nearly two decades now. Here is what I have published recently.
 
 
-- [Améliorer la Réactivité Mobile : Mises à Jour de Writr - créée](https://laswitchtech.com/fr/blog/2024/11/05/enhancing-mobile-responsiveness/updates-to-writr?rev=1730838872&amp;do=diff) (today)
-- [Enhancing Mobile Responsiveness: Updates to Writr](https://laswitchtech.com/en/blog/2024/11/05/enhancing-mobile-responsiveness/updates-to-writr?rev=1730838789&amp;do=diff) (today)
-- [Comment désactiver la télémétrie sur Windows 11 - créée](https://laswitchtech.com/fr/blog/tutorials/windows/2024/01/31/how-to-disable-telemetry-on-windows-11?rev=1730836309&amp;do=diff) (today)
-- [How to disable Telemetry on Windows 11](https://laswitchtech.com/en/blog/tutorials/windows/2024/01/31/how-to-disable-telemetry-on-windows-11?rev=1730836287&amp;do=diff) (today)
-- [Comment désactiver l&#39;application Cortana - créée](https://laswitchtech.com/fr/blog/tutorials/windows/2024/01/31/how-to-disable-the-cortana-app?rev=1730836242&amp;do=diff) (today)
+- [ReverseSUM](https://laswitchtech.com/fr/projects/reversesum/index?rev=1730843559&amp;do=diff) (today)
+- [ReverseSUM](https://laswitchtech.com/en/projects/reversesum/index?rev=1730843547&amp;do=diff) (today)
+- [PyRDPConnect](https://laswitchtech.com/fr/projects/pyrdpconnect/index?rev=1730843535&amp;do=diff) (today)
+- [PyRDPConnect](https://laswitchtech.com/en/projects/pyrdpconnect/index?rev=1730843515&amp;do=diff) (today)
+- [Writr](https://laswitchtech.com/fr/projects/writr/index?rev=1730843487&amp;do=diff) (today)
 
 ### :bar_chart: All the statistics
 
