@@ -23,11 +23,11 @@ These are the projects I most recently worked on.
 I blog at [laswitchtech.com](https://laswitchtech.com) for nearly two decades now. Here is what I have published recently.
 
 
-- [01.01. Liste](https://laswitchtech.com/fr/blog/projects/writr/documentation/01/01/index?rev=1730746781&amp;do=diff) (1 day ago)
-- [03.03. Correctifs](https://laswitchtech.com/fr/blog/projects/writr/documentation/03/03/index?rev=1730746769&amp;do=diff) (1 day ago)
-- [03.02. Planification](https://laswitchtech.com/fr/blog/projects/writr/documentation/03/02/index?rev=1730746750&amp;do=diff) (1 day ago)
-- [03.02. Planning](https://laswitchtech.com/en/blog/projects/writr/documentation/03/02/index?rev=1730746725&amp;do=diff) (1 day ago)
-- [Writr](https://laswitchtech.com/fr/blog/projects/writr/index?rev=1730743278&amp;do=diff) (1 day ago)
+- [Dokuwiki](https://laswitchtech.com/fr/blog/tutorials/dokuwiki/index?rev=1730772221&amp;do=diff) (today)
+- [Linux](https://laswitchtech.com/fr/blog/tutorials/linux/index?rev=1730772213&amp;do=diff) (today)
+- [Raspberry Pi](https://laswitchtech.com/fr/blog/tutorials/raspberry-pi/index?rev=1730772206&amp;do=diff) (today)
+- [Windows](https://laswitchtech.com/fr/blog/tutorials/windows/index?rev=1730772197&amp;do=diff) (today)
+- [Windows](https://laswitchtech.com/en/blog/tutorials/windows/index?rev=1730772185&amp;do=diff) (today)
 
 ### :bar_chart: All the statistics
 
