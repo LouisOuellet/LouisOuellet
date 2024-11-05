@@ -23,11 +23,11 @@ These are the projects I most recently worked on.
 I blog at [laswitchtech.com](https://laswitchtech.com) for nearly two decades now. Here is what I have published recently.
 
 
-- [The Hidden Dangers in Your Email: File Types to Avoid for Cybersecurity](https://laswitchtech.com/en/blog/security/2023/12/12/the-hidden-dangers-of-opening-unknown-email-attachments?rev=1730833227&amp;do=diff) (today)
-- [01.01. List](https://laswitchtech.com/en/blog/projects/writr/documentation/01/01/index?rev=1730816610&amp;do=diff) (today)
-- [Dokuwiki](https://laswitchtech.com/fr/blog/tutorials/dokuwiki/index?rev=1730772221&amp;do=diff) (today)
-- [Linux](https://laswitchtech.com/fr/blog/tutorials/linux/index?rev=1730772213&amp;do=diff) (today)
-- [Raspberry Pi](https://laswitchtech.com/fr/blog/tutorials/raspberry-pi/index?rev=1730772206&amp;do=diff) (today)
+- [Comment désactiver la télémétrie sur Windows 11 - créée](https://laswitchtech.com/fr/blog/tutorials/windows/2024/01/31/how-to-disable-telemetry-on-windows-11?rev=1730836309&amp;do=diff) (today)
+- [How to disable Telemetry on Windows 11](https://laswitchtech.com/en/blog/tutorials/windows/2024/01/31/how-to-disable-telemetry-on-windows-11?rev=1730836287&amp;do=diff) (today)
+- [Comment désactiver l&#39;application Cortana - créée](https://laswitchtech.com/fr/blog/tutorials/windows/2024/01/31/how-to-disable-the-cortana-app?rev=1730836242&amp;do=diff) (today)
+- [How to disable the Cortana app](https://laswitchtech.com/en/blog/tutorials/windows/2024/01/31/how-to-disable-the-cortana-app?rev=1730836216&amp;do=diff) (today)
+- [Comment empêcher un utilisateur de se connecter à un compte Microsoft sur Windows 11 - créée](https://laswitchtech.com/fr/blog/tutorials/windows/2024/01/31/how-to-prevent-user-from-signing-into-a-microsoft-account-on-windows-11?rev=1730836154&amp;do=diff) (today)
 
 ### :bar_chart: All the statistics
 
