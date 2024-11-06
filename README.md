@@ -23,11 +23,11 @@ These are the projects I most recently worked on.
 I blog at [laswitchtech.com](https://laswitchtech.com) for nearly two decades now. Here is what I have published recently.
 
 
-- [Windows](https://laswitchtech.com/fr/blog/tutorials/windows/index?rev=1730908270&amp;do=diff) (today)
-- [Windows](https://laswitchtech.com/en/blog/tutorials/windows/index?rev=1730908260&amp;do=diff) (today)
-- [Raspberry Pi](https://laswitchtech.com/fr/blog/tutorials/raspberry-pi/index?rev=1730908244&amp;do=diff) (today)
-- [Raspberry Pi](https://laswitchtech.com/en/blog/tutorials/raspberry-pi/index?rev=1730908231&amp;do=diff) (today)
-- [Linux](https://laswitchtech.com/fr/blog/tutorials/linux/index?rev=1730908212&amp;do=diff) (today)
+- [Guide d&#39;utilisation](https://laswitchtech.com/fr/projects/reversesum/documentation/index?rev=1730919109&amp;do=diff) (today)
+- [Usage Guide](https://laswitchtech.com/en/projects/reversesum/documentation/index?rev=1730919096&amp;do=diff) (today)
+- [Guide d&#39;Utilisation](https://laswitchtech.com/fr/projects/pyrdpconnect/documentation/index?rev=1730919084&amp;do=diff) (today)
+- [Usage Guide](https://laswitchtech.com/en/projects/pyrdpconnect/documentation/index?rev=1730919078&amp;do=diff) (today)
+- [Writr](https://laswitchtech.com/fr/projects/writr/index?rev=1730919039&amp;do=diff) (today)
 
 ### :bar_chart: All the statistics
 
