@@ -7,8 +7,8 @@ I'm Louis Ouellet, welcome to my GitHub profile. From a very young age, I have b
 These are the projects I most recently worked on.
 
 
-- [LaswitchTech/coreBootstrap](https://github.com/LaswitchTech/coreBootstrap) - Bootstrap Library for the Laswitch Core Framework (4 days ago)
-- [LaswitchTech/ReverseSUM](https://github.com/LaswitchTech/ReverseSUM) - This web application is a versatile tool designed to find all possible combinations of individual line values that match given target totals. Users can input lists of totals and individual values, and the application will determine which combinations of values add up to each total. (4 days ago)
+- [LaswitchTech/coreBootstrap](https://github.com/LaswitchTech/coreBootstrap) - Bootstrap Library for the Laswitch Core Framework (5 days ago)
+- [LaswitchTech/ReverseSUM](https://github.com/LaswitchTech/ReverseSUM) - This web application is a versatile tool designed to find all possible combinations of individual line values that match given target totals. Users can input lists of totals and individual values, and the application will determine which combinations of values add up to each total. (5 days ago)
 - [giterlizzi/dokuwiki-plugin-icons](https://github.com/giterlizzi/dokuwiki-plugin-icons) - Icons Plugin for DokuWiki (1 week ago)
 - [LouisOuellet/dokuwiki_plugin_formula](https://github.com/LouisOuellet/dokuwiki_plugin_formula) - A Plugin that adds a formula field to the bureaucracy plugin. This field can be used to execute spreadsheet like formulas. (2 weeks ago)
 - [LouisOuellet/dokuwiki_plugin_taskextra](https://github.com/LouisOuellet/dokuwiki_plugin_taskextra) - Extra utilities for the task plugin (2 weeks ago)
@@ -23,11 +23,11 @@ These are the projects I most recently worked on.
 I blog at [laswitchtech.com](https://laswitchtech.com) for nearly two decades now. Here is what I have published recently.
 
 
-- [ReverseSUM](https://laswitchtech.com/fr/projects/reversesum/index?rev=1730843559&amp;do=diff) (today)
-- [ReverseSUM](https://laswitchtech.com/en/projects/reversesum/index?rev=1730843547&amp;do=diff) (today)
-- [PyRDPConnect](https://laswitchtech.com/fr/projects/pyrdpconnect/index?rev=1730843535&amp;do=diff) (today)
-- [PyRDPConnect](https://laswitchtech.com/en/projects/pyrdpconnect/index?rev=1730843515&amp;do=diff) (today)
-- [Writr](https://laswitchtech.com/fr/projects/writr/index?rev=1730843487&amp;do=diff) (today)
+- [ReverseSUM](https://laswitchtech.com/fr/projects/reversesum/index?rev=1730843559&amp;do=diff) (1 day ago)
+- [ReverseSUM](https://laswitchtech.com/en/projects/reversesum/index?rev=1730843547&amp;do=diff) (1 day ago)
+- [PyRDPConnect](https://laswitchtech.com/fr/projects/pyrdpconnect/index?rev=1730843535&amp;do=diff) (1 day ago)
+- [PyRDPConnect](https://laswitchtech.com/en/projects/pyrdpconnect/index?rev=1730843515&amp;do=diff) (1 day ago)
+- [Writr](https://laswitchtech.com/fr/projects/writr/index?rev=1730843487&amp;do=diff) (1 day ago)
 
 ### :bar_chart: All the statistics
 
