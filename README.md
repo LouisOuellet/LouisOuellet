@@ -23,11 +23,11 @@ These are the projects I most recently worked on.
 I blog at [laswitchtech.com](https://laswitchtech.com) for nearly two decades now. Here is what I have published recently.
 
 
+- [Ramener le Charme Original : Mises à Jour de Writr - créée](https://laswitchtech.com/fr/blog/2024/11/06/bringing-back-the-original-charm/updates-to-writr?rev=1730929292&amp;do=diff) (today)
+- [Bringing Back the Original Charm: Updates to Writr](https://laswitchtech.com/en/blog/2024/11/06/bringing-back-the-original-charm/updates-to-writr?rev=1730929171&amp;do=diff) (today)
+- [Améliorer la Réactivité Mobile : Mises à Jour de Writr](https://laswitchtech.com/fr/blog/2024/11/05/enhancing-mobile-responsiveness/updates-to-writr?rev=1730928372&amp;do=diff) (today)
+- [Enhancing Mobile Responsiveness: Updates to Writr](https://laswitchtech.com/en/blog/2024/11/05/enhancing-mobile-responsiveness/updates-to-writr?rev=1730928356&amp;do=diff) (today)
 - [01.01. Syntaxe de mise en page - créée](https://laswitchtech.com/fr/projects/writr/documentation/01/01/index?rev=1730923102&amp;do=diff) (today)
-- [01. DokuWiki - créée](https://laswitchtech.com/fr/projects/writr/documentation/01/index?rev=1730923048&amp;do=diff) (today)
-- [Wrap](https://laswitchtech.com/en/projects/writr/documentation/03/01/wrap/index?rev=1730922891&amp;do=diff) (today)
-- [01.01. Formatting Syntax](https://laswitchtech.com/en/projects/writr/documentation/01/01/index?rev=1730922458&amp;do=diff) (today)
-- [- removed](https://laswitchtech.com/en/projects/writr/documentation/01/02/index?rev=1730922373&amp;do=diff) (today)
 
 ### :bar_chart: All the statistics
 
