@@ -23,11 +23,11 @@ These are the projects I most recently worked on.
 I blog at [laswitchtech.com](https://laswitchtech.com) for nearly two decades now. Here is what I have published recently.
 
 
-- [Guide d&#39;utilisation](https://laswitchtech.com/fr/projects/reversesum/documentation/index?rev=1730919109&amp;do=diff) (today)
-- [Usage Guide](https://laswitchtech.com/en/projects/reversesum/documentation/index?rev=1730919096&amp;do=diff) (today)
-- [Guide d&#39;Utilisation](https://laswitchtech.com/fr/projects/pyrdpconnect/documentation/index?rev=1730919084&amp;do=diff) (today)
-- [Usage Guide](https://laswitchtech.com/en/projects/pyrdpconnect/documentation/index?rev=1730919078&amp;do=diff) (today)
-- [Writr](https://laswitchtech.com/fr/projects/writr/index?rev=1730919039&amp;do=diff) (today)
+- [01.01. Syntaxe de mise en page - créée](https://laswitchtech.com/fr/projects/writr/documentation/01/01/index?rev=1730923102&amp;do=diff) (today)
+- [01. DokuWiki - créée](https://laswitchtech.com/fr/projects/writr/documentation/01/index?rev=1730923048&amp;do=diff) (today)
+- [Wrap](https://laswitchtech.com/en/projects/writr/documentation/03/01/wrap/index?rev=1730922891&amp;do=diff) (today)
+- [01.01. Formatting Syntax](https://laswitchtech.com/en/projects/writr/documentation/01/01/index?rev=1730922458&amp;do=diff) (today)
+- [- removed](https://laswitchtech.com/en/projects/writr/documentation/01/02/index?rev=1730922373&amp;do=diff) (today)
 
 ### :bar_chart: All the statistics
 
