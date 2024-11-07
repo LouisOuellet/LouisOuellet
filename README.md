@@ -7,8 +7,8 @@ I'm Louis Ouellet, welcome to my GitHub profile. From a very young age, I have b
 These are the projects I most recently worked on.
 
 
-- [LaswitchTech/ReverseSUM](https://github.com/LaswitchTech/ReverseSUM) - This web application is a versatile tool designed to find all possible combinations of individual line values that match given target totals. Users can input lists of totals and individual values, and the application will determine which combinations of values add up to each total. (5 days ago)
-- [LaswitchTech/coreBootstrap](https://github.com/LaswitchTech/coreBootstrap) - Bootstrap Library for the Laswitch Core Framework (5 days ago)
+- [LaswitchTech/ReverseSUM](https://github.com/LaswitchTech/ReverseSUM) - This web application is a versatile tool designed to find all possible combinations of individual line values that match given target totals. Users can input lists of totals and individual values, and the application will determine which combinations of values add up to each total. (6 days ago)
+- [LaswitchTech/coreBootstrap](https://github.com/LaswitchTech/coreBootstrap) - Bootstrap Library for the Laswitch Core Framework (6 days ago)
 - [giterlizzi/dokuwiki-plugin-icons](https://github.com/giterlizzi/dokuwiki-plugin-icons) - Icons Plugin for DokuWiki (1 week ago)
 - [LouisOuellet/dokuwiki_plugin_formula](https://github.com/LouisOuellet/dokuwiki_plugin_formula) - A Plugin that adds a formula field to the bureaucracy plugin. This field can be used to execute spreadsheet like formulas. (2 weeks ago)
 - [LouisOuellet/dokuwiki_plugin_tagbutton](https://github.com/LouisOuellet/dokuwiki_plugin_tagbutton) - Add a tag via a button (2 weeks ago)
@@ -23,11 +23,11 @@ These are the projects I most recently worked on.
 I blog at [laswitchtech.com](https://laswitchtech.com) for nearly two decades now. Here is what I have published recently.
 
 
-- [Ramener le Charme Original : Mises à Jour de Writr - créée](https://laswitchtech.com/fr/blog/2024/11/06/bringing-back-the-original-charm/updates-to-writr?rev=1730929292&amp;do=diff) (today)
-- [Bringing Back the Original Charm: Updates to Writr](https://laswitchtech.com/en/blog/2024/11/06/bringing-back-the-original-charm/updates-to-writr?rev=1730929171&amp;do=diff) (today)
-- [Améliorer la Réactivité Mobile : Mises à Jour de Writr](https://laswitchtech.com/fr/blog/2024/11/05/enhancing-mobile-responsiveness/updates-to-writr?rev=1730928372&amp;do=diff) (today)
-- [Enhancing Mobile Responsiveness: Updates to Writr](https://laswitchtech.com/en/blog/2024/11/05/enhancing-mobile-responsiveness/updates-to-writr?rev=1730928356&amp;do=diff) (today)
-- [01.01. Syntaxe de mise en page - créée](https://laswitchtech.com/fr/projects/writr/documentation/01/01/index?rev=1730923102&amp;do=diff) (today)
+- [Ramener le Charme Original : Mises à Jour de Writr - créée](https://laswitchtech.com/fr/blog/2024/11/06/bringing-back-the-original-charm/updates-to-writr?rev=1730929292&amp;do=diff) (1 day ago)
+- [Bringing Back the Original Charm: Updates to Writr](https://laswitchtech.com/en/blog/2024/11/06/bringing-back-the-original-charm/updates-to-writr?rev=1730929171&amp;do=diff) (1 day ago)
+- [Améliorer la Réactivité Mobile : Mises à Jour de Writr](https://laswitchtech.com/fr/blog/2024/11/05/enhancing-mobile-responsiveness/updates-to-writr?rev=1730928372&amp;do=diff) (1 day ago)
+- [Enhancing Mobile Responsiveness: Updates to Writr](https://laswitchtech.com/en/blog/2024/11/05/enhancing-mobile-responsiveness/updates-to-writr?rev=1730928356&amp;do=diff) (1 day ago)
+- [01.01. Syntaxe de mise en page - créée](https://laswitchtech.com/fr/projects/writr/documentation/01/01/index?rev=1730923102&amp;do=diff) (1 day ago)
 
 ### :bar_chart: All the statistics
 
