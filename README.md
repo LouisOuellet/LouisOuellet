@@ -23,11 +23,11 @@ These are the projects I most recently worked on.
 I blog at [laswitchtech.com](https://laswitchtech.com) for nearly two years now. Here is what I have published recently.
 
 
+- [Git --- Parlons-en - créée](https://laswitchtech.com/fr/blog/2024/11/07/git-let-s-talk-about-it?rev=1731007802&amp;do=diff) (today)
+- [Git --- Let&#39;s talk about it](https://laswitchtech.com/en/blog/2024/11/07/git-let-s-talk-about-it?rev=1731007547&amp;do=diff) (today)
 - [Améliorer la Réactivité Mobile : Mises à Jour de Writr](https://laswitchtech.com/fr/blog/2024/11/05/enhancing-mobile-responsiveness/updates-to-writr?rev=1730996472&amp;do=diff) (today)
 - [Résolution des problèmes de gel de la barre des tâches : Un guide complet](https://laswitchtech.com/fr/blog/2024/02/16/resolving-taskbar-freezing-issues?rev=1730996467&amp;do=diff) (today)
 - [Comment désactiver la télémétrie sur Windows 11](https://laswitchtech.com/fr/blog/2024/01/31/how-to-disable-telemetry-on-windows-11?rev=1730996462&amp;do=diff) (today)
-- [Comment désinstaller le Windows Store sur Windows 11](https://laswitchtech.com/fr/blog/2024/01/31/how-to-uninstall-windows-store-on-windows-11?rev=1730996456&amp;do=diff) (today)
-- [Comment empêcher un utilisateur de se connecter à un compte Microsoft sur Windows 11](https://laswitchtech.com/fr/blog/2024/01/31/how-to-prevent-user-from-signing-into-a-microsoft-account-on-windows-11?rev=1730996451&amp;do=diff) (today)
 
 ### :bar_chart: All the statistics
 
