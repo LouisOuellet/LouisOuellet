@@ -23,11 +23,11 @@ These are the projects I most recently worked on.
 I blog at [laswitchtech.com](https://laswitchtech.com) for nearly two years now. Here is what I have published recently.
 
 
+- [ReverseSUM](https://laswitchtech.com/fr/projects/reversesum/index?rev=1731012682&amp;do=diff) (today)
+- [ReverseSUM](https://laswitchtech.com/en/projects/reversesum/index?rev=1731012671&amp;do=diff) (today)
+- [Writr](https://laswitchtech.com/en/projects/writr/index?rev=1731012449&amp;do=diff) (today)
 - [Git --- Parlons-en - créée](https://laswitchtech.com/fr/blog/2024/11/07/git-let-s-talk-about-it?rev=1731007802&amp;do=diff) (today)
 - [Git --- Let&#39;s talk about it](https://laswitchtech.com/en/blog/2024/11/07/git-let-s-talk-about-it?rev=1731007547&amp;do=diff) (today)
-- [Améliorer la Réactivité Mobile : Mises à Jour de Writr](https://laswitchtech.com/fr/blog/2024/11/05/enhancing-mobile-responsiveness/updates-to-writr?rev=1730996472&amp;do=diff) (today)
-- [Résolution des problèmes de gel de la barre des tâches : Un guide complet](https://laswitchtech.com/fr/blog/2024/02/16/resolving-taskbar-freezing-issues?rev=1730996467&amp;do=diff) (today)
-- [Comment désactiver la télémétrie sur Windows 11](https://laswitchtech.com/fr/blog/2024/01/31/how-to-disable-telemetry-on-windows-11?rev=1730996462&amp;do=diff) (today)
 
 ### :bar_chart: All the statistics
 
