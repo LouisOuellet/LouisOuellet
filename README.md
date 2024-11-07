@@ -20,7 +20,7 @@ These are the projects I most recently worked on.
 
 ### :page_with_curl: My recent blog posts
 
-I blog at [laswitchtech.com](https://laswitchtech.com) for nearly two decades now. Here is what I have published recently.
+I blog at [laswitchtech.com](https://laswitchtech.com) for nearly two years now. Here is what I have published recently.
 
 
 - [Ramener le Charme Original : Mises à Jour de Writr - créée](https://laswitchtech.com/fr/blog/2024/11/06/bringing-back-the-original-charm/updates-to-writr?rev=1730929292&amp;do=diff) (1 day ago)
