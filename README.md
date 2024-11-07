@@ -7,8 +7,8 @@ I'm Louis Ouellet, welcome to my GitHub profile. From a very young age, I have b
 These are the projects I most recently worked on.
 
 
+- [LaswitchTech/ReverseSUM](https://github.com/LaswitchTech/ReverseSUM) - This web application is a versatile tool designed to find all possible combinations of individual line values that match given target totals. Users can input lists of totals and individual values, and the application will determine which combinations of values add up to each total. (today)
 - [LaswitchTech/coreBootstrap](https://github.com/LaswitchTech/coreBootstrap) - Bootstrap Library for the Laswitch Core Framework (6 days ago)
-- [LaswitchTech/ReverseSUM](https://github.com/LaswitchTech/ReverseSUM) - This web application is a versatile tool designed to find all possible combinations of individual line values that match given target totals. Users can input lists of totals and individual values, and the application will determine which combinations of values add up to each total. (6 days ago)
 - [giterlizzi/dokuwiki-plugin-icons](https://github.com/giterlizzi/dokuwiki-plugin-icons) - Icons Plugin for DokuWiki (1 week ago)
 - [LouisOuellet/dokuwiki_plugin_formula](https://github.com/LouisOuellet/dokuwiki_plugin_formula) - A Plugin that adds a formula field to the bureaucracy plugin. This field can be used to execute spreadsheet like formulas. (2 weeks ago)
 - [LouisOuellet/dokuwiki_plugin_taskextra](https://github.com/LouisOuellet/dokuwiki_plugin_taskextra) - Extra utilities for the task plugin (2 weeks ago)
