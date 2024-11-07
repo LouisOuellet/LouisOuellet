@@ -12,7 +12,7 @@ These are the projects I most recently worked on.
 
 ### :page_with_curl: My recent blog posts
 
-I blog at [laswitchtech.com](https://laswitchtech.com) for nearly two decades now. Here is what I have published recently.
+I blog at [laswitchtech.com](https://laswitchtech.com) for nearly two years now. Here is what I have published recently.
 
 {{range rss "https://laswitchtech.com/feed.php" 5}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
