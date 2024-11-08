@@ -23,11 +23,11 @@ These are the projects I most recently worked on.
 I blog at [laswitchtech.com](https://laswitchtech.com) for nearly two years now. Here is what I have published recently.
 
 
+- [Writr](https://laswitchtech.com/fr/projects/writr/index?rev=1731090722&amp;do=diff) (today)
+- [Writr](https://laswitchtech.com/en/projects/writr/index?rev=1731090717&amp;do=diff) (today)
+- [Améliorer la Réactivité sur Tablette : Mises à Jour de Writr v2024-11-08 - créée](https://laswitchtech.com/fr/blog/2024/11/08/enhancing-tablet-responsiveness/updates-to-writr-v2024-11-08?rev=1731089170&amp;do=diff) (today)
+- [Enhancing Tablet Responsiveness: Updates to Writr v2024-11-08](https://laswitchtech.com/en/blog/2024/11/08/enhancing-tablet-responsiveness/updates-to-writr-v2024-11-08?rev=1731089103&amp;do=diff) (today)
 - [mediamanager-05.png - created](https://laswitchtech.com/?image=en%3Aprojects%3Awritr%3Agallery%3Amediamanager-05.png&amp;ns=en%3Aprojects%3Awritr%3Agallery&amp;rev=1731084240&amp;tab_details=history&amp;media_do=diff&amp;do=media) (today)
-- [mediamanager-04.png - created](https://laswitchtech.com/?image=en%3Aprojects%3Awritr%3Agallery%3Amediamanager-04.png&amp;ns=en%3Aprojects%3Awritr%3Agallery&amp;rev=1731084240&amp;tab_details=history&amp;media_do=diff&amp;do=media) (today)
-- [mediamanager-03.png - created](https://laswitchtech.com/?image=en%3Aprojects%3Awritr%3Agallery%3Amediamanager-03.png&amp;ns=en%3Aprojects%3Awritr%3Agallery&amp;rev=1731084240&amp;tab_details=history&amp;media_do=diff&amp;do=media) (today)
-- [mediamanager-01.png - created](https://laswitchtech.com/?image=en%3Aprojects%3Awritr%3Agallery%3Amediamanager-01.png&amp;ns=en%3Aprojects%3Awritr%3Agallery&amp;rev=1731084240&amp;tab_details=history&amp;media_do=diff&amp;do=media) (today)
-- [mediamanager-02.png - created](https://laswitchtech.com/?image=en%3Aprojects%3Awritr%3Agallery%3Amediamanager-02.png&amp;ns=en%3Aprojects%3Awritr%3Agallery&amp;rev=1731084240&amp;tab_details=history&amp;media_do=diff&amp;do=media) (today)
 
 ### :bar_chart: All the statistics
 
