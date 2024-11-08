@@ -23,11 +23,11 @@ These are the projects I most recently worked on.
 I blog at [laswitchtech.com](https://laswitchtech.com) for nearly two years now. Here is what I have published recently.
 
 
-- [tablet-05.png - created](https://laswitchtech.com/?image=en%3Aprojects%3Awritr%3Agallery%3Atablet-05.png&amp;ns=en%3Aprojects%3Awritr%3Agallery&amp;rev=1731074831&amp;tab_details=history&amp;media_do=diff&amp;do=media) (today)
-- [tablet-04.png - created](https://laswitchtech.com/?image=en%3Aprojects%3Awritr%3Agallery%3Atablet-04.png&amp;ns=en%3Aprojects%3Awritr%3Agallery&amp;rev=1731074831&amp;tab_details=history&amp;media_do=diff&amp;do=media) (today)
-- [tablet-03.png - created](https://laswitchtech.com/?image=en%3Aprojects%3Awritr%3Agallery%3Atablet-03.png&amp;ns=en%3Aprojects%3Awritr%3Agallery&amp;rev=1731074831&amp;tab_details=history&amp;media_do=diff&amp;do=media) (today)
-- [tablet-01.png - created](https://laswitchtech.com/?image=en%3Aprojects%3Awritr%3Agallery%3Atablet-01.png&amp;ns=en%3Aprojects%3Awritr%3Agallery&amp;rev=1731074831&amp;tab_details=history&amp;media_do=diff&amp;do=media) (today)
-- [tablet-02.png - created](https://laswitchtech.com/?image=en%3Aprojects%3Awritr%3Agallery%3Atablet-02.png&amp;ns=en%3Aprojects%3Awritr%3Agallery&amp;rev=1731074831&amp;tab_details=history&amp;media_do=diff&amp;do=media) (today)
+- [mediamanager-05.png - created](https://laswitchtech.com/?image=en%3Aprojects%3Awritr%3Agallery%3Amediamanager-05.png&amp;ns=en%3Aprojects%3Awritr%3Agallery&amp;rev=1731084240&amp;tab_details=history&amp;media_do=diff&amp;do=media) (today)
+- [mediamanager-04.png - created](https://laswitchtech.com/?image=en%3Aprojects%3Awritr%3Agallery%3Amediamanager-04.png&amp;ns=en%3Aprojects%3Awritr%3Agallery&amp;rev=1731084240&amp;tab_details=history&amp;media_do=diff&amp;do=media) (today)
+- [mediamanager-03.png - created](https://laswitchtech.com/?image=en%3Aprojects%3Awritr%3Agallery%3Amediamanager-03.png&amp;ns=en%3Aprojects%3Awritr%3Agallery&amp;rev=1731084240&amp;tab_details=history&amp;media_do=diff&amp;do=media) (today)
+- [mediamanager-01.png - created](https://laswitchtech.com/?image=en%3Aprojects%3Awritr%3Agallery%3Amediamanager-01.png&amp;ns=en%3Aprojects%3Awritr%3Agallery&amp;rev=1731084240&amp;tab_details=history&amp;media_do=diff&amp;do=media) (today)
+- [mediamanager-02.png - created](https://laswitchtech.com/?image=en%3Aprojects%3Awritr%3Agallery%3Amediamanager-02.png&amp;ns=en%3Aprojects%3Awritr%3Agallery&amp;rev=1731084240&amp;tab_details=history&amp;media_do=diff&amp;do=media) (today)
 
 ### :bar_chart: All the statistics
 
