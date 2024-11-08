@@ -23,11 +23,11 @@ These are the projects I most recently worked on.
 I blog at [laswitchtech.com](https://laswitchtech.com) for nearly two years now. Here is what I have published recently.
 
 
-- [ReverseSUM](https://laswitchtech.com/fr/projects/reversesum/index?rev=1731012682&amp;do=diff) (1 day ago)
-- [ReverseSUM](https://laswitchtech.com/en/projects/reversesum/index?rev=1731012671&amp;do=diff) (1 day ago)
-- [Writr](https://laswitchtech.com/en/projects/writr/index?rev=1731012449&amp;do=diff) (1 day ago)
-- [Git --- Parlons-en - créée](https://laswitchtech.com/fr/blog/2024/11/07/git-let-s-talk-about-it?rev=1731007802&amp;do=diff) (1 day ago)
-- [Git --- Let&#39;s talk about it](https://laswitchtech.com/en/blog/2024/11/07/git-let-s-talk-about-it?rev=1731007547&amp;do=diff) (1 day ago)
+- [tablet-05.png - created](https://laswitchtech.com/?image=en%3Aprojects%3Awritr%3Agallery%3Atablet-05.png&amp;ns=en%3Aprojects%3Awritr%3Agallery&amp;rev=1731074831&amp;tab_details=history&amp;media_do=diff&amp;do=media) (today)
+- [tablet-04.png - created](https://laswitchtech.com/?image=en%3Aprojects%3Awritr%3Agallery%3Atablet-04.png&amp;ns=en%3Aprojects%3Awritr%3Agallery&amp;rev=1731074831&amp;tab_details=history&amp;media_do=diff&amp;do=media) (today)
+- [tablet-03.png - created](https://laswitchtech.com/?image=en%3Aprojects%3Awritr%3Agallery%3Atablet-03.png&amp;ns=en%3Aprojects%3Awritr%3Agallery&amp;rev=1731074831&amp;tab_details=history&amp;media_do=diff&amp;do=media) (today)
+- [tablet-01.png - created](https://laswitchtech.com/?image=en%3Aprojects%3Awritr%3Agallery%3Atablet-01.png&amp;ns=en%3Aprojects%3Awritr%3Agallery&amp;rev=1731074831&amp;tab_details=history&amp;media_do=diff&amp;do=media) (today)
+- [tablet-02.png - created](https://laswitchtech.com/?image=en%3Aprojects%3Awritr%3Agallery%3Atablet-02.png&amp;ns=en%3Aprojects%3Awritr%3Agallery&amp;rev=1731074831&amp;tab_details=history&amp;media_do=diff&amp;do=media) (today)
 
 ### :bar_chart: All the statistics
 
