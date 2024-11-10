@@ -7,7 +7,7 @@ I'm Louis Ouellet, welcome to my GitHub profile. From a very young age, I have b
 These are the projects I most recently worked on.
 
 
-- [LaswitchTech/ReverseSUM](https://github.com/LaswitchTech/ReverseSUM) - This web application is a versatile tool designed to find all possible combinations of individual line values that match given target totals. Users can input lists of totals and individual values, and the application will determine which combinations of values add up to each total. (2 days ago)
+- [LaswitchTech/ReverseSUM](https://github.com/LaswitchTech/ReverseSUM) - This web application is a versatile tool designed to find all possible combinations of individual line values that match given target totals. Users can input lists of totals and individual values, and the application will determine which combinations of values add up to each total. (3 days ago)
 - [LaswitchTech/coreBootstrap](https://github.com/LaswitchTech/coreBootstrap) - Bootstrap Library for the Laswitch Core Framework (1 week ago)
 - [giterlizzi/dokuwiki-plugin-icons](https://github.com/giterlizzi/dokuwiki-plugin-icons) - Icons Plugin for DokuWiki (1 week ago)
 - [LouisOuellet/dokuwiki_plugin_formula](https://github.com/LouisOuellet/dokuwiki_plugin_formula) - A Plugin that adds a formula field to the bureaucracy plugin. This field can be used to execute spreadsheet like formulas. (2 weeks ago)
@@ -23,11 +23,11 @@ These are the projects I most recently worked on.
 I blog at [laswitchtech.com](https://laswitchtech.com) for nearly two years now. Here is what I have published recently.
 
 
-- [Writr](https://laswitchtech.com/fr/projects/writr/index?rev=1731090722&amp;do=diff) (1 day ago)
-- [Writr](https://laswitchtech.com/en/projects/writr/index?rev=1731090717&amp;do=diff) (1 day ago)
-- [Améliorer la Réactivité sur Tablette : Mises à Jour de Writr v2024-11-08 - créée](https://laswitchtech.com/fr/blog/2024/11/08/enhancing-tablet-responsiveness/updates-to-writr-v2024-11-08?rev=1731089170&amp;do=diff) (1 day ago)
-- [Enhancing Tablet Responsiveness: Updates to Writr v2024-11-08](https://laswitchtech.com/en/blog/2024/11/08/enhancing-tablet-responsiveness/updates-to-writr-v2024-11-08?rev=1731089103&amp;do=diff) (1 day ago)
-- [mediamanager-05.png - created](https://laswitchtech.com/?image=en%3Aprojects%3Awritr%3Agallery%3Amediamanager-05.png&amp;ns=en%3Aprojects%3Awritr%3Agallery&amp;rev=1731084240&amp;tab_details=history&amp;media_do=diff&amp;do=media) (1 day ago)
+- [Writr](https://laswitchtech.com/fr/projects/writr/index?rev=1731090722&amp;do=diff) (2 days ago)
+- [Writr](https://laswitchtech.com/en/projects/writr/index?rev=1731090717&amp;do=diff) (2 days ago)
+- [Améliorer la Réactivité sur Tablette : Mises à Jour de Writr v2024-11-08 - créée](https://laswitchtech.com/fr/blog/2024/11/08/enhancing-tablet-responsiveness/updates-to-writr-v2024-11-08?rev=1731089170&amp;do=diff) (2 days ago)
+- [Enhancing Tablet Responsiveness: Updates to Writr v2024-11-08](https://laswitchtech.com/en/blog/2024/11/08/enhancing-tablet-responsiveness/updates-to-writr-v2024-11-08?rev=1731089103&amp;do=diff) (2 days ago)
+- [mediamanager-05.png - created](https://laswitchtech.com/?image=en%3Aprojects%3Awritr%3Agallery%3Amediamanager-05.png&amp;ns=en%3Aprojects%3Awritr%3Agallery&amp;rev=1731084240&amp;tab_details=history&amp;media_do=diff&amp;do=media) (2 days ago)
 
 ### :bar_chart: All the statistics
 
