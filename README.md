@@ -23,11 +23,11 @@ These are the projects I most recently worked on.
 I blog at [laswitchtech.com](https://laswitchtech.com) for nearly two years now. Here is what I have published recently.
 
 
-- [03.01. List](https://laswitchtech.com/en/projects/writr/documentation/03/01/index?rev=1731332365&amp;do=diff) (today)
-- [Home](https://laswitchtech.com/en/index?rev=1731331406&amp;do=diff) (today)
-- [Writr](https://laswitchtech.com/fr/projects/writr/index?rev=1731090722&amp;do=diff) (3 days ago)
-- [Writr](https://laswitchtech.com/en/projects/writr/index?rev=1731090717&amp;do=diff) (3 days ago)
-- [Améliorer la Réactivité sur Tablette : Mises à Jour de Writr v2024-11-08 - créée](https://laswitchtech.com/fr/blog/2024/11/08/enhancing-tablet-responsiveness/updates-to-writr-v2024-11-08?rev=1731089170&amp;do=diff) (3 days ago)
+- [Accueil](https://laswitchtech.com/fr/index?rev=1731340500&amp;do=diff) (today)
+- [Réinitialiser le mot de passe de votre utilisateur macOS](https://laswitchtech.com/fr/blog/2024/11/11/reset-your-macos-user-password?rev=1731340334&amp;do=diff) (today)
+- [Reset your macOS user password](https://laswitchtech.com/en/blog/2024/11/11/reset-your-macos-user-password?rev=1731340313&amp;do=diff) (today)
+- [macOS - créée](https://laswitchtech.com/fr/blog/tutorials/macos/index?rev=1731339072&amp;do=diff) (today)
+- [macOS - created](https://laswitchtech.com/en/blog/tutorials/macos/index?rev=1731339045&amp;do=diff) (today)
 
 ### :bar_chart: All the statistics
 
