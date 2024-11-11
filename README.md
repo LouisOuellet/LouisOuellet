@@ -23,11 +23,11 @@ These are the projects I most recently worked on.
 I blog at [laswitchtech.com](https://laswitchtech.com) for nearly two years now. Here is what I have published recently.
 
 
+- [03.01. List](https://laswitchtech.com/en/projects/writr/documentation/03/01/index?rev=1731332365&amp;do=diff) (today)
+- [Home](https://laswitchtech.com/en/index?rev=1731331406&amp;do=diff) (today)
 - [Writr](https://laswitchtech.com/fr/projects/writr/index?rev=1731090722&amp;do=diff) (3 days ago)
 - [Writr](https://laswitchtech.com/en/projects/writr/index?rev=1731090717&amp;do=diff) (3 days ago)
 - [Améliorer la Réactivité sur Tablette : Mises à Jour de Writr v2024-11-08 - créée](https://laswitchtech.com/fr/blog/2024/11/08/enhancing-tablet-responsiveness/updates-to-writr-v2024-11-08?rev=1731089170&amp;do=diff) (3 days ago)
-- [Enhancing Tablet Responsiveness: Updates to Writr v2024-11-08](https://laswitchtech.com/en/blog/2024/11/08/enhancing-tablet-responsiveness/updates-to-writr-v2024-11-08?rev=1731089103&amp;do=diff) (3 days ago)
-- [mediamanager-05.png - created](https://laswitchtech.com/?image=en%3Aprojects%3Awritr%3Agallery%3Amediamanager-05.png&amp;ns=en%3Aprojects%3Awritr%3Agallery&amp;rev=1731084240&amp;tab_details=history&amp;media_do=diff&amp;do=media) (3 days ago)
 
 ### :bar_chart: All the statistics
 
