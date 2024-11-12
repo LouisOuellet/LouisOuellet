@@ -9,7 +9,7 @@
             <th>Last commit</th>
         </tr>
         {{range recentContributions 10}}<tr>
-            <td>[{{.Repo.Name}}]({{.Repo.URL}})</td>
+            <td><a href="{{.Repo.URL}}">{{.Repo.Name}}</a></td>
             <td>{{.Repo.Description}}</td>
             <td>{{humanize .OccurredAt}}</td>
         </tr>{{- end}}
@@ -17,13 +17,13 @@
     <h2 align="left" style="border-bottom:0px; padding-bottom: 0px; margin-bottom: 32px;">:page_with_curl: I recently blogged about...</h2>
     <table align="left">
         {{range rss "https://laswitchtech.com/feed.php" 10}}<tr>
-            <td>[{{.Title}}]({{.URL}})</td>
+            <td><a href="{{.URL}}">{{.Title}}</a></td>
             <td>({{humanize .PublishedAt}})</td>
         </tr>{{- end}}
     </table>
     <h2 align="left" style="border-bottom:0px; padding-bottom: 0px; margin-bottom: 32px;">:bar_chart: All the statistics</h2>
     <div>
-        ![github stats](https://github-readme-stats.vercel.app/api?username=LouisOuellet&show_icons=true&rank_icon=github&hide_title=true&theme=holi)
-        ![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LouisOuellet&layout=donut&hide_title=true&theme=holi)
+        <img src="https://github-readme-stats.vercel.app/api?username=LouisOuellet&show_icons=true&rank_icon=github&hide_title=true&theme=holi" alt="github stats" style="float: left; margin-right: 16px;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LouisOuellet&layout=donut&hide_title=true&theme=holi" alt="top languages" style="float: left;">
     </div>
 </div>
