@@ -5,34 +5,28 @@
     <h2 style="border-bottom:0px; padding-bottom: 0px; margin-bottom: 0px;">:hammer: Check out what I'm currently working on</h2>
     <hr style="margin-bottom:32px;">
     <table align="left">
-        <thead>
-            <tr>
-                <th>Repository</th>
-                <th>Description</th>
-                <th>Last commit</th>
-            </tr>
-        </thead>
-        <tbody>
-            {{range recentContributions 10}}
-            <tr>
-                <td>[{{.Repo.Name}}]({{.Repo.URL}})</td>
-                <td>{{.Repo.Description}}</td>
-                <td>{{humanize .OccurredAt}}</td>
-            </tr>
-            {{- end}}
-        </tbody>
+        <tr>
+            <th>Repository</th>
+            <th>Description</th>
+            <th>Last commit</th>
+        </tr>
+        {{range recentContributions 10}}
+        <tr>
+            <td>[{{.Repo.Name}}]({{.Repo.URL}})</td>
+            <td>{{.Repo.Description}}</td>
+            <td>{{humanize .OccurredAt}}</td>
+        </tr>
+        {{- end}}
     </table>
     <h2 style="border-bottom:0px; padding-bottom: 0px; margin-bottom: 0px;">:page_with_curl: I recently blogged about...</h2>
     <hr style="margin-bottom:32px;">
     <table align="left">
-        <tbody>
-            {{range rss "https://laswitchtech.com/feed.php" 10}}
-            <tr>
-                <td>[{{.Title}}]({{.URL}})</td>
-                <td>({{humanize .PublishedAt}})</td>
-            </tr>
-            {{- end}}
-        </tbody>
+        {{range rss "https://laswitchtech.com/feed.php" 10}}
+        <tr>
+            <td>[{{.Title}}]({{.URL}})</td>
+            <td>({{humanize .PublishedAt}})</td>
+        </tr>
+        {{- end}}
     </table>
     <h2 style="border-bottom:0px; padding-bottom: 0px; margin-bottom: 0px;">:bar_chart: All the statistics</h2>
     <hr style="margin-bottom:32px;">
