@@ -9,12 +9,12 @@
         <h2 align="left">:page_with_curl: I recently blogged about...</h2>
         <table>
             <tr>
+                <th>Date</th>
                 <th>Blog Post</th>
-                <th>Last update</th>
             </tr>
             {{range rss "https://laswitchtech.com/lib/plugins/feed/feed.php?plugin=blog&fn=getBlog&ns=en%3Ablog&num=10&title=Blog" 10}}<tr>
-                <td><a href="{{.URL}}">{{.Title}}</a></td>
                 <td>{{humanize .PublishedAt}}</td>
+                <td><a href="{{.URL}}">{{.Title}}</a></td>
             </tr>
             {{- end}}
         </table>
@@ -23,14 +23,14 @@
         <h2 align="left">:hammer: Check out what I'm currently working on</h2>
         <table>
             <tr>
+                <th>Date</th>
                 <th>Repository</th>
                 <th>Description</th>
-                <th>Last commit</th>
             </tr>
             {{range recentContributions 10}}<tr>
+                <td>{{humanize .OccurredAt}}</td>
                 <td><a href="{{.Repo.URL}}">{{.Repo.Name}}</a></td>
                 <td>{{.Repo.Description}}</td>
-                <td>{{humanize .OccurredAt}}</td>
             </tr>
             {{- end}}
         </table>
