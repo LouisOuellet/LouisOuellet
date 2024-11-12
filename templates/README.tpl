@@ -12,7 +12,7 @@
                 <th>Blog Post</th>
                 <th>Last update</th>
             </tr>
-            {{range rss "https://laswitchtech.com/feed.php" 10}}<tr>
+            {{range rss "https://laswitchtech.com/lib/plugins/feed/feed.php?plugin=blog&fn=getBlog&ns=en%3Ablog&num=10&title=Blog" 10}}<tr>
                 <td><a href="{{.URL}}">{{.Title}}</a></td>
                 <td>{{humanize .PublishedAt}}</td>
             </tr>
