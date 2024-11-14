@@ -13,16 +13,16 @@
                 <th>Blog Post</th>
             </tr>
             <tr>
-                <td>1 day ago</td>
+                <td>2 days ago</td>
                 <td><a href="https://laswitchtech.com/en/blog/2024/11/12/adding-new-features/updates-to-writr-v2024-11-12#">Adding New Features: Updates to Writr v2024-11-12</a></td>
             </tr><tr>
-                <td>2 days ago</td>
+                <td>3 days ago</td>
                 <td><a href="https://laswitchtech.com/en/blog/2024/11/11/reset-your-macos-user-password#">Reset your macOS user password</a></td>
             </tr><tr>
-                <td>5 days ago</td>
+                <td>6 days ago</td>
                 <td><a href="https://laswitchtech.com/en/blog/2024/11/08/enhancing-tablet-responsiveness/updates-to-writr-v2024-11-08#">Enhancing Tablet Responsiveness: Updates to Writr v2024-11-08</a></td>
             </tr><tr>
-                <td>6 days ago</td>
+                <td>1 week ago</td>
                 <td><a href="https://laswitchtech.com/en/blog/2024/11/07/git-let-s-talk-about-it#">Git --- Let&#39;s talk about it</a></td>
             </tr><tr>
                 <td>1 week ago</td>
@@ -54,7 +54,7 @@
                 <th>Description</th>
             </tr>
             <tr>
-                <td>6 days ago</td>
+                <td>1 week ago</td>
                 <td><a href="https://github.com/LaswitchTech/ReverseSUM">LaswitchTech/ReverseSUM</a></td>
                 <td>This web application is a versatile tool designed to find all possible combinations of individual line values that match given target totals. Users can input lists of totals and individual values, and the application will determine which combinations of values add up to each total.</td>
             </tr><tr>
