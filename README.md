@@ -13,10 +13,10 @@
                 <th>Blog Post</th>
             </tr>
             <tr>
-                <td>4 days ago</td>
+                <td>5 days ago</td>
                 <td><a href="https://laswitchtech.com/en/blog/2024/11/12/adding-new-features/updates-to-writr-v2024-11-12#">Adding New Features: Updates to Writr v2024-11-12</a></td>
             </tr><tr>
-                <td>5 days ago</td>
+                <td>6 days ago</td>
                 <td><a href="https://laswitchtech.com/en/blog/2024/11/11/reset-your-macos-user-password#">Reset your macOS user password</a></td>
             </tr><tr>
                 <td>1 week ago</td>
@@ -70,11 +70,11 @@
                 <td><a href="https://github.com/LouisOuellet/dokuwiki_plugin_formula">LouisOuellet/dokuwiki_plugin_formula</a></td>
                 <td>A Plugin that adds a formula field to the bureaucracy plugin. This field can be used to execute spreadsheet like formulas.</td>
             </tr><tr>
-                <td>4 weeks ago</td>
+                <td>1 month ago</td>
                 <td><a href="https://github.com/LouisOuellet/dokuwiki_plugin_tagbutton">LouisOuellet/dokuwiki_plugin_tagbutton</a></td>
                 <td>Add a tag via a button</td>
             </tr><tr>
-                <td>4 weeks ago</td>
+                <td>1 month ago</td>
                 <td><a href="https://github.com/LouisOuellet/dokuwiki_plugin_taskextra">LouisOuellet/dokuwiki_plugin_taskextra</a></td>
                 <td>Extra utilities for the task plugin</td>
             </tr><tr>
