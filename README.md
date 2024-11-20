@@ -25,22 +25,22 @@
                 <td>1 week ago</td>
                 <td><a href="https://laswitchtech.com/en/blog/2024/11/07/git-let-s-talk-about-it#">Git --- Let&#39;s talk about it</a></td>
             </tr><tr>
-                <td>1 week ago</td>
+                <td>2 weeks ago</td>
                 <td><a href="https://laswitchtech.com/en/blog/2024/11/06/bringing-back-the-original-charm/updates-to-writr#">Bringing Back the Original Charm: Updates to Writr</a></td>
             </tr><tr>
                 <td>2 weeks ago</td>
                 <td><a href="https://laswitchtech.com/en/blog/2024/11/05/enhancing-mobile-responsiveness/updates-to-writr#">Enhancing Mobile Responsiveness: Updates to Writr</a></td>
             </tr><tr>
-                <td>2 weeks ago</td>
+                <td>3 weeks ago</td>
                 <td><a href="https://laswitchtech.com/en/blog/2024/02/16/resolving-taskbar-freezing-issues#">Resolving Taskbar Freezing Issues: A Comprehensive Guide</a></td>
             </tr><tr>
-                <td>2 weeks ago</td>
+                <td>3 weeks ago</td>
                 <td><a href="https://laswitchtech.com/en/blog/2024/01/31/how-to-disable-telemetry-on-windows-11#">How to disable Telemetry on Windows 11</a></td>
             </tr><tr>
-                <td>2 weeks ago</td>
+                <td>3 weeks ago</td>
                 <td><a href="https://laswitchtech.com/en/blog/2024/01/31/how-to-uninstall-windows-store-on-windows-11#">How to Uninstall Windows Store on Windows 11</a></td>
             </tr><tr>
-                <td>2 weeks ago</td>
+                <td>3 weeks ago</td>
                 <td><a href="https://laswitchtech.com/en/blog/2024/01/31/how-to-prevent-user-from-signing-into-a-microsoft-account-on-windows-11#">How to prevent user from signing into a Microsoft Account on Windows 11</a></td>
             </tr>
         </table>
@@ -54,7 +54,7 @@
                 <th>Description</th>
             </tr>
             <tr>
-                <td>today</td>
+                <td>1 day ago</td>
                 <td><a href="https://github.com/LaswitchTech/coreAuth">LaswitchTech/coreAuth</a></td>
                 <td>Authentication and Authorization Libraries for the Laswitch Core Framework</td>
             </tr><tr>
@@ -70,7 +70,7 @@
                 <td><a href="https://github.com/giterlizzi/dokuwiki-plugin-icons">giterlizzi/dokuwiki-plugin-icons</a></td>
                 <td>Icons Plugin for DokuWiki</td>
             </tr><tr>
-                <td>4 weeks ago</td>
+                <td>1 month ago</td>
                 <td><a href="https://github.com/LouisOuellet/dokuwiki_plugin_formula">LouisOuellet/dokuwiki_plugin_formula</a></td>
                 <td>A Plugin that adds a formula field to the bureaucracy plugin. This field can be used to execute spreadsheet like formulas.</td>
             </tr><tr>
