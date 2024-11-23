@@ -54,11 +54,15 @@
                 <th>Description</th>
             </tr>
             <tr>
-                <td>2 days ago</td>
+                <td>1 day ago</td>
+                <td><a href="https://github.com/LouisOuellet/rpnm">LouisOuellet/rpnm</a></td>
+                <td>Retro Poker Night Manager</td>
+            </tr><tr>
+                <td>3 days ago</td>
                 <td><a href="https://github.com/LaswitchTech/coreIMAP">LaswitchTech/coreIMAP</a></td>
                 <td>IMAP Library for the Laswitch Core Framework</td>
             </tr><tr>
-                <td>3 days ago</td>
+                <td>4 days ago</td>
                 <td><a href="https://github.com/LaswitchTech/coreAuth">LaswitchTech/coreAuth</a></td>
                 <td>Authentication and Authorization Libraries for the Laswitch Core Framework</td>
             </tr><tr>
@@ -89,10 +93,6 @@
                 <td>1 month ago</td>
                 <td><a href="https://github.com/LaswitchTech/PyRDPConnect">LaswitchTech/PyRDPConnect</a></td>
                 <td>PyRDPConnect is a cross-platform Python application designed to provide a sleek, modern, and efficient front-end interface for connecting to Remote Desktop (RDP) sessions. Built with PyQt5, the application supports both macOS and Linux, offering an intuitive and user-friendly experience for users who need to manage RDP connections.</td>
-            </tr><tr>
-                <td>2 months ago</td>
-                <td><a href="https://github.com/LaswitchTech/coreSMTP">LaswitchTech/coreSMTP</a></td>
-                <td>SMTP Library for the Laswitch Core Framework</td>
             </tr>
         </table>
     </p>
