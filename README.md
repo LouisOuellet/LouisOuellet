@@ -13,7 +13,7 @@
                 <th>Blog Post</th>
             </tr>
             <tr>
-                <td>1 week ago</td>
+                <td>2 weeks ago</td>
                 <td><a href="https://laswitchtech.com/en/blog/2024/11/12/adding-new-features/updates-to-writr-v2024-11-12#">Adding New Features: Updates to Writr v2024-11-12</a></td>
             </tr><tr>
                 <td>2 weeks ago</td>
@@ -28,7 +28,7 @@
                 <td>2 weeks ago</td>
                 <td><a href="https://laswitchtech.com/en/blog/2024/11/06/bringing-back-the-original-charm/updates-to-writr#">Bringing Back the Original Charm: Updates to Writr</a></td>
             </tr><tr>
-                <td>2 weeks ago</td>
+                <td>3 weeks ago</td>
                 <td><a href="https://laswitchtech.com/en/blog/2024/11/05/enhancing-mobile-responsiveness/updates-to-writr#">Enhancing Mobile Responsiveness: Updates to Writr</a></td>
             </tr><tr>
                 <td>3 weeks ago</td>
@@ -54,15 +54,15 @@
                 <th>Description</th>
             </tr>
             <tr>
-                <td>3 days ago</td>
+                <td>4 days ago</td>
                 <td><a href="https://github.com/LouisOuellet/rpnm">LouisOuellet/rpnm</a></td>
                 <td>Retro Poker Night Manager</td>
             </tr><tr>
-                <td>5 days ago</td>
+                <td>6 days ago</td>
                 <td><a href="https://github.com/LaswitchTech/coreIMAP">LaswitchTech/coreIMAP</a></td>
                 <td>IMAP Library for the Laswitch Core Framework</td>
             </tr><tr>
-                <td>6 days ago</td>
+                <td>1 week ago</td>
                 <td><a href="https://github.com/LaswitchTech/coreAuth">LaswitchTech/coreAuth</a></td>
                 <td>Authentication and Authorization Libraries for the Laswitch Core Framework</td>
             </tr><tr>
@@ -74,7 +74,7 @@
                 <td><a href="https://github.com/LaswitchTech/coreBootstrap">LaswitchTech/coreBootstrap</a></td>
                 <td>Bootstrap Library for the Laswitch Core Framework</td>
             </tr><tr>
-                <td>3 weeks ago</td>
+                <td>4 weeks ago</td>
                 <td><a href="https://github.com/giterlizzi/dokuwiki-plugin-icons">giterlizzi/dokuwiki-plugin-icons</a></td>
                 <td>Icons Plugin for DokuWiki</td>
             </tr><tr>
