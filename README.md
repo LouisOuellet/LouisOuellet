@@ -14,6 +14,9 @@
             </tr>
             <tr>
                 <td>today</td>
+                <td><a href="https://laswitchtech.com/en/blog/2024/11/27/how-to-install-remote-desktop-services-on-windows-server-2022#">How to Install Remote Desktop Services on Windows Server 2022</a></td>
+            </tr><tr>
+                <td>today</td>
                 <td><a href="https://laswitchtech.com/en/blog/2024/11/26/how-to-join-a-new-server-to-an-existing-domain#">How to Join a New Server to an Existing Domain</a></td>
             </tr><tr>
                 <td>2 weeks ago</td>
@@ -39,9 +42,6 @@
             </tr><tr>
                 <td>4 weeks ago</td>
                 <td><a href="https://laswitchtech.com/en/blog/2024/01/31/how-to-disable-telemetry-on-windows-11#">How to disable Telemetry on Windows 11</a></td>
-            </tr><tr>
-                <td>4 weeks ago</td>
-                <td><a href="https://laswitchtech.com/en/blog/2024/01/31/how-to-uninstall-windows-store-on-windows-11#">How to Uninstall Windows Store on Windows 11</a></td>
             </tr>
         </table>
     </p>
