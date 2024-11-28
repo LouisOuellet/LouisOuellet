@@ -54,6 +54,10 @@
                 <th>Description</th>
             </tr>
             <tr>
+                <td>today</td>
+                <td><a href="https://github.com/LaswitchTech/mysql-ini-configurator">LaswitchTech/mysql-ini-configurator</a></td>
+                <td>Configurator for MySQL on Windows</td>
+            </tr><tr>
                 <td>6 days ago</td>
                 <td><a href="https://github.com/LouisOuellet/rpnm">LouisOuellet/rpnm</a></td>
                 <td>Retro Poker Night Manager</td>
@@ -89,10 +93,6 @@
                 <td>1 month ago</td>
                 <td><a href="https://github.com/LouisOuellet/dokuwiki_plugin_taskextra">LouisOuellet/dokuwiki_plugin_taskextra</a></td>
                 <td>Extra utilities for the task plugin</td>
-            </tr><tr>
-                <td>1 month ago</td>
-                <td><a href="https://github.com/LaswitchTech/PyRDPConnect">LaswitchTech/PyRDPConnect</a></td>
-                <td>PyRDPConnect is a cross-platform Python application designed to provide a sleek, modern, and efficient front-end interface for connecting to Remote Desktop (RDP) sessions. Built with PyQt5, the application supports both macOS and Linux, offering an intuitive and user-friendly experience for users who need to manage RDP connections.</td>
             </tr>
         </table>
     </p>
