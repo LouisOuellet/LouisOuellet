@@ -87,12 +87,12 @@
                 <td>A Plugin that adds a formula field to the bureaucracy plugin. This field can be used to execute spreadsheet like formulas.</td>
             </tr><tr>
                 <td>1 month ago</td>
-                <td><a href="https://github.com/LouisOuellet/dokuwiki_plugin_tagbutton">LouisOuellet/dokuwiki_plugin_tagbutton</a></td>
-                <td>Add a tag via a button</td>
-            </tr><tr>
-                <td>1 month ago</td>
                 <td><a href="https://github.com/LouisOuellet/dokuwiki_plugin_taskextra">LouisOuellet/dokuwiki_plugin_taskextra</a></td>
                 <td>Extra utilities for the task plugin</td>
+            </tr><tr>
+                <td>1 month ago</td>
+                <td><a href="https://github.com/LouisOuellet/dokuwiki_plugin_tagbutton">LouisOuellet/dokuwiki_plugin_tagbutton</a></td>
+                <td>Add a tag via a button</td>
             </tr>
         </table>
     </p>
