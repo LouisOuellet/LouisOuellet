@@ -13,6 +13,9 @@
                 <th>Blog Post</th>
             </tr>
             <tr>
+                <td>today</td>
+                <td><a href="https://laswitchtech.com/en/blog/2024/11/29/announcing-mysql-ini-configurator-simplifying-mysql-configuration-management#">Announcing MySQL INI Configurator - Simplifying MySQL Configuration Management</a></td>
+            </tr><tr>
                 <td>2 days ago</td>
                 <td><a href="https://laswitchtech.com/en/blog/2024/11/27/how-to-install-remote-desktop-services-on-windows-server-2022#">How to Install Remote Desktop Services on Windows Server 2022</a></td>
             </tr><tr>
@@ -39,9 +42,6 @@
             </tr><tr>
                 <td>1 month ago</td>
                 <td><a href="https://laswitchtech.com/en/blog/2024/02/16/resolving-taskbar-freezing-issues#">Resolving Taskbar Freezing Issues: A Comprehensive Guide</a></td>
-            </tr><tr>
-                <td>1 month ago</td>
-                <td><a href="https://laswitchtech.com/en/blog/2024/01/31/how-to-disable-telemetry-on-windows-11#">How to disable Telemetry on Windows 11</a></td>
             </tr>
         </table>
     </p>
