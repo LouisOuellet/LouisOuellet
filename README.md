@@ -54,6 +54,10 @@
                 <th>Description</th>
             </tr>
             <tr>
+                <td>today</td>
+                <td><a href="https://github.com/LaswitchTech/ini-configurator">LaswitchTech/ini-configurator</a></td>
+                <td>Python Library to create configurators (INI Editors)</td>
+            </tr><tr>
                 <td>4 days ago</td>
                 <td><a href="https://github.com/LaswitchTech/mysql-ini-configurator">LaswitchTech/mysql-ini-configurator</a></td>
                 <td>Configurator for MySQL on Windows</td>
@@ -85,10 +89,6 @@
                 <td>1 month ago</td>
                 <td><a href="https://github.com/LouisOuellet/dokuwiki_plugin_formula">LouisOuellet/dokuwiki_plugin_formula</a></td>
                 <td>A Plugin that adds a formula field to the bureaucracy plugin. This field can be used to execute spreadsheet like formulas.</td>
-            </tr><tr>
-                <td>1 month ago</td>
-                <td><a href="https://github.com/LouisOuellet/dokuwiki_plugin_taskextra">LouisOuellet/dokuwiki_plugin_taskextra</a></td>
-                <td>Extra utilities for the task plugin</td>
             </tr><tr>
                 <td>1 month ago</td>
                 <td><a href="https://github.com/LouisOuellet/dokuwiki_plugin_tagbutton">LouisOuellet/dokuwiki_plugin_tagbutton</a></td>
