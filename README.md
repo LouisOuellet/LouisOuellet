@@ -54,7 +54,7 @@
                 <th>Description</th>
             </tr>
             <tr>
-                <td>1 day ago</td>
+                <td>today</td>
                 <td><a href="https://github.com/LaswitchTech/ini-configurator">LaswitchTech/ini-configurator</a></td>
                 <td>Python Library to create configurators (INI Editors)</td>
             </tr><tr>
@@ -91,8 +91,8 @@
                 <td>A Plugin that adds a formula field to the bureaucracy plugin. This field can be used to execute spreadsheet like formulas.</td>
             </tr><tr>
                 <td>1 month ago</td>
-                <td><a href="https://github.com/LouisOuellet/dokuwiki_plugin_tagbutton">LouisOuellet/dokuwiki_plugin_tagbutton</a></td>
-                <td>Add a tag via a button</td>
+                <td><a href="https://github.com/LouisOuellet/dokuwiki_plugin_taskextra">LouisOuellet/dokuwiki_plugin_taskextra</a></td>
+                <td>Extra utilities for the task plugin</td>
             </tr>
         </table>
     </p>
