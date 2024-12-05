@@ -55,12 +55,12 @@
             </tr>
             <tr>
                 <td>today</td>
-                <td><a href="https://github.com/LaswitchTech/ini-configurator">LaswitchTech/ini-configurator</a></td>
-                <td>Python Library to create configurators (INI Editors)</td>
-            </tr><tr>
-                <td>6 days ago</td>
                 <td><a href="https://github.com/LaswitchTech/mysql-ini-configurator">LaswitchTech/mysql-ini-configurator</a></td>
                 <td>Configurator for MySQL on Windows</td>
+            </tr><tr>
+                <td>today</td>
+                <td><a href="https://github.com/LaswitchTech/ini-configurator">LaswitchTech/ini-configurator</a></td>
+                <td>Python Library to create configurators (INI Editors)</td>
             </tr><tr>
                 <td>1 week ago</td>
                 <td><a href="https://github.com/LouisOuellet/rpnm">LouisOuellet/rpnm</a></td>
