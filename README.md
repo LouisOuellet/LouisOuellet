@@ -13,10 +13,10 @@
                 <th>Blog Post</th>
             </tr>
             <tr>
-                <td>5 days ago</td>
+                <td>6 days ago</td>
                 <td><a href="https://laswitchtech.com/en/blog/2024/11/29/how-to-publish-a-remote-application-using-windows-server-rds#">How to Publish a Remote Application using Windows Server RDS</a></td>
             </tr><tr>
-                <td>5 days ago</td>
+                <td>6 days ago</td>
                 <td><a href="https://laswitchtech.com/en/blog/2024/11/29/announcing-mysql-ini-configurator-simplifying-mysql-configuration-management#">Announcing MySQL INI Configurator - Simplifying MySQL Configuration Management</a></td>
             </tr><tr>
                 <td>1 week ago</td>
@@ -34,13 +34,13 @@
                 <td>3 weeks ago</td>
                 <td><a href="https://laswitchtech.com/en/blog/2024/11/08/enhancing-tablet-responsiveness/updates-to-writr-v2024-11-08#">Enhancing Tablet Responsiveness: Updates to Writr v2024-11-08</a></td>
             </tr><tr>
-                <td>3 weeks ago</td>
+                <td>4 weeks ago</td>
                 <td><a href="https://laswitchtech.com/en/blog/2024/11/07/git-let-s-talk-about-it#">Git --- Let&#39;s talk about it</a></td>
             </tr><tr>
                 <td>4 weeks ago</td>
                 <td><a href="https://laswitchtech.com/en/blog/2024/11/06/bringing-back-the-original-charm/updates-to-writr#">Bringing Back the Original Charm: Updates to Writr</a></td>
             </tr><tr>
-                <td>4 weeks ago</td>
+                <td>1 month ago</td>
                 <td><a href="https://laswitchtech.com/en/blog/2024/11/05/enhancing-mobile-responsiveness/updates-to-writr#">Enhancing Mobile Responsiveness: Updates to Writr</a></td>
             </tr>
         </table>
@@ -54,11 +54,11 @@
                 <th>Description</th>
             </tr>
             <tr>
-                <td>today</td>
+                <td>1 day ago</td>
                 <td><a href="https://github.com/LaswitchTech/ini-configurator">LaswitchTech/ini-configurator</a></td>
                 <td>Python Library to create configurators (INI Editors)</td>
             </tr><tr>
-                <td>5 days ago</td>
+                <td>6 days ago</td>
                 <td><a href="https://github.com/LaswitchTech/mysql-ini-configurator">LaswitchTech/mysql-ini-configurator</a></td>
                 <td>Configurator for MySQL on Windows</td>
             </tr><tr>
@@ -74,7 +74,7 @@
                 <td><a href="https://github.com/LaswitchTech/coreAuth">LaswitchTech/coreAuth</a></td>
                 <td>Authentication and Authorization Libraries for the Laswitch Core Framework</td>
             </tr><tr>
-                <td>3 weeks ago</td>
+                <td>4 weeks ago</td>
                 <td><a href="https://github.com/LaswitchTech/ReverseSUM">LaswitchTech/ReverseSUM</a></td>
                 <td>This web application is a versatile tool designed to find all possible combinations of individual line values that match given target totals. Users can input lists of totals and individual values, and the application will determine which combinations of values add up to each total.</td>
             </tr><tr>
