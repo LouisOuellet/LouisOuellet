@@ -13,6 +13,9 @@
                 <th>Blog Post</th>
             </tr>
             <tr>
+                <td>today</td>
+                <td><a href="https://laswitchtech.com/en/blog/2024/12/06/how-to-setup-server-backups-on-windows-server-2022#">How to Setup Server Backups on Windows Server 2022</a></td>
+            </tr><tr>
                 <td>1 week ago</td>
                 <td><a href="https://laswitchtech.com/en/blog/2024/11/29/how-to-publish-a-remote-application-using-windows-server-rds#">How to Publish a Remote Application using Windows Server RDS</a></td>
             </tr><tr>
@@ -39,9 +42,6 @@
             </tr><tr>
                 <td>1 month ago</td>
                 <td><a href="https://laswitchtech.com/en/blog/2024/11/06/bringing-back-the-original-charm/updates-to-writr#">Bringing Back the Original Charm: Updates to Writr</a></td>
-            </tr><tr>
-                <td>1 month ago</td>
-                <td><a href="https://laswitchtech.com/en/blog/2024/11/05/enhancing-mobile-responsiveness/updates-to-writr#">Enhancing Mobile Responsiveness: Updates to Writr</a></td>
             </tr>
         </table>
     </p>
