@@ -13,7 +13,7 @@
                 <th>Blog Post</th>
             </tr>
             <tr>
-                <td>1 day ago</td>
+                <td>2 days ago</td>
                 <td><a href="https://laswitchtech.com/en/blog/2024/12/06/how-to-setup-server-backups-on-windows-server-2022#">How to Setup Server Backups on Windows Server 2022</a></td>
             </tr><tr>
                 <td>1 week ago</td>
@@ -34,7 +34,7 @@
                 <td>3 weeks ago</td>
                 <td><a href="https://laswitchtech.com/en/blog/2024/11/11/reset-your-macos-user-password#">Reset your macOS user password</a></td>
             </tr><tr>
-                <td>4 weeks ago</td>
+                <td>1 month ago</td>
                 <td><a href="https://laswitchtech.com/en/blog/2024/11/08/enhancing-tablet-responsiveness/updates-to-writr-v2024-11-08#">Enhancing Tablet Responsiveness: Updates to Writr v2024-11-08</a></td>
             </tr><tr>
                 <td>1 month ago</td>
@@ -54,11 +54,11 @@
                 <th>Description</th>
             </tr>
             <tr>
-                <td>2 days ago</td>
+                <td>3 days ago</td>
                 <td><a href="https://github.com/LaswitchTech/mysql-ini-configurator">LaswitchTech/mysql-ini-configurator</a></td>
                 <td>Configurator for MySQL on Windows</td>
             </tr><tr>
-                <td>2 days ago</td>
+                <td>3 days ago</td>
                 <td><a href="https://github.com/LaswitchTech/ini-configurator">LaswitchTech/ini-configurator</a></td>
                 <td>Python Library to create configurators (INI Editors)</td>
             </tr><tr>
