@@ -13,6 +13,9 @@
                 <th>Blog Post</th>
             </tr>
             <tr>
+                <td>today</td>
+                <td><a href="https://laswitchtech.com/en/blog/2024/12/20/enhancing-your-dokuwiki-forms-with-custom-javascript-replacing-newlines-with-markdown-friendly-syntax#">Enhancing Your DokuWiki Forms with Custom JavaScript - Replacing Newlines with Markdown-Friendly Syntax</a></td>
+            </tr><tr>
                 <td>2 weeks ago</td>
                 <td><a href="https://laswitchtech.com/en/blog/2024/12/06/how-to-connect-an-iscsi-target-on-windows-server-2022#">How to Connect an iSCSI Target on Windows Server 2022</a></td>
             </tr><tr>
@@ -39,9 +42,6 @@
             </tr><tr>
                 <td>1 month ago</td>
                 <td><a href="https://laswitchtech.com/en/blog/2024/11/08/enhancing-tablet-responsiveness/updates-to-writr-v2024-11-08#">Enhancing Tablet Responsiveness: Updates to Writr v2024-11-08</a></td>
-            </tr><tr>
-                <td>1 month ago</td>
-                <td><a href="https://laswitchtech.com/en/blog/2024/11/07/git-let-s-talk-about-it#">Git --- Let&#39;s talk about it</a></td>
             </tr>
         </table>
     </p>
