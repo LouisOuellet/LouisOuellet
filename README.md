@@ -13,7 +13,7 @@
                 <th>Blog Post</th>
             </tr>
             <tr>
-                <td>3 days ago</td>
+                <td>4 days ago</td>
                 <td><a href="https://laswitchtech.com/en/blog/2024/12/20/enhancing-your-dokuwiki-forms-with-custom-javascript-replacing-newlines-with-markdown-friendly-syntax#">Enhancing Your DokuWiki Forms with Custom JavaScript - Replacing Newlines with Markdown-Friendly Syntax</a></td>
             </tr><tr>
                 <td>2 weeks ago</td>
@@ -54,7 +54,7 @@
                 <th>Description</th>
             </tr>
             <tr>
-                <td>5 days ago</td>
+                <td>6 days ago</td>
                 <td><a href="https://github.com/LaswitchTech/coreBootstrap">LaswitchTech/coreBootstrap</a></td>
                 <td>Bootstrap Library for the Laswitch Core Framework</td>
             </tr><tr>
