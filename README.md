@@ -13,25 +13,25 @@
                 <th>Blog Post</th>
             </tr>
             <tr>
-                <td>6 days ago</td>
+                <td>1 week ago</td>
                 <td><a href="https://laswitchtech.com/en/blog/2024/12/20/enhancing-your-dokuwiki-forms-with-custom-javascript-replacing-newlines-with-markdown-friendly-syntax#">Enhancing Your DokuWiki Forms with Custom JavaScript - Replacing Newlines with Markdown-Friendly Syntax</a></td>
             </tr><tr>
-                <td>2 weeks ago</td>
+                <td>3 weeks ago</td>
                 <td><a href="https://laswitchtech.com/en/blog/2024/12/06/how-to-connect-an-iscsi-target-on-windows-server-2022#">How to Connect an iSCSI Target on Windows Server 2022</a></td>
             </tr><tr>
-                <td>2 weeks ago</td>
+                <td>3 weeks ago</td>
                 <td><a href="https://laswitchtech.com/en/blog/2024/12/06/how-to-setup-server-backups-on-windows-server-2022#">How to Setup Server Backups on Windows Server 2022</a></td>
             </tr><tr>
-                <td>3 weeks ago</td>
+                <td>4 weeks ago</td>
                 <td><a href="https://laswitchtech.com/en/blog/2024/11/29/how-to-publish-a-remote-application-using-windows-server-rds#">How to Publish a Remote Application using Windows Server RDS</a></td>
             </tr><tr>
-                <td>3 weeks ago</td>
+                <td>4 weeks ago</td>
                 <td><a href="https://laswitchtech.com/en/blog/2024/11/29/announcing-mysql-ini-configurator-simplifying-mysql-configuration-management#">Announcing MySQL INI Configurator - Simplifying MySQL Configuration Management</a></td>
             </tr><tr>
-                <td>4 weeks ago</td>
+                <td>1 month ago</td>
                 <td><a href="https://laswitchtech.com/en/blog/2024/11/27/how-to-install-remote-desktop-services-on-windows-server-2022#">How to Install Remote Desktop Services on Windows Server 2022</a></td>
             </tr><tr>
-                <td>4 weeks ago</td>
+                <td>1 month ago</td>
                 <td><a href="https://laswitchtech.com/en/blog/2024/11/26/how-to-join-a-new-server-to-an-existing-domain#">How to Join a New Server to an Existing Domain</a></td>
             </tr><tr>
                 <td>1 month ago</td>
