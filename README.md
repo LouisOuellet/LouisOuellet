@@ -78,7 +78,7 @@
                 <td><a href="https://github.com/LaswitchTech/coreAuth">LaswitchTech/coreAuth</a></td>
                 <td>Authentication and Authorization Libraries for the Laswitch Core Framework</td>
             </tr><tr>
-                <td>1 month ago</td>
+                <td>2 months ago</td>
                 <td><a href="https://github.com/LaswitchTech/ReverseSUM">LaswitchTech/ReverseSUM</a></td>
                 <td>This web application is a versatile tool designed to find all possible combinations of individual line values that match given target totals. Users can input lists of totals and individual values, and the application will determine which combinations of values add up to each total.</td>
             </tr><tr>
