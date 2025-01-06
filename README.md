@@ -54,6 +54,10 @@
                 <th>Description</th>
             </tr>
             <tr>
+                <td>today</td>
+                <td><a href="https://github.com/LaswitchTech/PiToolBox">LaswitchTech/PiToolBox</a></td>
+                <td>A comprehensive toolbox for Raspberry Pi users.</td>
+            </tr><tr>
                 <td>2 weeks ago</td>
                 <td><a href="https://github.com/LaswitchTech/coreBootstrap">LaswitchTech/coreBootstrap</a></td>
                 <td>Bootstrap Library for the Laswitch Core Framework</td>
@@ -89,10 +93,6 @@
                 <td>2 months ago</td>
                 <td><a href="https://github.com/LouisOuellet/dokuwiki_plugin_formula">LouisOuellet/dokuwiki_plugin_formula</a></td>
                 <td>A Plugin that adds a formula field to the bureaucracy plugin. This field can be used to execute spreadsheet like formulas.</td>
-            </tr><tr>
-                <td>2 months ago</td>
-                <td><a href="https://github.com/LouisOuellet/dokuwiki_plugin_tagbutton">LouisOuellet/dokuwiki_plugin_tagbutton</a></td>
-                <td>Add a tag via a button</td>
             </tr>
         </table>
     </p>
