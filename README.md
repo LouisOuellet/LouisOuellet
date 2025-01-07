@@ -40,7 +40,7 @@
                 <td>1 month ago</td>
                 <td><a href="https://laswitchtech.com/en/blog/2024/11/11/reset-your-macos-user-password#">Reset your macOS user password</a></td>
             </tr><tr>
-                <td>1 month ago</td>
+                <td>2 months ago</td>
                 <td><a href="https://laswitchtech.com/en/blog/2024/11/08/enhancing-tablet-responsiveness/updates-to-writr-v2024-11-08#">Enhancing Tablet Responsiveness: Updates to Writr v2024-11-08</a></td>
             </tr>
         </table>
@@ -54,7 +54,7 @@
                 <th>Description</th>
             </tr>
             <tr>
-                <td>today</td>
+                <td>1 day ago</td>
                 <td><a href="https://github.com/LaswitchTech/PiToolBox">LaswitchTech/PiToolBox</a></td>
                 <td>A comprehensive toolbox for Raspberry Pi users.</td>
             </tr><tr>
