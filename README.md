@@ -54,6 +54,10 @@
                 <th>Description</th>
             </tr>
             <tr>
+                <td>today</td>
+                <td><a href="https://github.com/LaswitchTech/PyGUI">LaswitchTech/PyGUI</a></td>
+                <td>Graphical User Interface Library, a library of premade widgets</td>
+            </tr><tr>
                 <td>1 day ago</td>
                 <td><a href="https://github.com/LaswitchTech/PiToolBox">LaswitchTech/PiToolBox</a></td>
                 <td>A comprehensive toolbox for Raspberry Pi users.</td>
@@ -63,12 +67,12 @@
                 <td>Bootstrap Library for the Laswitch Core Framework</td>
             </tr><tr>
                 <td>1 month ago</td>
-                <td><a href="https://github.com/LaswitchTech/mysql-ini-configurator">LaswitchTech/mysql-ini-configurator</a></td>
-                <td>Configurator for MySQL on Windows</td>
-            </tr><tr>
-                <td>1 month ago</td>
                 <td><a href="https://github.com/LaswitchTech/ini-configurator">LaswitchTech/ini-configurator</a></td>
                 <td>Python Library to create configurators (INI Editors)</td>
+            </tr><tr>
+                <td>1 month ago</td>
+                <td><a href="https://github.com/LaswitchTech/mysql-ini-configurator">LaswitchTech/mysql-ini-configurator</a></td>
+                <td>Configurator for MySQL on Windows</td>
             </tr><tr>
                 <td>1 month ago</td>
                 <td><a href="https://github.com/LouisOuellet/rpnm">LouisOuellet/rpnm</a></td>
@@ -89,10 +93,6 @@
                 <td>2 months ago</td>
                 <td><a href="https://github.com/giterlizzi/dokuwiki-plugin-icons">giterlizzi/dokuwiki-plugin-icons</a></td>
                 <td>Icons Plugin for DokuWiki</td>
-            </tr><tr>
-                <td>2 months ago</td>
-                <td><a href="https://github.com/LouisOuellet/dokuwiki_plugin_formula">LouisOuellet/dokuwiki_plugin_formula</a></td>
-                <td>A Plugin that adds a formula field to the bureaucracy plugin. This field can be used to execute spreadsheet like formulas.</td>
             </tr>
         </table>
     </p>
