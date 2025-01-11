@@ -34,7 +34,7 @@
                 <td>1 month ago</td>
                 <td><a href="https://laswitchtech.com/en/blog/2024/11/26/how-to-join-a-new-server-to-an-existing-domain#">How to Join a New Server to an Existing Domain</a></td>
             </tr><tr>
-                <td>1 month ago</td>
+                <td>2 months ago</td>
                 <td><a href="https://laswitchtech.com/en/blog/2024/11/12/adding-new-features/updates-to-writr-v2024-11-12#">Adding New Features: Updates to Writr v2024-11-12</a></td>
             </tr><tr>
                 <td>2 months ago</td>
@@ -54,11 +54,11 @@
                 <th>Description</th>
             </tr>
             <tr>
-                <td>3 days ago</td>
+                <td>4 days ago</td>
                 <td><a href="https://github.com/LaswitchTech/PyGUI">LaswitchTech/PyGUI</a></td>
                 <td>Graphical User Interface Library, a library of premade widgets</td>
             </tr><tr>
-                <td>4 days ago</td>
+                <td>5 days ago</td>
                 <td><a href="https://github.com/LaswitchTech/PiToolBox">LaswitchTech/PiToolBox</a></td>
                 <td>A comprehensive toolbox for Raspberry Pi users.</td>
             </tr><tr>
