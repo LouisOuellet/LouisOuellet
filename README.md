@@ -54,7 +54,7 @@
                 <th>Description</th>
             </tr>
             <tr>
-                <td>6 days ago</td>
+                <td>1 week ago</td>
                 <td><a href="https://github.com/LaswitchTech/PyGUI">LaswitchTech/PyGUI</a></td>
                 <td>Graphical User Interface Library, a library of premade widgets</td>
             </tr><tr>
