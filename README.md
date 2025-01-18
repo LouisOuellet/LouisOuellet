@@ -54,7 +54,7 @@
                 <th>Description</th>
             </tr>
             <tr>
-                <td>today</td>
+                <td>1 day ago</td>
                 <td><a href="https://github.com/LaswitchTech/coreBootstrap">LaswitchTech/coreBootstrap</a></td>
                 <td>Bootstrap Library for the Laswitch Core Framework</td>
             </tr><tr>
@@ -82,7 +82,7 @@
                 <td><a href="https://github.com/LaswitchTech/coreIMAP">LaswitchTech/coreIMAP</a></td>
                 <td>IMAP Library for the Laswitch Core Framework</td>
             </tr><tr>
-                <td>1 month ago</td>
+                <td>2 months ago</td>
                 <td><a href="https://github.com/LaswitchTech/coreAuth">LaswitchTech/coreAuth</a></td>
                 <td>Authentication and Authorization Libraries for the Laswitch Core Framework</td>
             </tr><tr>
