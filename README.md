@@ -13,6 +13,9 @@
                 <th>Blog Post</th>
             </tr>
             <tr>
+                <td>1 day ago</td>
+                <td><a href="https://laswitchtech.com/en/blog/2025/01/20/repurpose-old-printers-using-a-raspberry-pi#">Repurpose Old Printers Using a Raspberry Pi</a></td>
+            </tr><tr>
                 <td>1 month ago</td>
                 <td><a href="https://laswitchtech.com/en/blog/2024/12/20/enhancing-your-dokuwiki-forms-with-custom-javascript-replacing-newlines-with-markdown-friendly-syntax#">Enhancing Your DokuWiki Forms with Custom JavaScript - Replacing Newlines with Markdown-Friendly Syntax</a></td>
             </tr><tr>
@@ -39,9 +42,6 @@
             </tr><tr>
                 <td>2 months ago</td>
                 <td><a href="https://laswitchtech.com/en/blog/2024/11/11/reset-your-macos-user-password#">Reset your macOS user password</a></td>
-            </tr><tr>
-                <td>2 months ago</td>
-                <td><a href="https://laswitchtech.com/en/blog/2024/11/08/enhancing-tablet-responsiveness/updates-to-writr-v2024-11-08#">Enhancing Tablet Responsiveness: Updates to Writr v2024-11-08</a></td>
             </tr>
         </table>
     </p>
