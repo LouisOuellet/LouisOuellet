@@ -54,6 +54,10 @@
                 <th>Description</th>
             </tr>
             <tr>
+                <td>today</td>
+                <td><a href="https://github.com/LaswitchTech/coreRouter">LaswitchTech/coreRouter</a></td>
+                <td>Router Library for the Laswitch Core Framework</td>
+            </tr><tr>
                 <td>6 days ago</td>
                 <td><a href="https://github.com/LaswitchTech/coreBootstrap">LaswitchTech/coreBootstrap</a></td>
                 <td>Bootstrap Library for the Laswitch Core Framework</td>
@@ -67,12 +71,12 @@
                 <td>A comprehensive toolbox for Raspberry Pi users.</td>
             </tr><tr>
                 <td>1 month ago</td>
-                <td><a href="https://github.com/LaswitchTech/ini-configurator">LaswitchTech/ini-configurator</a></td>
-                <td>Python Library to create configurators (INI Editors)</td>
-            </tr><tr>
-                <td>1 month ago</td>
                 <td><a href="https://github.com/LaswitchTech/mysql-ini-configurator">LaswitchTech/mysql-ini-configurator</a></td>
                 <td>Configurator for MySQL on Windows</td>
+            </tr><tr>
+                <td>1 month ago</td>
+                <td><a href="https://github.com/LaswitchTech/ini-configurator">LaswitchTech/ini-configurator</a></td>
+                <td>Python Library to create configurators (INI Editors)</td>
             </tr><tr>
                 <td>2 months ago</td>
                 <td><a href="https://github.com/LouisOuellet/rpnm">LouisOuellet/rpnm</a></td>
@@ -89,10 +93,6 @@
                 <td>2 months ago</td>
                 <td><a href="https://github.com/LaswitchTech/ReverseSUM">LaswitchTech/ReverseSUM</a></td>
                 <td>This web application is a versatile tool designed to find all possible combinations of individual line values that match given target totals. Users can input lists of totals and individual values, and the application will determine which combinations of values add up to each total.</td>
-            </tr><tr>
-                <td>2 months ago</td>
-                <td><a href="https://github.com/giterlizzi/dokuwiki-plugin-icons">giterlizzi/dokuwiki-plugin-icons</a></td>
-                <td>Icons Plugin for DokuWiki</td>
             </tr>
         </table>
     </p>
