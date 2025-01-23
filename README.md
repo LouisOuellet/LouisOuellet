@@ -55,6 +55,10 @@
             </tr>
             <tr>
                 <td>today</td>
+                <td><a href="https://github.com/LaswitchTech/core">LaswitchTech/core</a></td>
+                <td>Core Framework</td>
+            </tr><tr>
+                <td>today</td>
                 <td><a href="https://github.com/LaswitchTech/coreRouter">LaswitchTech/coreRouter</a></td>
                 <td>Router Library for the Laswitch Core Framework</td>
             </tr><tr>
@@ -89,10 +93,6 @@
                 <td>2 months ago</td>
                 <td><a href="https://github.com/LaswitchTech/coreIMAP">LaswitchTech/coreIMAP</a></td>
                 <td>IMAP Library for the Laswitch Core Framework</td>
-            </tr><tr>
-                <td>2 months ago</td>
-                <td><a href="https://github.com/LaswitchTech/coreAuth">LaswitchTech/coreAuth</a></td>
-                <td>Authentication and Authorization Libraries for the Laswitch Core Framework</td>
             </tr>
         </table>
     </p>
