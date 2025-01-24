@@ -13,6 +13,9 @@
                 <th>Blog Post</th>
             </tr>
             <tr>
+                <td>today</td>
+                <td><a href="https://laswitchtech.com/en/blog/2025/01/24/let-s-talk-building-a-modular-php-framework-from-scratch#">Let&#39;s Talk - Building a Modular PHP Framework from Scratch</a></td>
+            </tr><tr>
                 <td>4 days ago</td>
                 <td><a href="https://laswitchtech.com/en/blog/2025/01/20/repurpose-old-printers-using-a-raspberry-pi#">Repurpose Old Printers Using a Raspberry Pi</a></td>
             </tr><tr>
@@ -39,9 +42,6 @@
             </tr><tr>
                 <td>2 months ago</td>
                 <td><a href="https://laswitchtech.com/en/blog/2024/11/12/adding-new-features/updates-to-writr-v2024-11-12#">Adding New Features: Updates to Writr v2024-11-12</a></td>
-            </tr><tr>
-                <td>2 months ago</td>
-                <td><a href="https://laswitchtech.com/en/blog/2024/11/11/reset-your-macos-user-password#">Reset your macOS user password</a></td>
             </tr>
         </table>
     </p>
@@ -63,12 +63,12 @@
                 <td>Bootstrap Library for the core Framework</td>
             </tr><tr>
                 <td>1 day ago</td>
-                <td><a href="https://github.com/LaswitchTech/coreRouter">LaswitchTech/coreRouter</a></td>
-                <td>Router Library for the Laswitch Core Framework</td>
-            </tr><tr>
-                <td>1 day ago</td>
                 <td><a href="https://github.com/LaswitchTech/coreGUI">LaswitchTech/coreGUI</a></td>
                 <td>Graphical User Interface Library for the Laswitch Core Framework</td>
+            </tr><tr>
+                <td>1 day ago</td>
+                <td><a href="https://github.com/LaswitchTech/coreRouter">LaswitchTech/coreRouter</a></td>
+                <td>Router Library for the Laswitch Core Framework</td>
             </tr><tr>
                 <td>2 weeks ago</td>
                 <td><a href="https://github.com/LaswitchTech/PyGUI">LaswitchTech/PyGUI</a></td>
@@ -79,12 +79,12 @@
                 <td>A comprehensive toolbox for Raspberry Pi users.</td>
             </tr><tr>
                 <td>1 month ago</td>
-                <td><a href="https://github.com/LaswitchTech/ini-configurator">LaswitchTech/ini-configurator</a></td>
-                <td>Python Library to create configurators (INI Editors)</td>
-            </tr><tr>
-                <td>1 month ago</td>
                 <td><a href="https://github.com/LaswitchTech/mysql-ini-configurator">LaswitchTech/mysql-ini-configurator</a></td>
                 <td>Configurator for MySQL on Windows</td>
+            </tr><tr>
+                <td>1 month ago</td>
+                <td><a href="https://github.com/LaswitchTech/ini-configurator">LaswitchTech/ini-configurator</a></td>
+                <td>Python Library to create configurators (INI Editors)</td>
             </tr><tr>
                 <td>2 months ago</td>
                 <td><a href="https://github.com/LouisOuellet/rpnm">LouisOuellet/rpnm</a></td>
