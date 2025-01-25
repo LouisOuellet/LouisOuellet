@@ -63,12 +63,12 @@
                 <td>Bootstrap Library for the core Framework</td>
             </tr><tr>
                 <td>2 days ago</td>
-                <td><a href="https://github.com/LaswitchTech/coreGUI">LaswitchTech/coreGUI</a></td>
-                <td>Graphical User Interface Library for the Laswitch Core Framework</td>
-            </tr><tr>
-                <td>2 days ago</td>
                 <td><a href="https://github.com/LaswitchTech/coreRouter">LaswitchTech/coreRouter</a></td>
                 <td>Router Library for the Laswitch Core Framework</td>
+            </tr><tr>
+                <td>2 days ago</td>
+                <td><a href="https://github.com/LaswitchTech/coreGUI">LaswitchTech/coreGUI</a></td>
+                <td>Graphical User Interface Library for the Laswitch Core Framework</td>
             </tr><tr>
                 <td>2 weeks ago</td>
                 <td><a href="https://github.com/LaswitchTech/PyGUI">LaswitchTech/PyGUI</a></td>
