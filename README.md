@@ -13,10 +13,10 @@
                 <th>Blog Post</th>
             </tr>
             <tr>
-                <td>2 days ago</td>
+                <td>3 days ago</td>
                 <td><a href="https://laswitchtech.com/en/blog/2025/01/24/let-s-talk-building-a-modular-php-framework-from-scratch#">Let&#39;s Talk - Building a Modular PHP Framework from Scratch</a></td>
             </tr><tr>
-                <td>6 days ago</td>
+                <td>1 week ago</td>
                 <td><a href="https://laswitchtech.com/en/blog/2025/01/20/repurpose-old-printers-using-a-raspberry-pi#">Repurpose Old Printers Using a Raspberry Pi</a></td>
             </tr><tr>
                 <td>1 month ago</td>
@@ -54,19 +54,19 @@
                 <th>Description</th>
             </tr>
             <tr>
-                <td>2 days ago</td>
+                <td>3 days ago</td>
                 <td><a href="https://github.com/LaswitchTech/core">LaswitchTech/core</a></td>
                 <td>Core Framework</td>
             </tr><tr>
-                <td>3 days ago</td>
+                <td>4 days ago</td>
                 <td><a href="https://github.com/LaswitchTech/coreBootstrap">LaswitchTech/coreBootstrap</a></td>
                 <td>Bootstrap Library for the core Framework</td>
             </tr><tr>
-                <td>3 days ago</td>
+                <td>4 days ago</td>
                 <td><a href="https://github.com/LaswitchTech/coreGUI">LaswitchTech/coreGUI</a></td>
                 <td>Graphical User Interface Library for the Laswitch Core Framework</td>
             </tr><tr>
-                <td>3 days ago</td>
+                <td>4 days ago</td>
                 <td><a href="https://github.com/LaswitchTech/coreRouter">LaswitchTech/coreRouter</a></td>
                 <td>Router Library for the Laswitch Core Framework</td>
             </tr><tr>
@@ -74,7 +74,7 @@
                 <td><a href="https://github.com/LaswitchTech/PyGUI">LaswitchTech/PyGUI</a></td>
                 <td>Graphical User Interface Library, a library of premade widgets</td>
             </tr><tr>
-                <td>2 weeks ago</td>
+                <td>3 weeks ago</td>
                 <td><a href="https://github.com/LaswitchTech/PiToolBox">LaswitchTech/PiToolBox</a></td>
                 <td>A comprehensive toolbox for Raspberry Pi users.</td>
             </tr><tr>
