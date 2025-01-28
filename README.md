@@ -59,16 +59,16 @@
                 <td>Core Framework</td>
             </tr><tr>
                 <td>5 days ago</td>
+                <td><a href="https://github.com/LaswitchTech/coreRouter">LaswitchTech/coreRouter</a></td>
+                <td>Router Library for the Laswitch Core Framework</td>
+            </tr><tr>
+                <td>5 days ago</td>
                 <td><a href="https://github.com/LaswitchTech/coreBootstrap">LaswitchTech/coreBootstrap</a></td>
                 <td>Bootstrap Library for the core Framework</td>
             </tr><tr>
                 <td>5 days ago</td>
                 <td><a href="https://github.com/LaswitchTech/coreGUI">LaswitchTech/coreGUI</a></td>
                 <td>Graphical User Interface Library for the Laswitch Core Framework</td>
-            </tr><tr>
-                <td>5 days ago</td>
-                <td><a href="https://github.com/LaswitchTech/coreRouter">LaswitchTech/coreRouter</a></td>
-                <td>Router Library for the Laswitch Core Framework</td>
             </tr><tr>
                 <td>3 weeks ago</td>
                 <td><a href="https://github.com/LaswitchTech/PyGUI">LaswitchTech/PyGUI</a></td>
@@ -79,12 +79,12 @@
                 <td>A comprehensive toolbox for Raspberry Pi users.</td>
             </tr><tr>
                 <td>1 month ago</td>
-                <td><a href="https://github.com/LaswitchTech/ini-configurator">LaswitchTech/ini-configurator</a></td>
-                <td>Python Library to create configurators (INI Editors)</td>
-            </tr><tr>
-                <td>1 month ago</td>
                 <td><a href="https://github.com/LaswitchTech/mysql-ini-configurator">LaswitchTech/mysql-ini-configurator</a></td>
                 <td>Configurator for MySQL on Windows</td>
+            </tr><tr>
+                <td>1 month ago</td>
+                <td><a href="https://github.com/LaswitchTech/ini-configurator">LaswitchTech/ini-configurator</a></td>
+                <td>Python Library to create configurators (INI Editors)</td>
             </tr><tr>
                 <td>2 months ago</td>
                 <td><a href="https://github.com/LouisOuellet/rpnm">LouisOuellet/rpnm</a></td>
