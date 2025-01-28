@@ -13,6 +13,9 @@
                 <th>Blog Post</th>
             </tr>
             <tr>
+                <td>today</td>
+                <td><a href="https://laswitchtech.com/en/blog/2025/01/28/let-s-talk-building-a-modular-php-framework-part-2#">Let&#39;s Talk - Building a Modular PHP Framework part 2</a></td>
+            </tr><tr>
                 <td>1 day ago</td>
                 <td><a href="https://laswitchtech.com/en/blog/2025/01/27/let-s-talk-why-and-how-i-use-artificial-intelligence#">Let&#39;s Talk - Why and How I Use Artificial Intelligence</a></td>
             </tr><tr>
@@ -39,9 +42,6 @@
             </tr><tr>
                 <td>2 months ago</td>
                 <td><a href="https://laswitchtech.com/en/blog/2024/11/27/how-to-install-remote-desktop-services-on-windows-server-2022#">How to Install Remote Desktop Services on Windows Server 2022</a></td>
-            </tr><tr>
-                <td>2 months ago</td>
-                <td><a href="https://laswitchtech.com/en/blog/2024/11/26/how-to-join-a-new-server-to-an-existing-domain#">How to Join a New Server to an Existing Domain</a></td>
             </tr>
         </table>
     </p>
@@ -54,7 +54,7 @@
                 <th>Description</th>
             </tr>
             <tr>
-                <td>1 day ago</td>
+                <td>today</td>
                 <td><a href="https://github.com/LaswitchTech/core">LaswitchTech/core</a></td>
                 <td>Core Framework</td>
             </tr><tr>
