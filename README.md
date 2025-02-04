@@ -13,10 +13,10 @@
                 <th>Blog Post</th>
             </tr>
             <tr>
-                <td>today</td>
+                <td>1 day ago</td>
                 <td><a href="https://laswitchtech.com/en/blog/2025/02/03/let-s-talk-building-a-modular-php-framework-part-3#">Let&#39;s Talk - Building a Modular PHP Framework part 3</a></td>
             </tr><tr>
-                <td>6 days ago</td>
+                <td>1 week ago</td>
                 <td><a href="https://laswitchtech.com/en/blog/2025/01/28/let-s-talk-building-a-modular-php-framework-part-2#">Let&#39;s Talk - Building a Modular PHP Framework part 2</a></td>
             </tr><tr>
                 <td>1 week ago</td>
@@ -31,10 +31,10 @@
                 <td>1 month ago</td>
                 <td><a href="https://laswitchtech.com/en/blog/2024/12/20/enhancing-your-dokuwiki-forms-with-custom-javascript-replacing-newlines-with-markdown-friendly-syntax#">Enhancing Your DokuWiki Forms with Custom JavaScript - Replacing Newlines with Markdown-Friendly Syntax</a></td>
             </tr><tr>
-                <td>1 month ago</td>
+                <td>2 months ago</td>
                 <td><a href="https://laswitchtech.com/en/blog/2024/12/06/how-to-connect-an-iscsi-target-on-windows-server-2022#">How to Connect an iSCSI Target on Windows Server 2022</a></td>
             </tr><tr>
-                <td>1 month ago</td>
+                <td>2 months ago</td>
                 <td><a href="https://laswitchtech.com/en/blog/2024/12/06/how-to-setup-server-backups-on-windows-server-2022#">How to Setup Server Backups on Windows Server 2022</a></td>
             </tr><tr>
                 <td>2 months ago</td>
@@ -54,7 +54,7 @@
                 <th>Description</th>
             </tr>
             <tr>
-                <td>today</td>
+                <td>1 day ago</td>
                 <td><a href="https://github.com/LaswitchTech/core">LaswitchTech/core</a></td>
                 <td>Core Framework</td>
             </tr><tr>
@@ -70,7 +70,7 @@
                 <td><a href="https://github.com/LaswitchTech/coreGUI">LaswitchTech/coreGUI</a></td>
                 <td>Graphical User Interface Library for the Laswitch Core Framework</td>
             </tr><tr>
-                <td>3 weeks ago</td>
+                <td>4 weeks ago</td>
                 <td><a href="https://github.com/LaswitchTech/PyGUI">LaswitchTech/PyGUI</a></td>
                 <td>Graphical User Interface Library, a library of premade widgets</td>
             </tr><tr>
