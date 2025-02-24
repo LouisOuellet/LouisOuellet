@@ -13,13 +13,13 @@
                 <th>Blog Post</th>
             </tr>
             <tr>
-                <td>2 weeks ago</td>
+                <td>3 weeks ago</td>
                 <td><a href="https://laswitchtech.com/en/blog/2025/02/03/let-s-talk-building-a-modular-php-framework-part-3#">Let&#39;s Talk - Building a Modular PHP Framework part 3</a></td>
             </tr><tr>
                 <td>3 weeks ago</td>
                 <td><a href="https://laswitchtech.com/en/blog/2025/01/28/let-s-talk-building-a-modular-php-framework-part-2#">Let&#39;s Talk - Building a Modular PHP Framework part 2</a></td>
             </tr><tr>
-                <td>3 weeks ago</td>
+                <td>4 weeks ago</td>
                 <td><a href="https://laswitchtech.com/en/blog/2025/01/27/let-s-talk-why-and-how-i-use-artificial-intelligence#">Let&#39;s Talk - Why and How I Use Artificial Intelligence</a></td>
             </tr><tr>
                 <td>1 month ago</td>
