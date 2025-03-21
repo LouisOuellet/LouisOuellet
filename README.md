@@ -25,7 +25,7 @@
                 <td>1 month ago</td>
                 <td><a href="https://laswitchtech.com/en/blog/2025/01/24/let-s-talk-building-a-modular-php-framework-from-scratch#">Let&#39;s Talk - Building a Modular PHP Framework from Scratch</a></td>
             </tr><tr>
-                <td>1 month ago</td>
+                <td>2 months ago</td>
                 <td><a href="https://laswitchtech.com/en/blog/2025/01/20/repurpose-old-printers-using-a-raspberry-pi#">Repurpose Old Printers Using a Raspberry Pi</a></td>
             </tr><tr>
                 <td>3 months ago</td>
@@ -54,7 +54,7 @@
                 <th>Description</th>
             </tr>
             <tr>
-                <td>1 day ago</td>
+                <td>2 days ago</td>
                 <td><a href="https://github.com/LaswitchTech/coreIRC">LaswitchTech/coreIRC</a></td>
                 <td>IRC Server and Client</td>
             </tr><tr>
