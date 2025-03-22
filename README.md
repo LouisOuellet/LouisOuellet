@@ -54,7 +54,7 @@
                 <th>Description</th>
             </tr>
             <tr>
-                <td>today</td>
+                <td>1 day ago</td>
                 <td><a href="https://github.com/LaswitchTech/coreIRC">LaswitchTech/coreIRC</a></td>
                 <td>IRC Server and Client</td>
             </tr><tr>
@@ -90,7 +90,7 @@
                 <td><a href="https://github.com/LaswitchTech/mysql-ini-configurator">LaswitchTech/mysql-ini-configurator</a></td>
                 <td>Configurator for MySQL on Windows</td>
             </tr><tr>
-                <td>3 months ago</td>
+                <td>4 months ago</td>
                 <td><a href="https://github.com/LouisOuellet/rpnm">LouisOuellet/rpnm</a></td>
                 <td>Retro Poker Night Manager</td>
             </tr>
