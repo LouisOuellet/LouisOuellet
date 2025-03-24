@@ -54,7 +54,7 @@
                 <th>Description</th>
             </tr>
             <tr>
-                <td>2 days ago</td>
+                <td>3 days ago</td>
                 <td><a href="https://github.com/LaswitchTech/coreIRC">LaswitchTech/coreIRC</a></td>
                 <td>IRC Server and Client</td>
             </tr><tr>
@@ -62,15 +62,15 @@
                 <td><a href="https://github.com/LaswitchTech/core">LaswitchTech/core</a></td>
                 <td>Core Framework</td>
             </tr><tr>
-                <td>1 month ago</td>
+                <td>2 months ago</td>
                 <td><a href="https://github.com/LaswitchTech/coreGUI">LaswitchTech/coreGUI</a></td>
                 <td>Graphical User Interface Library for the Laswitch Core Framework</td>
             </tr><tr>
-                <td>1 month ago</td>
+                <td>2 months ago</td>
                 <td><a href="https://github.com/LaswitchTech/coreBootstrap">LaswitchTech/coreBootstrap</a></td>
                 <td>Bootstrap Library for the core Framework</td>
             </tr><tr>
-                <td>1 month ago</td>
+                <td>2 months ago</td>
                 <td><a href="https://github.com/LaswitchTech/coreRouter">LaswitchTech/coreRouter</a></td>
                 <td>Router Library for the Laswitch Core Framework</td>
             </tr><tr>
