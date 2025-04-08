@@ -54,6 +54,10 @@
                 <th>Description</th>
             </tr>
             <tr>
+                <td>today</td>
+                <td><a href="https://github.com/cosmocode/dokuwiki-plugin-publish">cosmocode/dokuwiki-plugin-publish</a></td>
+                <td>Some improvements on the original plugin by Jarrod Lowe</td>
+            </tr><tr>
                 <td>1 day ago</td>
                 <td><a href="https://github.com/LaswitchTech/core">LaswitchTech/core</a></td>
                 <td>Core Framework</td>
@@ -63,16 +67,16 @@
                 <td>IRC Server and Client</td>
             </tr><tr>
                 <td>2 months ago</td>
-                <td><a href="https://github.com/LaswitchTech/coreRouter">LaswitchTech/coreRouter</a></td>
-                <td>Router Library for the Laswitch Core Framework</td>
-            </tr><tr>
-                <td>2 months ago</td>
                 <td><a href="https://github.com/LaswitchTech/coreGUI">LaswitchTech/coreGUI</a></td>
                 <td>Graphical User Interface Library for the Laswitch Core Framework</td>
             </tr><tr>
                 <td>2 months ago</td>
                 <td><a href="https://github.com/LaswitchTech/coreBootstrap">LaswitchTech/coreBootstrap</a></td>
                 <td>Bootstrap Library for the core Framework</td>
+            </tr><tr>
+                <td>2 months ago</td>
+                <td><a href="https://github.com/LaswitchTech/coreRouter">LaswitchTech/coreRouter</a></td>
+                <td>Router Library for the Laswitch Core Framework</td>
             </tr><tr>
                 <td>3 months ago</td>
                 <td><a href="https://github.com/LaswitchTech/PyGUI">LaswitchTech/PyGUI</a></td>
@@ -83,16 +87,12 @@
                 <td>A comprehensive toolbox for Raspberry Pi users.</td>
             </tr><tr>
                 <td>4 months ago</td>
-                <td><a href="https://github.com/LaswitchTech/mysql-ini-configurator">LaswitchTech/mysql-ini-configurator</a></td>
-                <td>Configurator for MySQL on Windows</td>
-            </tr><tr>
-                <td>4 months ago</td>
                 <td><a href="https://github.com/LaswitchTech/ini-configurator">LaswitchTech/ini-configurator</a></td>
                 <td>Python Library to create configurators (INI Editors)</td>
             </tr><tr>
                 <td>4 months ago</td>
-                <td><a href="https://github.com/LouisOuellet/rpnm">LouisOuellet/rpnm</a></td>
-                <td>Retro Poker Night Manager</td>
+                <td><a href="https://github.com/LaswitchTech/mysql-ini-configurator">LaswitchTech/mysql-ini-configurator</a></td>
+                <td>Configurator for MySQL on Windows</td>
             </tr>
         </table>
     </p>
