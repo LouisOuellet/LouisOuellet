@@ -55,16 +55,20 @@
             </tr>
             <tr>
                 <td>1 day ago</td>
-                <td><a href="https://github.com/LaswitchTech/core">LaswitchTech/core</a></td>
-                <td>Core Framework</td>
-            </tr><tr>
-                <td>1 day ago</td>
                 <td><a href="https://github.com/cosmocode/dokuwiki-plugin-publish">cosmocode/dokuwiki-plugin-publish</a></td>
                 <td>Some improvements on the original plugin by Jarrod Lowe</td>
+            </tr><tr>
+                <td>1 day ago</td>
+                <td><a href="https://github.com/LaswitchTech/core">LaswitchTech/core</a></td>
+                <td>Core Framework</td>
             </tr><tr>
                 <td>2 weeks ago</td>
                 <td><a href="https://github.com/LaswitchTech/coreIRC">LaswitchTech/coreIRC</a></td>
                 <td>IRC Server and Client</td>
+            </tr><tr>
+                <td>2 months ago</td>
+                <td><a href="https://github.com/LaswitchTech/coreRouter">LaswitchTech/coreRouter</a></td>
+                <td>Router Library for the Laswitch Core Framework</td>
             </tr><tr>
                 <td>2 months ago</td>
                 <td><a href="https://github.com/LaswitchTech/coreGUI">LaswitchTech/coreGUI</a></td>
@@ -73,10 +77,6 @@
                 <td>2 months ago</td>
                 <td><a href="https://github.com/LaswitchTech/coreBootstrap">LaswitchTech/coreBootstrap</a></td>
                 <td>Bootstrap Library for the core Framework</td>
-            </tr><tr>
-                <td>2 months ago</td>
-                <td><a href="https://github.com/LaswitchTech/coreRouter">LaswitchTech/coreRouter</a></td>
-                <td>Router Library for the Laswitch Core Framework</td>
             </tr><tr>
                 <td>3 months ago</td>
                 <td><a href="https://github.com/LaswitchTech/PyGUI">LaswitchTech/PyGUI</a></td>
