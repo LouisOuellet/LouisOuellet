@@ -54,15 +54,15 @@
                 <th>Description</th>
             </tr>
             <tr>
-                <td>today</td>
+                <td>1 day ago</td>
                 <td><a href="https://github.com/LaswitchTech/core">LaswitchTech/core</a></td>
                 <td>Core Framework</td>
             </tr><tr>
-                <td>2 days ago</td>
+                <td>3 days ago</td>
                 <td><a href="https://github.com/cosmocode/dokuwiki-plugin-publish">cosmocode/dokuwiki-plugin-publish</a></td>
                 <td>Some improvements on the original plugin by Jarrod Lowe</td>
             </tr><tr>
-                <td>2 weeks ago</td>
+                <td>3 weeks ago</td>
                 <td><a href="https://github.com/LaswitchTech/coreIRC">LaswitchTech/coreIRC</a></td>
                 <td>IRC Server and Client</td>
             </tr><tr>
