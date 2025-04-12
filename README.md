@@ -54,11 +54,11 @@
                 <th>Description</th>
             </tr>
             <tr>
-                <td>1 day ago</td>
+                <td>2 days ago</td>
                 <td><a href="https://github.com/LaswitchTech/core">LaswitchTech/core</a></td>
                 <td>Core Framework</td>
             </tr><tr>
-                <td>3 days ago</td>
+                <td>4 days ago</td>
                 <td><a href="https://github.com/cosmocode/dokuwiki-plugin-publish">cosmocode/dokuwiki-plugin-publish</a></td>
                 <td>Some improvements on the original plugin by Jarrod Lowe</td>
             </tr><tr>
