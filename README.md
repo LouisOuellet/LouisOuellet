@@ -28,7 +28,7 @@
                 <td>3 months ago</td>
                 <td><a href="https://laswitchtech.com/en/blog/2025/01/20/repurpose-old-printers-using-a-raspberry-pi#">Repurpose Old Printers Using a Raspberry Pi</a></td>
             </tr><tr>
-                <td>4 months ago</td>
+                <td>5 months ago</td>
                 <td><a href="https://laswitchtech.com/en/blog/2024/12/20/enhancing-your-dokuwiki-forms-with-custom-javascript-replacing-newlines-with-markdown-friendly-syntax#">Enhancing Your DokuWiki Forms with Custom JavaScript - Replacing Newlines with Markdown-Friendly Syntax</a></td>
             </tr><tr>
                 <td>5 months ago</td>
@@ -54,7 +54,7 @@
                 <th>Description</th>
             </tr>
             <tr>
-                <td>2 days ago</td>
+                <td>3 days ago</td>
                 <td><a href="https://github.com/LaswitchTech/core">LaswitchTech/core</a></td>
                 <td>Core Framework</td>
             </tr><tr>
