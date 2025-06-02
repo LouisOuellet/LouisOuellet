@@ -54,6 +54,10 @@
                 <th>Description</th>
             </tr>
             <tr>
+                <td>today</td>
+                <td><a href="https://github.com/LaswitchTech/core-extensions">LaswitchTech/core-extensions</a></td>
+                <td>Core Plugin - Manage installed modules, plugins, and themes.</td>
+            </tr><tr>
                 <td>2 weeks ago</td>
                 <td><a href="https://github.com/LaswitchTech/core">LaswitchTech/core</a></td>
                 <td>Core Framework</td>
@@ -89,10 +93,6 @@
                 <td>6 months ago</td>
                 <td><a href="https://github.com/LaswitchTech/ReverseSUM">LaswitchTech/ReverseSUM</a></td>
                 <td>This web application is a versatile tool designed to find all possible combinations of individual line values that match given target totals. Users can input lists of totals and individual values, and the application will determine which combinations of values add up to each total.</td>
-            </tr><tr>
-                <td>7 months ago</td>
-                <td><a href="https://github.com/giterlizzi/dokuwiki-plugin-icons">giterlizzi/dokuwiki-plugin-icons</a></td>
-                <td>Icons Plugin for DokuWiki</td>
             </tr>
         </table>
     </p>
