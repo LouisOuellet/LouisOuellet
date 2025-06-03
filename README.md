@@ -54,8 +54,12 @@
                 <th>Description</th>
             </tr>
             <tr>
+                <td>today</td>
+                <td><a href="https://github.com/LaswitchTech/core-plugin-updater">LaswitchTech/core-plugin-updater</a></td>
+                <td>Core Plugin - Update the application</td>
+            </tr><tr>
                 <td>1 day ago</td>
-                <td><a href="https://github.com/LaswitchTech/core-extensions">LaswitchTech/core-extensions</a></td>
+                <td><a href="https://github.com/LaswitchTech/core-plugin-extensions">LaswitchTech/core-plugin-extensions</a></td>
                 <td>Core Plugin - Manage installed modules, plugins, and themes.</td>
             </tr><tr>
                 <td>2 weeks ago</td>
@@ -89,10 +93,6 @@
                 <td>6 months ago</td>
                 <td><a href="https://github.com/LouisOuellet/rpnm">LouisOuellet/rpnm</a></td>
                 <td>Retro Poker Night Manager</td>
-            </tr><tr>
-                <td>6 months ago</td>
-                <td><a href="https://github.com/LaswitchTech/ReverseSUM">LaswitchTech/ReverseSUM</a></td>
-                <td>This web application is a versatile tool designed to find all possible combinations of individual line values that match given target totals. Users can input lists of totals and individual values, and the application will determine which combinations of values add up to each total.</td>
             </tr>
         </table>
     </p>
