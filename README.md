@@ -58,7 +58,7 @@
                 <td><a href="https://github.com/LaswitchTech/core-plugin-updater">LaswitchTech/core-plugin-updater</a></td>
                 <td>Core Plugin - Update the application</td>
             </tr><tr>
-                <td>1 day ago</td>
+                <td>today</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-extensions">LaswitchTech/core-plugin-extensions</a></td>
                 <td>Core Plugin - Manage installed modules, plugins, and themes.</td>
             </tr><tr>
@@ -83,12 +83,12 @@
                 <td>A comprehensive toolbox for Raspberry Pi users.</td>
             </tr><tr>
                 <td>6 months ago</td>
-                <td><a href="https://github.com/LaswitchTech/ini-configurator">LaswitchTech/ini-configurator</a></td>
-                <td>Python Library to create configurators (INI Editors)</td>
-            </tr><tr>
-                <td>6 months ago</td>
                 <td><a href="https://github.com/LaswitchTech/mysql-ini-configurator">LaswitchTech/mysql-ini-configurator</a></td>
                 <td>Configurator for MySQL on Windows</td>
+            </tr><tr>
+                <td>6 months ago</td>
+                <td><a href="https://github.com/LaswitchTech/ini-configurator">LaswitchTech/ini-configurator</a></td>
+                <td>Python Library to create configurators (INI Editors)</td>
             </tr><tr>
                 <td>6 months ago</td>
                 <td><a href="https://github.com/LouisOuellet/rpnm">LouisOuellet/rpnm</a></td>
