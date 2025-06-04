@@ -31,10 +31,10 @@
                 <td>5 months ago</td>
                 <td><a href="https://laswitchtech.com/en/blog/2024/12/20/enhancing-your-dokuwiki-forms-with-custom-javascript-replacing-newlines-with-markdown-friendly-syntax#">Enhancing Your DokuWiki Forms with Custom JavaScript - Replacing Newlines with Markdown-Friendly Syntax</a></td>
             </tr><tr>
-                <td>5 months ago</td>
+                <td>6 months ago</td>
                 <td><a href="https://laswitchtech.com/en/blog/2024/12/06/how-to-connect-an-iscsi-target-on-windows-server-2022#">How to Connect an iSCSI Target on Windows Server 2022</a></td>
             </tr><tr>
-                <td>5 months ago</td>
+                <td>6 months ago</td>
                 <td><a href="https://laswitchtech.com/en/blog/2024/12/06/how-to-setup-server-backups-on-windows-server-2022#">How to Setup Server Backups on Windows Server 2022</a></td>
             </tr><tr>
                 <td>6 months ago</td>
@@ -54,11 +54,19 @@
                 <th>Description</th>
             </tr>
             <tr>
-                <td>today</td>
+                <td>1 day ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-updater">LaswitchTech/core-plugin-updater</a></td>
                 <td>Core Plugin - Update the application</td>
             </tr><tr>
-                <td>today</td>
+                <td>1 day ago</td>
+                <td><a href="https://github.com/LaswitchTech/core-module-administration">LaswitchTech/core-module-administration</a></td>
+                <td>Core Module - Contains access to multiple administration plugins.</td>
+            </tr><tr>
+                <td>1 day ago</td>
+                <td><a href="https://github.com/LaswitchTech/core-module-application">LaswitchTech/core-module-application</a></td>
+                <td>Core Module - Contains access to multiple application plugins.</td>
+            </tr><tr>
+                <td>1 day ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-extensions">LaswitchTech/core-plugin-extensions</a></td>
                 <td>Core Plugin - Manage installed modules, plugins, and themes.</td>
             </tr><tr>
@@ -85,14 +93,6 @@
                 <td>6 months ago</td>
                 <td><a href="https://github.com/LaswitchTech/mysql-ini-configurator">LaswitchTech/mysql-ini-configurator</a></td>
                 <td>Configurator for MySQL on Windows</td>
-            </tr><tr>
-                <td>6 months ago</td>
-                <td><a href="https://github.com/LaswitchTech/ini-configurator">LaswitchTech/ini-configurator</a></td>
-                <td>Python Library to create configurators (INI Editors)</td>
-            </tr><tr>
-                <td>6 months ago</td>
-                <td><a href="https://github.com/LouisOuellet/rpnm">LouisOuellet/rpnm</a></td>
-                <td>Retro Poker Night Manager</td>
             </tr>
         </table>
     </p>
