@@ -54,19 +54,19 @@
                 <th>Description</th>
             </tr>
             <tr>
-                <td>3 days ago</td>
-                <td><a href="https://github.com/LaswitchTech/core-module-administration">LaswitchTech/core-module-administration</a></td>
-                <td>Core Module - Contains access to multiple administration plugins.</td>
-            </tr><tr>
-                <td>3 days ago</td>
-                <td><a href="https://github.com/LaswitchTech/core-module-application">LaswitchTech/core-module-application</a></td>
-                <td>Core Module - Contains access to multiple application plugins.</td>
-            </tr><tr>
-                <td>4 days ago</td>
+                <td>today</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-updater">LaswitchTech/core-plugin-updater</a></td>
                 <td>Core Plugin - Update the application</td>
             </tr><tr>
-                <td>4 days ago</td>
+                <td>today</td>
+                <td><a href="https://github.com/LaswitchTech/core-module-administration">LaswitchTech/core-module-administration</a></td>
+                <td>Core Module - Contains access to multiple administration plugins.</td>
+            </tr><tr>
+                <td>today</td>
+                <td><a href="https://github.com/LaswitchTech/core-module-application">LaswitchTech/core-module-application</a></td>
+                <td>Core Module - Contains access to multiple application plugins.</td>
+            </tr><tr>
+                <td>today</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-extensions">LaswitchTech/core-plugin-extensions</a></td>
                 <td>Core Plugin - Manage installed modules, plugins, and themes.</td>
             </tr><tr>
