@@ -55,16 +55,16 @@
             </tr>
             <tr>
                 <td>6 days ago</td>
-                <td><a href="https://github.com/LaswitchTech/core-plugin-process">LaswitchTech/core-plugin-process</a></td>
-                <td>Core Plugin - Manage Task&#39;s Processes</td>
+                <td><a href="https://github.com/LaswitchTech/core-plugin-roles">LaswitchTech/core-plugin-roles</a></td>
+                <td>Core Plugin - Manage Roles and Permissions</td>
             </tr><tr>
                 <td>6 days ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-builder">LaswitchTech/core-plugin-builder</a></td>
                 <td>Core Plugin - Component Builder</td>
             </tr><tr>
                 <td>6 days ago</td>
-                <td><a href="https://github.com/LaswitchTech/core-plugin-profile">LaswitchTech/core-plugin-profile</a></td>
-                <td>Core Plugin - Manage your Profile</td>
+                <td><a href="https://github.com/LaswitchTech/core-plugin-widgets">LaswitchTech/core-plugin-widgets</a></td>
+                <td>Core Plugin - Toolbar including various Widgets.</td>
             </tr><tr>
                 <td>6 days ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-vcards">LaswitchTech/core-plugin-vcards</a></td>
@@ -87,12 +87,12 @@
                 <td>Core Plugin - Menu</td>
             </tr><tr>
                 <td>6 days ago</td>
-                <td><a href="https://github.com/LaswitchTech/core-plugin-widgets">LaswitchTech/core-plugin-widgets</a></td>
-                <td>Core Plugin - Toolbar including various Widgets.</td>
-            </tr><tr>
-                <td>6 days ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-search">LaswitchTech/core-plugin-search</a></td>
                 <td>Core Plugin - Search Indexer</td>
+            </tr><tr>
+                <td>6 days ago</td>
+                <td><a href="https://github.com/LaswitchTech/core-plugin-relationship">LaswitchTech/core-plugin-relationship</a></td>
+                <td>Core Plugin - Manage Relationships</td>
             </tr>
         </table>
     </p>
