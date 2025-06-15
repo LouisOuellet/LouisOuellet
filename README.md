@@ -54,45 +54,45 @@
                 <th>Description</th>
             </tr>
             <tr>
-                <td>1 day ago</td>
-                <td><a href="https://github.com/LaswitchTech/core-plugin-updater">LaswitchTech/core-plugin-updater</a></td>
-                <td>Core Plugin - Update the application</td>
+                <td>6 days ago</td>
+                <td><a href="https://github.com/LaswitchTech/core-plugin-process">LaswitchTech/core-plugin-process</a></td>
+                <td>Core Plugin - Manage Task&#39;s Processes</td>
             </tr><tr>
-                <td>1 day ago</td>
-                <td><a href="https://github.com/LaswitchTech/core-module-administration">LaswitchTech/core-module-administration</a></td>
-                <td>Core Module - Contains access to multiple administration plugins.</td>
+                <td>6 days ago</td>
+                <td><a href="https://github.com/LaswitchTech/core-plugin-builder">LaswitchTech/core-plugin-builder</a></td>
+                <td>Core Plugin - Component Builder</td>
             </tr><tr>
-                <td>1 day ago</td>
-                <td><a href="https://github.com/LaswitchTech/core-module-application">LaswitchTech/core-module-application</a></td>
-                <td>Core Module - Contains access to multiple application plugins.</td>
+                <td>6 days ago</td>
+                <td><a href="https://github.com/LaswitchTech/core-plugin-profile">LaswitchTech/core-plugin-profile</a></td>
+                <td>Core Plugin - Manage your Profile</td>
             </tr><tr>
-                <td>1 day ago</td>
-                <td><a href="https://github.com/LaswitchTech/core-plugin-extensions">LaswitchTech/core-plugin-extensions</a></td>
-                <td>Core Plugin - Manage installed modules, plugins, and themes.</td>
+                <td>6 days ago</td>
+                <td><a href="https://github.com/LaswitchTech/core-plugin-vcards">LaswitchTech/core-plugin-vcards</a></td>
+                <td>Core Plugin - Add vCards to your application</td>
             </tr><tr>
-                <td>3 weeks ago</td>
-                <td><a href="https://github.com/LaswitchTech/core">LaswitchTech/core</a></td>
-                <td>Core Framework</td>
+                <td>6 days ago</td>
+                <td><a href="https://github.com/LaswitchTech/core-plugin-users">LaswitchTech/core-plugin-users</a></td>
+                <td>Core Plugin - Manage Users and Colleagues</td>
             </tr><tr>
-                <td>2 months ago</td>
-                <td><a href="https://github.com/cosmocode/dokuwiki-plugin-publish">cosmocode/dokuwiki-plugin-publish</a></td>
-                <td>Some improvements on the original plugin by Jarrod Lowe</td>
+                <td>6 days ago</td>
+                <td><a href="https://github.com/LaswitchTech/core-plugin-tasks">LaswitchTech/core-plugin-tasks</a></td>
+                <td>Core Plugin - Manage Tasks</td>
             </tr><tr>
-                <td>2 months ago</td>
-                <td><a href="https://github.com/LaswitchTech/coreIRC">LaswitchTech/coreIRC</a></td>
-                <td>IRC Server and Client</td>
+                <td>6 days ago</td>
+                <td><a href="https://github.com/LaswitchTech/core-plugin-tags">LaswitchTech/core-plugin-tags</a></td>
+                <td>Core Plugin - Manage Tags</td>
             </tr><tr>
-                <td>5 months ago</td>
-                <td><a href="https://github.com/LaswitchTech/PyGUI">LaswitchTech/PyGUI</a></td>
-                <td>Graphical User Interface Library, a library of premade widgets</td>
+                <td>6 days ago</td>
+                <td><a href="https://github.com/LaswitchTech/core-plugin-security">LaswitchTech/core-plugin-security</a></td>
+                <td>Core Plugin - Menu</td>
             </tr><tr>
-                <td>5 months ago</td>
-                <td><a href="https://github.com/LaswitchTech/PiToolBox">LaswitchTech/PiToolBox</a></td>
-                <td>A comprehensive toolbox for Raspberry Pi users.</td>
+                <td>6 days ago</td>
+                <td><a href="https://github.com/LaswitchTech/core-plugin-widgets">LaswitchTech/core-plugin-widgets</a></td>
+                <td>Core Plugin - Toolbar including various Widgets.</td>
             </tr><tr>
-                <td>6 months ago</td>
-                <td><a href="https://github.com/LaswitchTech/ini-configurator">LaswitchTech/ini-configurator</a></td>
-                <td>Python Library to create configurators (INI Editors)</td>
+                <td>6 days ago</td>
+                <td><a href="https://github.com/LaswitchTech/core-plugin-search">LaswitchTech/core-plugin-search</a></td>
+                <td>Core Plugin - Search Indexer</td>
             </tr>
         </table>
     </p>
