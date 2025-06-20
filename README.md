@@ -54,9 +54,13 @@
                 <th>Description</th>
             </tr>
             <tr>
-                <td>today</td>
+                <td>1 day ago</td>
                 <td><a href="https://github.com/LaswitchTech/text-to-mp3">LaswitchTech/text-to-mp3</a></td>
                 <td>Python script that converts text into audio</td>
+            </tr><tr>
+                <td>1 week ago</td>
+                <td><a href="https://github.com/LaswitchTech/core-plugin-roles">LaswitchTech/core-plugin-roles</a></td>
+                <td>Core Plugin - Manage Roles and Permissions</td>
             </tr><tr>
                 <td>1 week ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-builder">LaswitchTech/core-plugin-builder</a></td>
@@ -73,10 +77,6 @@
                 <td>1 week ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-users">LaswitchTech/core-plugin-users</a></td>
                 <td>Core Plugin - Manage Users and Colleagues</td>
-            </tr><tr>
-                <td>1 week ago</td>
-                <td><a href="https://github.com/LaswitchTech/core-plugin-tasks">LaswitchTech/core-plugin-tasks</a></td>
-                <td>Core Plugin - Manage Tasks</td>
             </tr><tr>
                 <td>1 week ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-tags">LaswitchTech/core-plugin-tags</a></td>
