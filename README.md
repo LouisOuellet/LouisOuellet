@@ -55,8 +55,16 @@
             </tr>
             <tr>
                 <td>today</td>
+                <td><a href="https://github.com/LaswitchTech/core-plugin-logger">LaswitchTech/core-plugin-logger</a></td>
+                <td>Core Plugin - Log Viewer and Editor</td>
+            </tr><tr>
+                <td>today</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-ollama">LaswitchTech/core-plugin-ollama</a></td>
                 <td>Core Plugin - Ollama Integration</td>
+            </tr><tr>
+                <td>today</td>
+                <td><a href="https://github.com/LaswitchTech/core-plugin-organizations">LaswitchTech/core-plugin-organizations</a></td>
+                <td>Core Plugin - Manage Organizations</td>
             </tr><tr>
                 <td>today</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-maintenance">LaswitchTech/core-plugin-maintenance</a></td>
@@ -67,32 +75,24 @@
                 <td>Core Plugin - Manage Notes</td>
             </tr><tr>
                 <td>today</td>
-                <td><a href="https://github.com/LaswitchTech/core-plugin-organizations">LaswitchTech/core-plugin-organizations</a></td>
-                <td>Core Plugin - Manage Organizations</td>
-            </tr><tr>
-                <td>today</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-panel">LaswitchTech/core-plugin-panel</a></td>
                 <td>Core Plugin - Control Panel</td>
+            </tr><tr>
+                <td>today</td>
+                <td><a href="https://github.com/LaswitchTech/core-plugin-library">LaswitchTech/core-plugin-library</a></td>
+                <td>Core Plugin - Library Menu for Development</td>
             </tr><tr>
                 <td>5 days ago</td>
                 <td><a href="https://github.com/LaswitchTech/text-to-mp3">LaswitchTech/text-to-mp3</a></td>
                 <td>Python script that converts text into audio</td>
             </tr><tr>
                 <td>2 weeks ago</td>
-                <td><a href="https://github.com/LaswitchTech/core-plugin-profile">LaswitchTech/core-plugin-profile</a></td>
-                <td>Core Plugin - Manage your Profile</td>
+                <td><a href="https://github.com/LaswitchTech/core-plugin-vcards">LaswitchTech/core-plugin-vcards</a></td>
+                <td>Core Plugin - Add vCards to your application</td>
             </tr><tr>
                 <td>2 weeks ago</td>
-                <td><a href="https://github.com/LaswitchTech/core-plugin-tasks">LaswitchTech/core-plugin-tasks</a></td>
-                <td>Core Plugin - Manage Tasks</td>
-            </tr><tr>
-                <td>2 weeks ago</td>
-                <td><a href="https://github.com/LaswitchTech/core-plugin-users">LaswitchTech/core-plugin-users</a></td>
-                <td>Core Plugin - Manage Users and Colleagues</td>
-            </tr><tr>
-                <td>2 weeks ago</td>
-                <td><a href="https://github.com/LaswitchTech/core-plugin-backups">LaswitchTech/core-plugin-backups</a></td>
-                <td>Core Plugin - Backup the application</td>
+                <td><a href="https://github.com/LaswitchTech/core-plugin-builder">LaswitchTech/core-plugin-builder</a></td>
+                <td>Core Plugin - Component Builder</td>
             </tr>
         </table>
     </p>
