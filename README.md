@@ -54,13 +54,33 @@
                 <th>Description</th>
             </tr>
             <tr>
-                <td>1 day ago</td>
-                <td><a href="https://github.com/LaswitchTech/core-plugin-clients">LaswitchTech/core-plugin-clients</a></td>
-                <td>Core Plugin - Clients Management</td>
+                <td>today</td>
+                <td><a href="https://github.com/LaswitchTech/core">LaswitchTech/core</a></td>
+                <td>Core Framework</td>
+            </tr><tr>
+                <td>today</td>
+                <td><a href="https://github.com/LaswitchTech/core-module-core">LaswitchTech/core-module-core</a></td>
+                <td>Core Module - Core</td>
             </tr><tr>
                 <td>1 day ago</td>
-                <td><a href="https://github.com/LaswitchTech/core-plugin-files">LaswitchTech/core-plugin-files</a></td>
-                <td>Core Plugin - File Management</td>
+                <td><a href="https://github.com/LaswitchTech/core-plugin-followups">LaswitchTech/core-plugin-followups</a></td>
+                <td>Core Plugin - Follow-Ups Management</td>
+            </tr><tr>
+                <td>1 day ago</td>
+                <td><a href="https://github.com/LaswitchTech/core-plugin-playground">LaswitchTech/core-plugin-playground</a></td>
+                <td>Core Plugin - Playground Environment</td>
+            </tr><tr>
+                <td>1 day ago</td>
+                <td><a href="https://github.com/LaswitchTech/core-plugin-industries">LaswitchTech/core-plugin-industries</a></td>
+                <td>Core Plugin - Industries</td>
+            </tr><tr>
+                <td>1 day ago</td>
+                <td><a href="https://github.com/LaswitchTech/core-plugin-installer">LaswitchTech/core-plugin-installer</a></td>
+                <td>Core Plugin - Installer for your application</td>
+            </tr><tr>
+                <td>1 day ago</td>
+                <td><a href="https://github.com/LaswitchTech/core-plugin-library">LaswitchTech/core-plugin-library</a></td>
+                <td>Core Plugin - Library Menu for Development</td>
             </tr><tr>
                 <td>1 day ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-logger">LaswitchTech/core-plugin-logger</a></td>
@@ -71,28 +91,8 @@
                 <td>Core Plugin - Nextcloud Integration</td>
             </tr><tr>
                 <td>1 day ago</td>
-                <td><a href="https://github.com/LaswitchTech/core-plugin-playground">LaswitchTech/core-plugin-playground</a></td>
-                <td>Core Plugin - Playground Environment</td>
-            </tr><tr>
-                <td>1 day ago</td>
-                <td><a href="https://github.com/LaswitchTech/core-plugin-dev">LaswitchTech/core-plugin-dev</a></td>
-                <td>Core Plugin - Development Tools</td>
-            </tr><tr>
-                <td>1 day ago</td>
-                <td><a href="https://github.com/LaswitchTech/core-plugin-documents">LaswitchTech/core-plugin-documents</a></td>
-                <td>Core Plugin - Documents Management</td>
-            </tr><tr>
-                <td>1 day ago</td>
-                <td><a href="https://github.com/LaswitchTech/core-plugin-event">LaswitchTech/core-plugin-event</a></td>
-                <td>Core Plugin - Events Management</td>
-            </tr><tr>
-                <td>1 day ago</td>
-                <td><a href="https://github.com/LaswitchTech/core-plugin-installer">LaswitchTech/core-plugin-installer</a></td>
-                <td>Core Plugin - Installer for your application</td>
-            </tr><tr>
-                <td>1 day ago</td>
-                <td><a href="https://github.com/LaswitchTech/core-plugin-favicon">LaswitchTech/core-plugin-favicon</a></td>
-                <td>Core Plugin - Favicon Integration</td>
+                <td><a href="https://github.com/LaswitchTech/core-plugin-notes">LaswitchTech/core-plugin-notes</a></td>
+                <td>Core Plugin - Manage Notes</td>
             </tr>
         </table>
     </p>
