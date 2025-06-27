@@ -54,45 +54,45 @@
                 <th>Description</th>
             </tr>
             <tr>
-                <td>2 days ago</td>
-                <td><a href="https://github.com/LaswitchTech/core-module-core">LaswitchTech/core-module-core</a></td>
-                <td>Core Module - Core</td>
+                <td>today</td>
+                <td><a href="https://github.com/LaswitchTech/core-plugin-backups">LaswitchTech/core-plugin-backups</a></td>
+                <td>Core Plugin - Backup the application</td>
             </tr><tr>
-                <td>2 days ago</td>
+                <td>today</td>
+                <td><a href="https://github.com/LaswitchTech/core-plugin-billing">LaswitchTech/core-plugin-billing</a></td>
+                <td>Core Plugin - Billing Menu</td>
+            </tr><tr>
+                <td>today</td>
                 <td><a href="https://github.com/LaswitchTech/core">LaswitchTech/core</a></td>
                 <td>Core Framework</td>
             </tr><tr>
-                <td>2 days ago</td>
-                <td><a href="https://github.com/LaswitchTech/core-plugin-delegations">LaswitchTech/core-plugin-delegations</a></td>
-                <td>Core Plugin - Delegations Management</td>
+                <td>today</td>
+                <td><a href="https://github.com/LaswitchTech/core-plugin-clients">LaswitchTech/core-plugin-clients</a></td>
+                <td>Core Plugin - Clients Management</td>
+            </tr><tr>
+                <td>today</td>
+                <td><a href="https://github.com/LaswitchTech/core-plugin-auth">LaswitchTech/core-plugin-auth</a></td>
+                <td>Core Plugin - Auth Management</td>
+            </tr><tr>
+                <td>today</td>
+                <td><a href="https://github.com/LaswitchTech/core-plugin-builder">LaswitchTech/core-plugin-builder</a></td>
+                <td>Core Plugin - Component Builder</td>
             </tr><tr>
                 <td>2 days ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-products">LaswitchTech/core-plugin-products</a></td>
                 <td>Core Plugin - Products Management</td>
             </tr><tr>
-                <td>3 days ago</td>
-                <td><a href="https://github.com/LaswitchTech/core-plugin-inventory">LaswitchTech/core-plugin-inventory</a></td>
-                <td>Core Plugin - Inventory Management</td>
+                <td>2 days ago</td>
+                <td><a href="https://github.com/LaswitchTech/core-module-core">LaswitchTech/core-module-core</a></td>
+                <td>Core Module - Core</td>
+            </tr><tr>
+                <td>2 days ago</td>
+                <td><a href="https://github.com/LaswitchTech/core-plugin-delegations">LaswitchTech/core-plugin-delegations</a></td>
+                <td>Core Plugin - Delegations Management</td>
             </tr><tr>
                 <td>3 days ago</td>
-                <td><a href="https://github.com/LaswitchTech/core-plugin-nextcloud">LaswitchTech/core-plugin-nextcloud</a></td>
-                <td>Core Plugin - Nextcloud Integration</td>
-            </tr><tr>
-                <td>3 days ago</td>
-                <td><a href="https://github.com/LaswitchTech/core-plugin-playground">LaswitchTech/core-plugin-playground</a></td>
-                <td>Core Plugin - Playground Environment</td>
-            </tr><tr>
-                <td>3 days ago</td>
-                <td><a href="https://github.com/LaswitchTech/core-plugin-documents">LaswitchTech/core-plugin-documents</a></td>
-                <td>Core Plugin - Documents Management</td>
-            </tr><tr>
-                <td>3 days ago</td>
-                <td><a href="https://github.com/LaswitchTech/core-plugin-event">LaswitchTech/core-plugin-event</a></td>
-                <td>Core Plugin - Events Management</td>
-            </tr><tr>
-                <td>3 days ago</td>
-                <td><a href="https://github.com/LaswitchTech/core-plugin-favicon">LaswitchTech/core-plugin-favicon</a></td>
-                <td>Core Plugin - Favicon Integration</td>
+                <td><a href="https://github.com/LaswitchTech/core-plugin-library">LaswitchTech/core-plugin-library</a></td>
+                <td>Core Plugin - Library Menu for Development</td>
             </tr>
         </table>
     </p>
