@@ -79,12 +79,12 @@
                 <td>Core Plugin - Search Indexer</td>
             </tr><tr>
                 <td>today</td>
-                <td><a href="https://github.com/LaswitchTech/core-plugin-security">LaswitchTech/core-plugin-security</a></td>
-                <td>Core Plugin - Menu</td>
-            </tr><tr>
-                <td>today</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-updater">LaswitchTech/core-plugin-updater</a></td>
                 <td>Core Plugin - Update the application</td>
+            </tr><tr>
+                <td>today</td>
+                <td><a href="https://github.com/LaswitchTech/core-plugin-security">LaswitchTech/core-plugin-security</a></td>
+                <td>Core Plugin - Menu</td>
             </tr><tr>
                 <td>today</td>
                 <td><a href="https://github.com/LaswitchTech/core">LaswitchTech/core</a></td>
