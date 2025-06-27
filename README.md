@@ -16,7 +16,7 @@
                 <td>4 months ago</td>
                 <td><a href="https://laswitchtech.com/en/blog/2025/02/03/let-s-talk-building-a-modular-php-framework-part-3#">Let&#39;s Talk - Building a Modular PHP Framework part 3</a></td>
             </tr><tr>
-                <td>4 months ago</td>
+                <td>5 months ago</td>
                 <td><a href="https://laswitchtech.com/en/blog/2025/01/28/let-s-talk-building-a-modular-php-framework-part-2#">Let&#39;s Talk - Building a Modular PHP Framework part 2</a></td>
             </tr><tr>
                 <td>5 months ago</td>
@@ -37,10 +37,10 @@
                 <td>6 months ago</td>
                 <td><a href="https://laswitchtech.com/en/blog/2024/12/06/how-to-setup-server-backups-on-windows-server-2022#">How to Setup Server Backups on Windows Server 2022</a></td>
             </tr><tr>
-                <td>6 months ago</td>
+                <td>7 months ago</td>
                 <td><a href="https://laswitchtech.com/en/blog/2024/11/29/how-to-publish-a-remote-application-using-windows-server-rds#">How to Publish a Remote Application using Windows Server RDS</a></td>
             </tr><tr>
-                <td>6 months ago</td>
+                <td>7 months ago</td>
                 <td><a href="https://laswitchtech.com/en/blog/2024/11/29/announcing-mysql-ini-configurator-simplifying-mysql-configuration-management#">Announcing MySQL INI Configurator - Simplifying MySQL Configuration Management</a></td>
             </tr>
         </table>
@@ -54,43 +54,43 @@
                 <th>Description</th>
             </tr>
             <tr>
-                <td>1 day ago</td>
+                <td>2 days ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-module-core">LaswitchTech/core-module-core</a></td>
                 <td>Core Module - Core</td>
             </tr><tr>
-                <td>1 day ago</td>
+                <td>2 days ago</td>
                 <td><a href="https://github.com/LaswitchTech/core">LaswitchTech/core</a></td>
                 <td>Core Framework</td>
             </tr><tr>
-                <td>1 day ago</td>
+                <td>2 days ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-delegations">LaswitchTech/core-plugin-delegations</a></td>
                 <td>Core Plugin - Delegations Management</td>
             </tr><tr>
-                <td>1 day ago</td>
+                <td>2 days ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-products">LaswitchTech/core-plugin-products</a></td>
                 <td>Core Plugin - Products Management</td>
             </tr><tr>
-                <td>2 days ago</td>
+                <td>3 days ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-inventory">LaswitchTech/core-plugin-inventory</a></td>
                 <td>Core Plugin - Inventory Management</td>
             </tr><tr>
-                <td>2 days ago</td>
+                <td>3 days ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-nextcloud">LaswitchTech/core-plugin-nextcloud</a></td>
                 <td>Core Plugin - Nextcloud Integration</td>
             </tr><tr>
-                <td>2 days ago</td>
+                <td>3 days ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-playground">LaswitchTech/core-plugin-playground</a></td>
                 <td>Core Plugin - Playground Environment</td>
             </tr><tr>
-                <td>2 days ago</td>
+                <td>3 days ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-documents">LaswitchTech/core-plugin-documents</a></td>
                 <td>Core Plugin - Documents Management</td>
             </tr><tr>
-                <td>2 days ago</td>
+                <td>3 days ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-event">LaswitchTech/core-plugin-event</a></td>
                 <td>Core Plugin - Events Management</td>
             </tr><tr>
-                <td>2 days ago</td>
+                <td>3 days ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-favicon">LaswitchTech/core-plugin-favicon</a></td>
                 <td>Core Plugin - Favicon Integration</td>
             </tr>
