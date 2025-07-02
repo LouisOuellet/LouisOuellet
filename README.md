@@ -54,13 +54,13 @@
                 <th>Description</th>
             </tr>
             <tr>
+                <td>today</td>
+                <td><a href="https://github.com/LaswitchTech/core-plugin-leads">LaswitchTech/core-plugin-leads</a></td>
+                <td>Core Plugin - Leads Management</td>
+            </tr><tr>
                 <td>1 day ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-relationship">LaswitchTech/core-plugin-relationship</a></td>
                 <td>Core Plugin - Manage Relationships</td>
-            </tr><tr>
-                <td>1 day ago</td>
-                <td><a href="https://github.com/LaswitchTech/core-plugin-leads">LaswitchTech/core-plugin-leads</a></td>
-                <td>Core Plugin - Leads Management</td>
             </tr><tr>
                 <td>1 day ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-module-core">LaswitchTech/core-module-core</a></td>
@@ -91,8 +91,8 @@
                 <td>Core Plugin - Delegations Management</td>
             </tr><tr>
                 <td>5 days ago</td>
-                <td><a href="https://github.com/LaswitchTech/core-plugin-extensions">LaswitchTech/core-plugin-extensions</a></td>
-                <td>Core Plugin - Manage installed modules, plugins, and themes.</td>
+                <td><a href="https://github.com/LaswitchTech/core-plugin-profile">LaswitchTech/core-plugin-profile</a></td>
+                <td>Core Plugin - Manage your Profile</td>
             </tr>
         </table>
     </p>
