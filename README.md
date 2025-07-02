@@ -58,41 +58,41 @@
                 <td><a href="https://github.com/LaswitchTech/core-plugin-leads">LaswitchTech/core-plugin-leads</a></td>
                 <td>Core Plugin - Leads Management</td>
             </tr><tr>
+                <td>today</td>
+                <td><a href="https://github.com/LaswitchTech/core-plugin-doctypes">LaswitchTech/core-plugin-doctypes</a></td>
+                <td>Core Plugin - Doctypes Management</td>
+            </tr><tr>
                 <td>1 day ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-relationship">LaswitchTech/core-plugin-relationship</a></td>
                 <td>Core Plugin - Manage Relationships</td>
             </tr><tr>
                 <td>1 day ago</td>
-                <td><a href="https://github.com/LaswitchTech/core-module-core">LaswitchTech/core-module-core</a></td>
-                <td>Core Module - Core</td>
-            </tr><tr>
-                <td>1 day ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-services">LaswitchTech/core-plugin-services</a></td>
                 <td>Core Plugin - Services Management</td>
             </tr><tr>
-                <td>5 days ago</td>
-                <td><a href="https://github.com/LaswitchTech/core-plugin-users">LaswitchTech/core-plugin-users</a></td>
-                <td>Core Plugin - Manage Users and Colleagues</td>
+                <td>1 day ago</td>
+                <td><a href="https://github.com/LaswitchTech/core-module-core">LaswitchTech/core-module-core</a></td>
+                <td>Core Module - Core</td>
             </tr><tr>
                 <td>5 days ago</td>
-                <td><a href="https://github.com/LaswitchTech/core-plugin-products">LaswitchTech/core-plugin-products</a></td>
-                <td>Core Plugin - Products Management</td>
+                <td><a href="https://github.com/LaswitchTech/core-plugin-profile">LaswitchTech/core-plugin-profile</a></td>
+                <td>Core Plugin - Manage your Profile</td>
             </tr><tr>
                 <td>5 days ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-updater">LaswitchTech/core-plugin-updater</a></td>
                 <td>Core Plugin - Update the application</td>
             </tr><tr>
                 <td>5 days ago</td>
-                <td><a href="https://github.com/LaswitchTech/core-plugin-nextcloud">LaswitchTech/core-plugin-nextcloud</a></td>
-                <td>Core Plugin - Nextcloud Integration</td>
+                <td><a href="https://github.com/LaswitchTech/core-plugin-tags">LaswitchTech/core-plugin-tags</a></td>
+                <td>Core Plugin - Manage Tags</td>
             </tr><tr>
                 <td>5 days ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-delegations">LaswitchTech/core-plugin-delegations</a></td>
                 <td>Core Plugin - Delegations Management</td>
             </tr><tr>
                 <td>5 days ago</td>
-                <td><a href="https://github.com/LaswitchTech/core-plugin-profile">LaswitchTech/core-plugin-profile</a></td>
-                <td>Core Plugin - Manage your Profile</td>
+                <td><a href="https://github.com/LaswitchTech/core-plugin-security">LaswitchTech/core-plugin-security</a></td>
+                <td>Core Plugin - Menu</td>
             </tr>
         </table>
     </p>
