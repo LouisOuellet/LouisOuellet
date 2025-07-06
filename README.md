@@ -54,23 +54,23 @@
                 <th>Description</th>
             </tr>
             <tr>
-                <td>2 days ago</td>
+                <td>3 days ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-doctypes">LaswitchTech/core-plugin-doctypes</a></td>
                 <td>Core Plugin - Doctypes Management</td>
             </tr><tr>
-                <td>3 days ago</td>
+                <td>4 days ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-leads">LaswitchTech/core-plugin-leads</a></td>
                 <td>Core Plugin - Leads Management</td>
             </tr><tr>
-                <td>4 days ago</td>
+                <td>5 days ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-relationship">LaswitchTech/core-plugin-relationship</a></td>
                 <td>Core Plugin - Manage Relationships</td>
             </tr><tr>
-                <td>4 days ago</td>
+                <td>5 days ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-services">LaswitchTech/core-plugin-services</a></td>
                 <td>Core Plugin - Services Management</td>
             </tr><tr>
-                <td>4 days ago</td>
+                <td>5 days ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-module-core">LaswitchTech/core-module-core</a></td>
                 <td>Core Module - Core</td>
             </tr><tr>
