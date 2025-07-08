@@ -79,20 +79,20 @@
                 <td>Core Module - Core</td>
             </tr><tr>
                 <td>1 week ago</td>
-                <td><a href="https://github.com/LaswitchTech/core-plugin-roles">LaswitchTech/core-plugin-roles</a></td>
-                <td>Core Plugin - Manage Roles and Permissions</td>
+                <td><a href="https://github.com/LaswitchTech/core-plugin-vcards">LaswitchTech/core-plugin-vcards</a></td>
+                <td>Core Plugin - Add vCards to your application</td>
             </tr><tr>
                 <td>1 week ago</td>
-                <td><a href="https://github.com/LaswitchTech/core-plugin-delegations">LaswitchTech/core-plugin-delegations</a></td>
-                <td>Core Plugin - Delegations Management</td>
+                <td><a href="https://github.com/LaswitchTech/core-plugin-products">LaswitchTech/core-plugin-products</a></td>
+                <td>Core Plugin - Products Management</td>
             </tr><tr>
                 <td>1 week ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-updater">LaswitchTech/core-plugin-updater</a></td>
                 <td>Core Plugin - Update the application</td>
             </tr><tr>
                 <td>1 week ago</td>
-                <td><a href="https://github.com/LaswitchTech/core-plugin-security">LaswitchTech/core-plugin-security</a></td>
-                <td>Core Plugin - Menu</td>
+                <td><a href="https://github.com/LaswitchTech/core-plugin-search">LaswitchTech/core-plugin-search</a></td>
+                <td>Core Plugin - Search Indexer</td>
             </tr>
         </table>
     </p>
