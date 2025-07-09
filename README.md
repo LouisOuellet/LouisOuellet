@@ -55,8 +55,8 @@
             </tr>
             <tr>
                 <td>today</td>
-                <td><a href="https://github.com/LaswitchTech/core-plugin-maintenance">LaswitchTech/core-plugin-maintenance</a></td>
-                <td>Core Plugin - Maintenance Mode</td>
+                <td><a href="https://github.com/LaswitchTech/core-plugin-vcards">LaswitchTech/core-plugin-vcards</a></td>
+                <td>Core Plugin - Add vCards to your application</td>
             </tr><tr>
                 <td>today</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-backends">LaswitchTech/core-plugin-backends</a></td>
@@ -67,6 +67,10 @@
                 <td>Core Plugin - Manage installed modules, plugins, and themes.</td>
             </tr><tr>
                 <td>today</td>
+                <td><a href="https://github.com/LaswitchTech/core-plugin-tags">LaswitchTech/core-plugin-tags</a></td>
+                <td>Core Plugin - Manage Tags</td>
+            </tr><tr>
+                <td>today</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-doctypes">LaswitchTech/core-plugin-doctypes</a></td>
                 <td>Core Plugin - Doctypes Management</td>
             </tr><tr>
@@ -75,16 +79,12 @@
                 <td>Core Plugin - Categories Management</td>
             </tr><tr>
                 <td>today</td>
-                <td><a href="https://github.com/LaswitchTech/core-plugin-delegations">LaswitchTech/core-plugin-delegations</a></td>
-                <td>Core Plugin - Delegations Management</td>
+                <td><a href="https://github.com/LaswitchTech/core-plugin-services">LaswitchTech/core-plugin-services</a></td>
+                <td>Core Plugin - Services Management</td>
             </tr><tr>
                 <td>today</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-products">LaswitchTech/core-plugin-products</a></td>
                 <td>Core Plugin - Products Management</td>
-            </tr><tr>
-                <td>today</td>
-                <td><a href="https://github.com/LaswitchTech/core-plugin-nextcloud">LaswitchTech/core-plugin-nextcloud</a></td>
-                <td>Core Plugin - Nextcloud Integration</td>
             </tr><tr>
                 <td>today</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-leads">LaswitchTech/core-plugin-leads</a></td>
