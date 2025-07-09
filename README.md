@@ -71,12 +71,12 @@
                 <td>Core Plugin - Leads Management</td>
             </tr><tr>
                 <td>1 week ago</td>
-                <td><a href="https://github.com/LaswitchTech/core-plugin-services">LaswitchTech/core-plugin-services</a></td>
-                <td>Core Plugin - Services Management</td>
-            </tr><tr>
-                <td>1 week ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-relationship">LaswitchTech/core-plugin-relationship</a></td>
                 <td>Core Plugin - Manage Relationships</td>
+            </tr><tr>
+                <td>1 week ago</td>
+                <td><a href="https://github.com/LaswitchTech/core-plugin-services">LaswitchTech/core-plugin-services</a></td>
+                <td>Core Plugin - Services Management</td>
             </tr><tr>
                 <td>1 week ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-module-core">LaswitchTech/core-module-core</a></td>
