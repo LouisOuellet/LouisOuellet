@@ -55,8 +55,8 @@
             </tr>
             <tr>
                 <td>today</td>
-                <td><a href="https://github.com/LaswitchTech/core-plugin-event">LaswitchTech/core-plugin-event</a></td>
-                <td>Core Plugin - Events Management</td>
+                <td><a href="https://github.com/LaswitchTech/core-plugin-industries">LaswitchTech/core-plugin-industries</a></td>
+                <td>Core Plugin - Industries</td>
             </tr><tr>
                 <td>today</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-backends">LaswitchTech/core-plugin-backends</a></td>
