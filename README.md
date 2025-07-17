@@ -55,44 +55,44 @@
             </tr>
             <tr>
                 <td>today</td>
-                <td><a href="https://github.com/LaswitchTech/core-plugin-groups">LaswitchTech/core-plugin-groups</a></td>
-                <td>Core Plugin - Manage Groups</td>
-            </tr><tr>
-                <td>today</td>
-                <td><a href="https://github.com/LaswitchTech/core-plugin-contacts">LaswitchTech/core-plugin-contacts</a></td>
-                <td>Core Plugin - Contacts Management</td>
+                <td><a href="https://github.com/LaswitchTech/core-plugin-users">LaswitchTech/core-plugin-users</a></td>
+                <td>Core Plugin - Manage Users and Colleagues</td>
             </tr><tr>
                 <td>today</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-notes">LaswitchTech/core-plugin-notes</a></td>
                 <td>Core Plugin - Manage Notes</td>
             </tr><tr>
                 <td>today</td>
+                <td><a href="https://github.com/LaswitchTech/core-plugin-products">LaswitchTech/core-plugin-products</a></td>
+                <td>Core Plugin - Products Management</td>
+            </tr><tr>
+                <td>today</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-leads">LaswitchTech/core-plugin-leads</a></td>
                 <td>Core Plugin - Leads Management</td>
             </tr><tr>
                 <td>today</td>
-                <td><a href="https://github.com/LaswitchTech/core-plugin-products">LaswitchTech/core-plugin-products</a></td>
-                <td>Core Plugin - Products Management</td>
+                <td><a href="https://github.com/LaswitchTech/core-plugin-contacts">LaswitchTech/core-plugin-contacts</a></td>
+                <td>Core Plugin - Contacts Management</td>
             </tr><tr>
                 <td>today</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-vcards">LaswitchTech/core-plugin-vcards</a></td>
                 <td>Core Plugin - Add vCards to your application</td>
             </tr><tr>
                 <td>today</td>
+                <td><a href="https://github.com/LaswitchTech/core-plugin-groups">LaswitchTech/core-plugin-groups</a></td>
+                <td>Core Plugin - Manage Groups</td>
+            </tr><tr>
+                <td>today</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-services">LaswitchTech/core-plugin-services</a></td>
                 <td>Core Plugin - Services Management</td>
             </tr><tr>
                 <td>today</td>
-                <td><a href="https://github.com/LaswitchTech/core">LaswitchTech/core</a></td>
-                <td>Core Framework</td>
-            </tr><tr>
-                <td>today</td>
-                <td><a href="https://github.com/LaswitchTech/core-plugin-users">LaswitchTech/core-plugin-users</a></td>
-                <td>Core Plugin - Manage Users and Colleagues</td>
-            </tr><tr>
-                <td>today</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-tasks">LaswitchTech/core-plugin-tasks</a></td>
                 <td>Core Plugin - Manage Tasks</td>
+            </tr><tr>
+                <td>today</td>
+                <td><a href="https://github.com/LaswitchTech/core">LaswitchTech/core</a></td>
+                <td>Core Framework</td>
             </tr>
         </table>
     </p>
