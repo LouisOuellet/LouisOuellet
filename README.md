@@ -54,13 +54,13 @@
                 <th>Description</th>
             </tr>
             <tr>
-                <td>1 day ago</td>
-                <td><a href="https://github.com/LaswitchTech/core-plugin-industries">LaswitchTech/core-plugin-industries</a></td>
-                <td>Core Plugin - Industries</td>
+                <td>today</td>
+                <td><a href="https://github.com/LaswitchTech/core">LaswitchTech/core</a></td>
+                <td>Core Framework</td>
             </tr><tr>
                 <td>1 day ago</td>
-                <td><a href="https://github.com/LaswitchTech/core-plugin-backends">LaswitchTech/core-plugin-backends</a></td>
-                <td>Core Plugin - Manage Backends</td>
+                <td><a href="https://github.com/LaswitchTech/core-plugin-logger">LaswitchTech/core-plugin-logger</a></td>
+                <td>Core Plugin - Log Viewer and Editor</td>
             </tr><tr>
                 <td>1 day ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-extensions">LaswitchTech/core-plugin-extensions</a></td>
@@ -91,8 +91,8 @@
                 <td>Core Plugin - Products Management</td>
             </tr><tr>
                 <td>1 day ago</td>
-                <td><a href="https://github.com/LaswitchTech/core-plugin-tasks">LaswitchTech/core-plugin-tasks</a></td>
-                <td>Core Plugin - Manage Tasks</td>
+                <td><a href="https://github.com/LaswitchTech/core-plugin-backends">LaswitchTech/core-plugin-backends</a></td>
+                <td>Core Plugin - Manage Backends</td>
             </tr>
         </table>
     </p>
