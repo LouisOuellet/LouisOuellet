@@ -55,16 +55,16 @@
             </tr>
             <tr>
                 <td>today</td>
-                <td><a href="https://github.com/LaswitchTech/core-plugin-tasks">LaswitchTech/core-plugin-tasks</a></td>
-                <td>Core Plugin - Manage Tasks</td>
+                <td><a href="https://github.com/LaswitchTech/core-plugin-contacts">LaswitchTech/core-plugin-contacts</a></td>
+                <td>Core Plugin - Contacts Management</td>
             </tr><tr>
                 <td>today</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-leads">LaswitchTech/core-plugin-leads</a></td>
                 <td>Core Plugin - Leads Management</td>
             </tr><tr>
                 <td>today</td>
-                <td><a href="https://github.com/LaswitchTech/core-plugin-contacts">LaswitchTech/core-plugin-contacts</a></td>
-                <td>Core Plugin - Contacts Management</td>
+                <td><a href="https://github.com/LaswitchTech/core-plugin-tasks">LaswitchTech/core-plugin-tasks</a></td>
+                <td>Core Plugin - Manage Tasks</td>
             </tr><tr>
                 <td>today</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-clients">LaswitchTech/core-plugin-clients</a></td>
