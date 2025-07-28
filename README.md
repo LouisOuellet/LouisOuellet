@@ -75,10 +75,6 @@
                 <td>Core Plugin - Manage Tasks</td>
             </tr><tr>
                 <td>1 week ago</td>
-                <td><a href="https://github.com/LaswitchTech/core-plugin-vcards">LaswitchTech/core-plugin-vcards</a></td>
-                <td>Core Plugin - Add vCards to your application</td>
-            </tr><tr>
-                <td>1 week ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-clients">LaswitchTech/core-plugin-clients</a></td>
                 <td>Core Plugin - Clients Management</td>
             </tr><tr>
@@ -87,12 +83,16 @@
                 <td>Core Plugin - Contacts Management</td>
             </tr><tr>
                 <td>1 week ago</td>
+                <td><a href="https://github.com/LaswitchTech/core-plugin-vcards">LaswitchTech/core-plugin-vcards</a></td>
+                <td>Core Plugin - Add vCards to your application</td>
+            </tr><tr>
+                <td>1 week ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-users">LaswitchTech/core-plugin-users</a></td>
                 <td>Core Plugin - Manage Users and Colleagues</td>
             </tr><tr>
                 <td>1 week ago</td>
-                <td><a href="https://github.com/LaswitchTech/core-plugin-groups">LaswitchTech/core-plugin-groups</a></td>
-                <td>Core Plugin - Manage Groups</td>
+                <td><a href="https://github.com/LaswitchTech/core">LaswitchTech/core</a></td>
+                <td>Core Framework</td>
             </tr>
         </table>
     </p>
