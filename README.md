@@ -59,20 +59,20 @@
                 <td>Core Plugin - Datatables</td>
             </tr><tr>
                 <td>1 day ago</td>
-                <td><a href="https://github.com/LaswitchTech/core-plugin-feed">LaswitchTech/core-plugin-feed</a></td>
-                <td>Core Plugin - Feed</td>
-            </tr><tr>
-                <td>1 day ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-bootstrap">LaswitchTech/core-plugin-bootstrap</a></td>
                 <td>Core Plugin - Bootstrap</td>
+            </tr><tr>
+                <td>1 day ago</td>
+                <td><a href="https://github.com/LaswitchTech/core-plugin-feed">LaswitchTech/core-plugin-feed</a></td>
+                <td>Core Plugin - Feed</td>
             </tr><tr>
                 <td>1 week ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-theme-default">LaswitchTech/core-theme-default</a></td>
                 <td>Core Theme - Default</td>
             </tr><tr>
                 <td>2 weeks ago</td>
-                <td><a href="https://github.com/LaswitchTech/core-plugin-process">LaswitchTech/core-plugin-process</a></td>
-                <td>Core Plugin - Manage Task&#39;s Processes</td>
+                <td><a href="https://github.com/LaswitchTech/core-plugin-contacts">LaswitchTech/core-plugin-contacts</a></td>
+                <td>Core Plugin - Contacts Management</td>
             </tr><tr>
                 <td>2 weeks ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-leads">LaswitchTech/core-plugin-leads</a></td>
