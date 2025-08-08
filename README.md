@@ -54,15 +54,15 @@
                 <th>Description</th>
             </tr>
             <tr>
-                <td>today</td>
+                <td>1 day ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-tinymce">LaswitchTech/core-plugin-tinymce</a></td>
                 <td>Core Plugin - TinyMCE</td>
             </tr><tr>
-                <td>1 day ago</td>
+                <td>2 days ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-select2">LaswitchTech/core-plugin-select2</a></td>
                 <td>Core Plugin - Select2</td>
             </tr><tr>
-                <td>2 days ago</td>
+                <td>3 days ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-theme-gentelella">LaswitchTech/core-theme-gentelella</a></td>
                 <td>Core Theme - Gentelella</td>
             </tr><tr>
@@ -82,15 +82,15 @@
                 <td><a href="https://github.com/LaswitchTech/core-theme-default">LaswitchTech/core-theme-default</a></td>
                 <td>Core Theme - Default</td>
             </tr><tr>
-                <td>2 weeks ago</td>
+                <td>3 weeks ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-contacts">LaswitchTech/core-plugin-contacts</a></td>
                 <td>Core Plugin - Contacts Management</td>
             </tr><tr>
-                <td>2 weeks ago</td>
+                <td>3 weeks ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-process">LaswitchTech/core-plugin-process</a></td>
                 <td>Core Plugin - Manage Task&#39;s Processes</td>
             </tr><tr>
-                <td>2 weeks ago</td>
+                <td>3 weeks ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-roles">LaswitchTech/core-plugin-roles</a></td>
                 <td>Core Plugin - Manage Roles and Permissions</td>
             </tr>
