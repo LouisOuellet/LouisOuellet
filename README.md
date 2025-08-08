@@ -83,12 +83,12 @@
                 <td>Core Theme - Default</td>
             </tr><tr>
                 <td>3 weeks ago</td>
-                <td><a href="https://github.com/LaswitchTech/core-plugin-contacts">LaswitchTech/core-plugin-contacts</a></td>
-                <td>Core Plugin - Contacts Management</td>
+                <td><a href="https://github.com/LaswitchTech/core-plugin-tasks">LaswitchTech/core-plugin-tasks</a></td>
+                <td>Core Plugin - Manage Tasks</td>
             </tr><tr>
                 <td>3 weeks ago</td>
-                <td><a href="https://github.com/LaswitchTech/core-plugin-process">LaswitchTech/core-plugin-process</a></td>
-                <td>Core Plugin - Manage Task&#39;s Processes</td>
+                <td><a href="https://github.com/LaswitchTech/core-plugin-vcards">LaswitchTech/core-plugin-vcards</a></td>
+                <td>Core Plugin - Add vCards to your application</td>
             </tr><tr>
                 <td>3 weeks ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-roles">LaswitchTech/core-plugin-roles</a></td>
