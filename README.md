@@ -54,19 +54,19 @@
                 <th>Description</th>
             </tr>
             <tr>
-                <td>3 days ago</td>
+                <td>4 days ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-stepper">LaswitchTech/core-plugin-stepper</a></td>
                 <td>Core Plugin - Stepper</td>
             </tr><tr>
-                <td>4 days ago</td>
+                <td>5 days ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-tinymce">LaswitchTech/core-plugin-tinymce</a></td>
                 <td>Core Plugin - TinyMCE</td>
             </tr><tr>
-                <td>5 days ago</td>
+                <td>6 days ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-select2">LaswitchTech/core-plugin-select2</a></td>
                 <td>Core Plugin - Select2</td>
             </tr><tr>
-                <td>6 days ago</td>
+                <td>1 week ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-theme-gentelella">LaswitchTech/core-theme-gentelella</a></td>
                 <td>Core Theme - Gentelella</td>
             </tr><tr>
@@ -82,7 +82,7 @@
                 <td><a href="https://github.com/LaswitchTech/core-plugin-datatables">LaswitchTech/core-plugin-datatables</a></td>
                 <td>Core Plugin - Datatables</td>
             </tr><tr>
-                <td>2 weeks ago</td>
+                <td>3 weeks ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-theme-default">LaswitchTech/core-theme-default</a></td>
                 <td>Core Theme - Default</td>
             </tr><tr>
