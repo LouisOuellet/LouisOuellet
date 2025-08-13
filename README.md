@@ -54,15 +54,15 @@
                 <th>Description</th>
             </tr>
             <tr>
-                <td>4 days ago</td>
+                <td>5 days ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-stepper">LaswitchTech/core-plugin-stepper</a></td>
                 <td>Core Plugin - Stepper</td>
             </tr><tr>
-                <td>5 days ago</td>
+                <td>6 days ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-tinymce">LaswitchTech/core-plugin-tinymce</a></td>
                 <td>Core Plugin - TinyMCE</td>
             </tr><tr>
-                <td>6 days ago</td>
+                <td>1 week ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-select2">LaswitchTech/core-plugin-select2</a></td>
                 <td>Core Plugin - Select2</td>
             </tr><tr>
