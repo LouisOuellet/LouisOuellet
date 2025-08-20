@@ -54,7 +54,7 @@
                 <th>Description</th>
             </tr>
             <tr>
-                <td>today</td>
+                <td>1 day ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-pdfviewer">LaswitchTech/core-plugin-pdfviewer</a></td>
                 <td>Core Plugin - PDF Viewer</td>
             </tr><tr>
@@ -66,7 +66,7 @@
                 <td><a href="https://github.com/LaswitchTech/core-plugin-tinymce">LaswitchTech/core-plugin-tinymce</a></td>
                 <td>Core Plugin - TinyMCE</td>
             </tr><tr>
-                <td>1 week ago</td>
+                <td>2 weeks ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-select2">LaswitchTech/core-plugin-select2</a></td>
                 <td>Core Plugin - Select2</td>
             </tr><tr>
