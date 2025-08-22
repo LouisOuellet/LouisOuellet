@@ -22,7 +22,7 @@
                 <td>6 months ago</td>
                 <td><a href="https://laswitchtech.com/en/blog/2025/01/27/let-s-talk-why-and-how-i-use-artificial-intelligence#">Let&#39;s Talk - Why and How I Use Artificial Intelligence</a></td>
             </tr><tr>
-                <td>6 months ago</td>
+                <td>7 months ago</td>
                 <td><a href="https://laswitchtech.com/en/blog/2025/01/24/let-s-talk-building-a-modular-php-framework-from-scratch#">Let&#39;s Talk - Building a Modular PHP Framework from Scratch</a></td>
             </tr><tr>
                 <td>7 months ago</td>
@@ -54,15 +54,15 @@
                 <th>Description</th>
             </tr>
             <tr>
-                <td>today</td>
+                <td>1 day ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-components">LaswitchTech/core-plugin-components</a></td>
                 <td>Core Plugin - Core Components &amp; Layouts</td>
             </tr><tr>
-                <td>2 days ago</td>
+                <td>3 days ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-pdfviewer">LaswitchTech/core-plugin-pdfviewer</a></td>
                 <td>Core Plugin - PDF Viewer</td>
             </tr><tr>
-                <td>1 week ago</td>
+                <td>2 weeks ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-stepper">LaswitchTech/core-plugin-stepper</a></td>
                 <td>Core Plugin - Stepper</td>
             </tr><tr>
