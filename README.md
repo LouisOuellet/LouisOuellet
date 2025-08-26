@@ -55,12 +55,12 @@
             </tr>
             <tr>
                 <td>1 day ago</td>
-                <td><a href="https://github.com/LaswitchTech/core-plugin-tinymce">LaswitchTech/core-plugin-tinymce</a></td>
-                <td>Core Plugin - TinyMCE</td>
+                <td><a href="https://github.com/LaswitchTech/core-plugin-sales">LaswitchTech/core-plugin-sales</a></td>
+                <td>Core Plugin - Sales Menu</td>
             </tr><tr>
                 <td>1 day ago</td>
-                <td><a href="https://github.com/LaswitchTech/core-plugin-components">LaswitchTech/core-plugin-components</a></td>
-                <td>Core Plugin - Core Components &amp; Layouts</td>
+                <td><a href="https://github.com/LaswitchTech/core-plugin-stepper">LaswitchTech/core-plugin-stepper</a></td>
+                <td>Core Plugin - Stepper</td>
             </tr><tr>
                 <td>1 day ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-leads">LaswitchTech/core-plugin-leads</a></td>
