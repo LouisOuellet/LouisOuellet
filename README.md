@@ -54,45 +54,45 @@
                 <th>Description</th>
             </tr>
             <tr>
-                <td>1 day ago</td>
-                <td><a href="https://github.com/LaswitchTech/core-plugin-sales">LaswitchTech/core-plugin-sales</a></td>
-                <td>Core Plugin - Sales Menu</td>
+                <td>today</td>
+                <td><a href="https://github.com/LaswitchTech/core">LaswitchTech/core</a></td>
+                <td>Core Framework</td>
             </tr><tr>
-                <td>1 day ago</td>
-                <td><a href="https://github.com/LaswitchTech/core-plugin-stepper">LaswitchTech/core-plugin-stepper</a></td>
-                <td>Core Plugin - Stepper</td>
+                <td>today</td>
+                <td><a href="https://github.com/LaswitchTech/core-plugin-datatables">LaswitchTech/core-plugin-datatables</a></td>
+                <td>Core Plugin - Datatables</td>
             </tr><tr>
-                <td>1 day ago</td>
+                <td>today</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-leads">LaswitchTech/core-plugin-leads</a></td>
                 <td>Core Plugin - Leads Management</td>
             </tr><tr>
-                <td>1 day ago</td>
-                <td><a href="https://github.com/LaswitchTech/core-plugin-extensions">LaswitchTech/core-plugin-extensions</a></td>
-                <td>Core Plugin - Manage installed modules, plugins, and themes.</td>
+                <td>today</td>
+                <td><a href="https://github.com/LaswitchTech/core-plugin-followups">LaswitchTech/core-plugin-followups</a></td>
+                <td>Core Plugin - Follow-Ups Management</td>
             </tr><tr>
-                <td>1 day ago</td>
+                <td>today</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-tasks">LaswitchTech/core-plugin-tasks</a></td>
                 <td>Core Plugin - Manage Tasks</td>
             </tr><tr>
-                <td>1 day ago</td>
+                <td>today</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-vcards">LaswitchTech/core-plugin-vcards</a></td>
                 <td>Core Plugin - Add vCards to your application</td>
+            </tr><tr>
+                <td>1 day ago</td>
+                <td><a href="https://github.com/LaswitchTech/core-plugin-dev">LaswitchTech/core-plugin-dev</a></td>
+                <td>Core Plugin - Development Tools</td>
             </tr><tr>
                 <td>1 day ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-services">LaswitchTech/core-plugin-services</a></td>
                 <td>Core Plugin - Services Management</td>
             </tr><tr>
                 <td>1 day ago</td>
-                <td><a href="https://github.com/LaswitchTech/core-plugin-clients">LaswitchTech/core-plugin-clients</a></td>
-                <td>Core Plugin - Clients Management</td>
-            </tr><tr>
-                <td>1 day ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-roles">LaswitchTech/core-plugin-roles</a></td>
                 <td>Core Plugin - Manage Roles and Permissions</td>
             </tr><tr>
                 <td>1 day ago</td>
-                <td><a href="https://github.com/LaswitchTech/core-plugin-updater">LaswitchTech/core-plugin-updater</a></td>
-                <td>Core Plugin - Update the application</td>
+                <td><a href="https://github.com/LaswitchTech/core-plugin-clients">LaswitchTech/core-plugin-clients</a></td>
+                <td>Core Plugin - Clients Management</td>
             </tr>
         </table>
     </p>
