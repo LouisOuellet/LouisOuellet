@@ -16,7 +16,7 @@
                 <td>6 months ago</td>
                 <td><a href="https://laswitchtech.com/en/blog/2025/02/03/let-s-talk-building-a-modular-php-framework-part-3#">Let&#39;s Talk - Building a Modular PHP Framework part 3</a></td>
             </tr><tr>
-                <td>6 months ago</td>
+                <td>7 months ago</td>
                 <td><a href="https://laswitchtech.com/en/blog/2025/01/28/let-s-talk-building-a-modular-php-framework-part-2#">Let&#39;s Talk - Building a Modular PHP Framework part 2</a></td>
             </tr><tr>
                 <td>7 months ago</td>
@@ -37,10 +37,10 @@
                 <td>8 months ago</td>
                 <td><a href="https://laswitchtech.com/en/blog/2024/12/06/how-to-setup-server-backups-on-windows-server-2022#">How to Setup Server Backups on Windows Server 2022</a></td>
             </tr><tr>
-                <td>8 months ago</td>
+                <td>9 months ago</td>
                 <td><a href="https://laswitchtech.com/en/blog/2024/11/29/how-to-publish-a-remote-application-using-windows-server-rds#">How to Publish a Remote Application using Windows Server RDS</a></td>
             </tr><tr>
-                <td>8 months ago</td>
+                <td>9 months ago</td>
                 <td><a href="https://laswitchtech.com/en/blog/2024/11/29/announcing-mysql-ini-configurator-simplifying-mysql-configuration-management#">Announcing MySQL INI Configurator - Simplifying MySQL Configuration Management</a></td>
             </tr>
         </table>
@@ -54,43 +54,43 @@
                 <th>Description</th>
             </tr>
             <tr>
-                <td>today</td>
+                <td>1 day ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-tinymce">LaswitchTech/core-plugin-tinymce</a></td>
                 <td>Core Plugin - TinyMCE</td>
             </tr><tr>
-                <td>today</td>
+                <td>1 day ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-components">LaswitchTech/core-plugin-components</a></td>
                 <td>Core Plugin - Core Components &amp; Layouts</td>
             </tr><tr>
-                <td>today</td>
+                <td>1 day ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-leads">LaswitchTech/core-plugin-leads</a></td>
                 <td>Core Plugin - Leads Management</td>
             </tr><tr>
-                <td>today</td>
+                <td>1 day ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-extensions">LaswitchTech/core-plugin-extensions</a></td>
                 <td>Core Plugin - Manage installed modules, plugins, and themes.</td>
             </tr><tr>
-                <td>today</td>
+                <td>1 day ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-tasks">LaswitchTech/core-plugin-tasks</a></td>
                 <td>Core Plugin - Manage Tasks</td>
             </tr><tr>
-                <td>today</td>
+                <td>1 day ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-vcards">LaswitchTech/core-plugin-vcards</a></td>
                 <td>Core Plugin - Add vCards to your application</td>
             </tr><tr>
-                <td>today</td>
+                <td>1 day ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-services">LaswitchTech/core-plugin-services</a></td>
                 <td>Core Plugin - Services Management</td>
             </tr><tr>
-                <td>today</td>
+                <td>1 day ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-clients">LaswitchTech/core-plugin-clients</a></td>
                 <td>Core Plugin - Clients Management</td>
             </tr><tr>
-                <td>today</td>
+                <td>1 day ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-roles">LaswitchTech/core-plugin-roles</a></td>
                 <td>Core Plugin - Manage Roles and Permissions</td>
             </tr><tr>
-                <td>today</td>
+                <td>1 day ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-updater">LaswitchTech/core-plugin-updater</a></td>
                 <td>Core Plugin - Update the application</td>
             </tr>
