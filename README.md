@@ -55,20 +55,20 @@
             </tr>
             <tr>
                 <td>today</td>
-                <td><a href="https://github.com/LaswitchTech/core-plugin-search">LaswitchTech/core-plugin-search</a></td>
-                <td>Core Plugin - Search Indexer</td>
+                <td><a href="https://github.com/LaswitchTech/core-plugin-relationship">LaswitchTech/core-plugin-relationship</a></td>
+                <td>Core Plugin - Manage Relationships</td>
             </tr><tr>
                 <td>today</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-leads">LaswitchTech/core-plugin-leads</a></td>
                 <td>Core Plugin - Leads Management</td>
             </tr><tr>
                 <td>today</td>
-                <td><a href="https://github.com/LaswitchTech/core-plugin-stepper">LaswitchTech/core-plugin-stepper</a></td>
-                <td>Core Plugin - Stepper</td>
+                <td><a href="https://github.com/LaswitchTech/core-plugin-search">LaswitchTech/core-plugin-search</a></td>
+                <td>Core Plugin - Search Indexer</td>
             </tr><tr>
                 <td>today</td>
-                <td><a href="https://github.com/LaswitchTech/core-plugin-profile">LaswitchTech/core-plugin-profile</a></td>
-                <td>Core Plugin - Manage your Profile</td>
+                <td><a href="https://github.com/LaswitchTech/core-module-core">LaswitchTech/core-module-core</a></td>
+                <td>Core Module - Core</td>
             </tr><tr>
                 <td>today</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-tasks">LaswitchTech/core-plugin-tasks</a></td>
@@ -83,8 +83,8 @@
                 <td>Core Plugin - Add vCards to your application</td>
             </tr><tr>
                 <td>today</td>
-                <td><a href="https://github.com/LaswitchTech/core-plugin-datatables">LaswitchTech/core-plugin-datatables</a></td>
-                <td>Core Plugin - Datatables</td>
+                <td><a href="https://github.com/LaswitchTech/core-plugin-stepper">LaswitchTech/core-plugin-stepper</a></td>
+                <td>Core Plugin - Stepper</td>
             </tr><tr>
                 <td>today</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-services">LaswitchTech/core-plugin-services</a></td>
