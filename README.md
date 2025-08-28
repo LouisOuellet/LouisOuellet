@@ -55,8 +55,8 @@
             </tr>
             <tr>
                 <td>today</td>
-                <td><a href="https://github.com/LaswitchTech/core-module-core">LaswitchTech/core-module-core</a></td>
-                <td>Core Module - Core</td>
+                <td><a href="https://github.com/LaswitchTech/core-plugin-search">LaswitchTech/core-plugin-search</a></td>
+                <td>Core Plugin - Search Indexer</td>
             </tr><tr>
                 <td>today</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-leads">LaswitchTech/core-plugin-leads</a></td>
@@ -67,8 +67,8 @@
                 <td>Core Plugin - Stepper</td>
             </tr><tr>
                 <td>today</td>
-                <td><a href="https://github.com/LaswitchTech/core-plugin-search">LaswitchTech/core-plugin-search</a></td>
-                <td>Core Plugin - Search Indexer</td>
+                <td><a href="https://github.com/LaswitchTech/core-plugin-profile">LaswitchTech/core-plugin-profile</a></td>
+                <td>Core Plugin - Manage your Profile</td>
             </tr><tr>
                 <td>today</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-tasks">LaswitchTech/core-plugin-tasks</a></td>
@@ -83,12 +83,12 @@
                 <td>Core Plugin - Add vCards to your application</td>
             </tr><tr>
                 <td>today</td>
-                <td><a href="https://github.com/LaswitchTech/core-plugin-profile">LaswitchTech/core-plugin-profile</a></td>
-                <td>Core Plugin - Manage your Profile</td>
-            </tr><tr>
-                <td>today</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-datatables">LaswitchTech/core-plugin-datatables</a></td>
                 <td>Core Plugin - Datatables</td>
+            </tr><tr>
+                <td>today</td>
+                <td><a href="https://github.com/LaswitchTech/core-plugin-services">LaswitchTech/core-plugin-services</a></td>
+                <td>Core Plugin - Services Management</td>
             </tr><tr>
                 <td>today</td>
                 <td><a href="https://github.com/LaswitchTech/core">LaswitchTech/core</a></td>
