@@ -67,8 +67,8 @@
                 <td>Core Plugin - Leads Management</td>
             </tr><tr>
                 <td>2 days ago</td>
-                <td><a href="https://github.com/LaswitchTech/core-plugin-doctypes">LaswitchTech/core-plugin-doctypes</a></td>
-                <td>Core Plugin - Doctypes Management</td>
+                <td><a href="https://github.com/LaswitchTech/core-plugin-dev">LaswitchTech/core-plugin-dev</a></td>
+                <td>Core Plugin - Development Tools</td>
             </tr><tr>
                 <td>2 days ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-tasks">LaswitchTech/core-plugin-tasks</a></td>
