@@ -54,9 +54,13 @@
                 <th>Description</th>
             </tr>
             <tr>
-                <td>4 days ago</td>
-                <td><a href="https://github.com/LaswitchTech/core-plugin-services">LaswitchTech/core-plugin-services</a></td>
-                <td>Core Plugin - Services Management</td>
+                <td>today</td>
+                <td><a href="https://github.com/LaswitchTech/core-plugin-roles">LaswitchTech/core-plugin-roles</a></td>
+                <td>Core Plugin - Manage Roles and Permissions</td>
+            </tr><tr>
+                <td>today</td>
+                <td><a href="https://github.com/LaswitchTech/core-plugin-process">LaswitchTech/core-plugin-process</a></td>
+                <td>Core Plugin - Manage Task&#39;s Processes</td>
             </tr><tr>
                 <td>4 days ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-leads">LaswitchTech/core-plugin-leads</a></td>
@@ -67,32 +71,28 @@
                 <td>Core Plugin - Documents Management</td>
             </tr><tr>
                 <td>4 days ago</td>
-                <td><a href="https://github.com/LaswitchTech/core-plugin-favicon">LaswitchTech/core-plugin-favicon</a></td>
-                <td>Core Plugin - Favicon Integration</td>
+                <td><a href="https://github.com/LaswitchTech/core-plugin-components">LaswitchTech/core-plugin-components</a></td>
+                <td>Core Plugin - Core Components &amp; Layouts</td>
             </tr><tr>
                 <td>4 days ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-followups">LaswitchTech/core-plugin-followups</a></td>
                 <td>Core Plugin - Follow-Ups Management</td>
             </tr><tr>
                 <td>4 days ago</td>
-                <td><a href="https://github.com/LaswitchTech/core-plugin-components">LaswitchTech/core-plugin-components</a></td>
-                <td>Core Plugin - Core Components &amp; Layouts</td>
+                <td><a href="https://github.com/LaswitchTech/core-plugin-favicon">LaswitchTech/core-plugin-favicon</a></td>
+                <td>Core Plugin - Favicon Integration</td>
+            </tr><tr>
+                <td>4 days ago</td>
+                <td><a href="https://github.com/LaswitchTech/core-plugin-services">LaswitchTech/core-plugin-services</a></td>
+                <td>Core Plugin - Services Management</td>
             </tr><tr>
                 <td>5 days ago</td>
-                <td><a href="https://github.com/LaswitchTech/core">LaswitchTech/core</a></td>
-                <td>Core Framework</td>
-            </tr><tr>
-                <td>5 days ago</td>
-                <td><a href="https://github.com/LaswitchTech/core-plugin-vcards">LaswitchTech/core-plugin-vcards</a></td>
-                <td>Core Plugin - Add vCards to your application</td>
+                <td><a href="https://github.com/LaswitchTech/core-plugin-relationship">LaswitchTech/core-plugin-relationship</a></td>
+                <td>Core Plugin - Manage Relationships</td>
             </tr><tr>
                 <td>5 days ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-playground">LaswitchTech/core-plugin-playground</a></td>
                 <td>Core Plugin - Playground Environment</td>
-            </tr><tr>
-                <td>5 days ago</td>
-                <td><a href="https://github.com/LaswitchTech/core-plugin-process">LaswitchTech/core-plugin-process</a></td>
-                <td>Core Plugin - Manage Task&#39;s Processes</td>
             </tr>
         </table>
     </p>
