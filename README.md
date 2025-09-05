@@ -63,8 +63,8 @@
                 <td>Core Plugin - Leads Management</td>
             </tr><tr>
                 <td>1 day ago</td>
-                <td><a href="https://github.com/LaswitchTech/core-plugin-components">LaswitchTech/core-plugin-components</a></td>
-                <td>Core Plugin - Core Components &amp; Layouts</td>
+                <td><a href="https://github.com/LaswitchTech/core-theme-default">LaswitchTech/core-theme-default</a></td>
+                <td>Core Theme - Default</td>
             </tr><tr>
                 <td>1 day ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-extensions">LaswitchTech/core-plugin-extensions</a></td>
@@ -79,20 +79,20 @@
                 <td>Core Plugin - Add vCards to your application</td>
             </tr><tr>
                 <td>1 day ago</td>
-                <td><a href="https://github.com/LaswitchTech/core-theme-default">LaswitchTech/core-theme-default</a></td>
-                <td>Core Theme - Default</td>
+                <td><a href="https://github.com/LaswitchTech/core-plugin-components">LaswitchTech/core-plugin-components</a></td>
+                <td>Core Plugin - Core Components &amp; Layouts</td>
             </tr><tr>
                 <td>1 day ago</td>
-                <td><a href="https://github.com/LaswitchTech/core-plugin-datatables">LaswitchTech/core-plugin-datatables</a></td>
-                <td>Core Plugin - Datatables</td>
+                <td><a href="https://github.com/LaswitchTech/core-plugin-maintenance">LaswitchTech/core-plugin-maintenance</a></td>
+                <td>Core Plugin - Maintenance Mode</td>
             </tr><tr>
                 <td>1 day ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-followups">LaswitchTech/core-plugin-followups</a></td>
                 <td>Core Plugin - Follow-Ups Management</td>
             </tr><tr>
                 <td>1 day ago</td>
-                <td><a href="https://github.com/LaswitchTech/core-plugin-maintenance">LaswitchTech/core-plugin-maintenance</a></td>
-                <td>Core Plugin - Maintenance Mode</td>
+                <td><a href="https://github.com/LaswitchTech/core-plugin-datatables">LaswitchTech/core-plugin-datatables</a></td>
+                <td>Core Plugin - Datatables</td>
             </tr>
         </table>
     </p>
