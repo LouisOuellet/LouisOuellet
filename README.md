@@ -55,8 +55,8 @@
             </tr>
             <tr>
                 <td>today</td>
-                <td><a href="https://github.com/LaswitchTech/core">LaswitchTech/core</a></td>
-                <td>Core Framework</td>
+                <td><a href="https://github.com/LaswitchTech/core-plugin-process">LaswitchTech/core-plugin-process</a></td>
+                <td>Core Plugin - Manage Task&#39;s Processes</td>
             </tr><tr>
                 <td>today</td>
                 <td><a href="https://github.com/LaswitchTech/core-theme-default">LaswitchTech/core-theme-default</a></td>
@@ -69,6 +69,10 @@
                 <td>today</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-installer">LaswitchTech/core-plugin-installer</a></td>
                 <td>Core Plugin - Installer for your application</td>
+            </tr><tr>
+                <td>today</td>
+                <td><a href="https://github.com/LaswitchTech/core">LaswitchTech/core</a></td>
+                <td>Core Framework</td>
             </tr><tr>
                 <td>4 days ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-users">LaswitchTech/core-plugin-users</a></td>
@@ -83,12 +87,8 @@
                 <td>Core Plugin - Manage your Profile</td>
             </tr><tr>
                 <td>5 days ago</td>
-                <td><a href="https://github.com/LaswitchTech/core-plugin-select2">LaswitchTech/core-plugin-select2</a></td>
-                <td>Core Plugin - Select2</td>
-            </tr><tr>
-                <td>5 days ago</td>
-                <td><a href="https://github.com/LaswitchTech/core-plugin-leads">LaswitchTech/core-plugin-leads</a></td>
-                <td>Core Plugin - Leads Management</td>
+                <td><a href="https://github.com/LaswitchTech/core-plugin-datatables">LaswitchTech/core-plugin-datatables</a></td>
+                <td>Core Plugin - Datatables</td>
             </tr><tr>
                 <td>5 days ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-vcards">LaswitchTech/core-plugin-vcards</a></td>
