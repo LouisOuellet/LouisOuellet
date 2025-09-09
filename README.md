@@ -54,43 +54,43 @@
                 <th>Description</th>
             </tr>
             <tr>
-                <td>3 days ago</td>
+                <td>4 days ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-profile">LaswitchTech/core-plugin-profile</a></td>
                 <td>Core Plugin - Manage your Profile</td>
             </tr><tr>
-                <td>3 days ago</td>
+                <td>4 days ago</td>
                 <td><a href="https://github.com/LaswitchTech/core">LaswitchTech/core</a></td>
                 <td>Core Framework</td>
             </tr><tr>
-                <td>3 days ago</td>
+                <td>4 days ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-notes">LaswitchTech/core-plugin-notes</a></td>
                 <td>Core Plugin - Manage Notes</td>
             </tr><tr>
-                <td>3 days ago</td>
+                <td>4 days ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-users">LaswitchTech/core-plugin-users</a></td>
                 <td>Core Plugin - Manage Users and Colleagues</td>
             </tr><tr>
-                <td>4 days ago</td>
+                <td>5 days ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-select2">LaswitchTech/core-plugin-select2</a></td>
                 <td>Core Plugin - Select2</td>
             </tr><tr>
-                <td>4 days ago</td>
+                <td>5 days ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-leads">LaswitchTech/core-plugin-leads</a></td>
                 <td>Core Plugin - Leads Management</td>
             </tr><tr>
-                <td>4 days ago</td>
+                <td>5 days ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-vcards">LaswitchTech/core-plugin-vcards</a></td>
                 <td>Core Plugin - Add vCards to your application</td>
             </tr><tr>
-                <td>4 days ago</td>
+                <td>5 days ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-maintenance">LaswitchTech/core-plugin-maintenance</a></td>
                 <td>Core Plugin - Maintenance Mode</td>
             </tr><tr>
-                <td>4 days ago</td>
+                <td>5 days ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-theme-default">LaswitchTech/core-theme-default</a></td>
                 <td>Core Theme - Default</td>
             </tr><tr>
-                <td>4 days ago</td>
+                <td>5 days ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-extensions">LaswitchTech/core-plugin-extensions</a></td>
                 <td>Core Plugin - Manage installed modules, plugins, and themes.</td>
             </tr>
