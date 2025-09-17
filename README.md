@@ -25,7 +25,7 @@
                 <td>7 months ago</td>
                 <td><a href="https://laswitchtech.com/en/blog/2025/01/24/let-s-talk-building-a-modular-php-framework-from-scratch#">Let&#39;s Talk - Building a Modular PHP Framework from Scratch</a></td>
             </tr><tr>
-                <td>7 months ago</td>
+                <td>8 months ago</td>
                 <td><a href="https://laswitchtech.com/en/blog/2025/01/20/repurpose-old-printers-using-a-raspberry-pi#">Repurpose Old Printers Using a Raspberry Pi</a></td>
             </tr><tr>
                 <td>9 months ago</td>
