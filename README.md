@@ -54,6 +54,14 @@
                 <th>Description</th>
             </tr>
             <tr>
+                <td>1 day ago</td>
+                <td><a href="https://github.com/LaswitchTech/router-pi5">LaswitchTech/router-pi5</a></td>
+                <td>Building a Router with RPI5</td>
+            </tr><tr>
+                <td>1 week ago</td>
+                <td><a href="https://github.com/LaswitchTech/core-plugin-services">LaswitchTech/core-plugin-services</a></td>
+                <td>Core Plugin - Services Management</td>
+            </tr><tr>
                 <td>1 week ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-process">LaswitchTech/core-plugin-process</a></td>
                 <td>Core Plugin - Manage Task&#39;s Processes</td>
@@ -67,32 +75,24 @@
                 <td>Core Theme - Default</td>
             </tr><tr>
                 <td>1 week ago</td>
-                <td><a href="https://github.com/LaswitchTech/core-plugin-stepper">LaswitchTech/core-plugin-stepper</a></td>
-                <td>Core Plugin - Stepper</td>
-            </tr><tr>
-                <td>1 week ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-installer">LaswitchTech/core-plugin-installer</a></td>
                 <td>Core Plugin - Installer for your application</td>
             </tr><tr>
                 <td>1 week ago</td>
-                <td><a href="https://github.com/LaswitchTech/core-plugin-services">LaswitchTech/core-plugin-services</a></td>
-                <td>Core Plugin - Services Management</td>
-            </tr><tr>
-                <td>1 week ago</td>
-                <td><a href="https://github.com/LaswitchTech/core-plugin-users">LaswitchTech/core-plugin-users</a></td>
-                <td>Core Plugin - Manage Users and Colleagues</td>
+                <td><a href="https://github.com/LaswitchTech/core-plugin-stepper">LaswitchTech/core-plugin-stepper</a></td>
+                <td>Core Plugin - Stepper</td>
             </tr><tr>
                 <td>1 week ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-notes">LaswitchTech/core-plugin-notes</a></td>
                 <td>Core Plugin - Manage Notes</td>
             </tr><tr>
                 <td>1 week ago</td>
-                <td><a href="https://github.com/LaswitchTech/core-plugin-profile">LaswitchTech/core-plugin-profile</a></td>
-                <td>Core Plugin - Manage your Profile</td>
+                <td><a href="https://github.com/LaswitchTech/core-plugin-users">LaswitchTech/core-plugin-users</a></td>
+                <td>Core Plugin - Manage Users and Colleagues</td>
             </tr><tr>
                 <td>1 week ago</td>
-                <td><a href="https://github.com/LaswitchTech/core-plugin-components">LaswitchTech/core-plugin-components</a></td>
-                <td>Core Plugin - Core Components &amp; Layouts</td>
+                <td><a href="https://github.com/LaswitchTech/core-plugin-profile">LaswitchTech/core-plugin-profile</a></td>
+                <td>Core Plugin - Manage your Profile</td>
             </tr>
         </table>
     </p>
