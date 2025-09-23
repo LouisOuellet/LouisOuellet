@@ -54,17 +54,17 @@
                 <th>Description</th>
             </tr>
             <tr>
-                <td>1 day ago</td>
-                <td><a href="https://github.com/LaswitchTech/core-plugin-maintenance">LaswitchTech/core-plugin-maintenance</a></td>
-                <td>Core Plugin - Maintenance Mode</td>
+                <td>today</td>
+                <td><a href="https://github.com/LaswitchTech/core-theme-default">LaswitchTech/core-theme-default</a></td>
+                <td>Core Theme - Default</td>
             </tr><tr>
                 <td>1 day ago</td>
-                <td><a href="https://github.com/LaswitchTech/core-plugin-leads">LaswitchTech/core-plugin-leads</a></td>
-                <td>Core Plugin - Leads Management</td>
+                <td><a href="https://github.com/LaswitchTech/core-plugin-library">LaswitchTech/core-plugin-library</a></td>
+                <td>Core Plugin - Library Menu for Development</td>
             </tr><tr>
                 <td>1 day ago</td>
-                <td><a href="https://github.com/LaswitchTech/core-plugin-sales">LaswitchTech/core-plugin-sales</a></td>
-                <td>Core Plugin - Sales Menu</td>
+                <td><a href="https://github.com/LaswitchTech/core-plugin-billing">LaswitchTech/core-plugin-billing</a></td>
+                <td>Core Plugin - Billing Menu</td>
             </tr><tr>
                 <td>1 day ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-extensions">LaswitchTech/core-plugin-extensions</a></td>
@@ -83,8 +83,8 @@
                 <td>Core Plugin - Add vCards to your application</td>
             </tr><tr>
                 <td>1 day ago</td>
-                <td><a href="https://github.com/LaswitchTech/core-plugin-process">LaswitchTech/core-plugin-process</a></td>
-                <td>Core Plugin - Manage Task&#39;s Processes</td>
+                <td><a href="https://github.com/LaswitchTech/core-plugin-leads">LaswitchTech/core-plugin-leads</a></td>
+                <td>Core Plugin - Leads Management</td>
             </tr><tr>
                 <td>1 day ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-services">LaswitchTech/core-plugin-services</a></td>
