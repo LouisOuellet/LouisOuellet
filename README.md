@@ -55,44 +55,44 @@
             </tr>
             <tr>
                 <td>today</td>
-                <td><a href="https://github.com/LaswitchTech/core-plugin-pdfviewer">LaswitchTech/core-plugin-pdfviewer</a></td>
-                <td>Core Plugin - PDF Viewer</td>
+                <td><a href="https://github.com/LaswitchTech/core-theme-glass">LaswitchTech/core-theme-glass</a></td>
+                <td>Core Theme - Glass</td>
             </tr><tr>
                 <td>today</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-leads">LaswitchTech/core-plugin-leads</a></td>
                 <td>Core Plugin - Leads Management</td>
             </tr><tr>
                 <td>today</td>
+                <td><a href="https://github.com/LaswitchTech/core-plugin-tasks">LaswitchTech/core-plugin-tasks</a></td>
+                <td>Core Plugin - Manage Tasks</td>
+            </tr><tr>
+                <td>today</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-crm">LaswitchTech/core-plugin-crm</a></td>
                 <td>Core Plugin - CRM</td>
             </tr><tr>
                 <td>today</td>
-                <td><a href="https://github.com/LaswitchTech/core-plugin-tasks">LaswitchTech/core-plugin-tasks</a></td>
-                <td>Core Plugin - Manage Tasks</td>
+                <td><a href="https://github.com/LaswitchTech/core-plugin-extensions">LaswitchTech/core-plugin-extensions</a></td>
+                <td>Core Plugin - Manage installed modules, plugins, and themes.</td>
             </tr><tr>
                 <td>today</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-feed">LaswitchTech/core-plugin-feed</a></td>
                 <td>Core Plugin - Feed</td>
             </tr><tr>
                 <td>today</td>
-                <td><a href="https://github.com/LaswitchTech/core-theme-gentelella">LaswitchTech/core-theme-gentelella</a></td>
-                <td>Core Theme - Gentelella</td>
-            </tr><tr>
-                <td>today</td>
-                <td><a href="https://github.com/LaswitchTech/core-plugin-components">LaswitchTech/core-plugin-components</a></td>
-                <td>Core Plugin - Core Components &amp; Layouts</td>
-            </tr><tr>
-                <td>today</td>
-                <td><a href="https://github.com/LaswitchTech/core-plugin-excel">LaswitchTech/core-plugin-excel</a></td>
-                <td>Core Plugin - Excel</td>
-            </tr><tr>
-                <td>today</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-doctypes">LaswitchTech/core-plugin-doctypes</a></td>
                 <td>Core Plugin - Doctypes Management</td>
             </tr><tr>
                 <td>today</td>
-                <td><a href="https://github.com/LaswitchTech/core-theme-glass">LaswitchTech/core-theme-glass</a></td>
-                <td>Core Theme - Glass</td>
+                <td><a href="https://github.com/LaswitchTech/core-theme-gentelella">LaswitchTech/core-theme-gentelella</a></td>
+                <td>Core Theme - Gentelella</td>
+            </tr><tr>
+                <td>today</td>
+                <td><a href="https://github.com/LaswitchTech/core-plugin-categories">LaswitchTech/core-plugin-categories</a></td>
+                <td>Core Plugin - Categories Management</td>
+            </tr><tr>
+                <td>today</td>
+                <td><a href="https://github.com/LaswitchTech/core-plugin-excel">LaswitchTech/core-plugin-excel</a></td>
+                <td>Core Plugin - Excel</td>
             </tr>
         </table>
     </p>
