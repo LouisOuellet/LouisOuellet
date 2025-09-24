@@ -55,8 +55,8 @@
             </tr>
             <tr>
                 <td>today</td>
-                <td><a href="https://github.com/LaswitchTech/core-plugin-pdfviewer">LaswitchTech/core-plugin-pdfviewer</a></td>
-                <td>Core Plugin - PDF Viewer</td>
+                <td><a href="https://github.com/LaswitchTech/core-plugin-datatables">LaswitchTech/core-plugin-datatables</a></td>
+                <td>Core Plugin - Datatables</td>
             </tr><tr>
                 <td>today</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-leads">LaswitchTech/core-plugin-leads</a></td>
@@ -83,16 +83,16 @@
                 <td>Core Plugin - Add vCards to your application</td>
             </tr><tr>
                 <td>today</td>
-                <td><a href="https://github.com/LaswitchTech/core-plugin-components">LaswitchTech/core-plugin-components</a></td>
-                <td>Core Plugin - Core Components &amp; Layouts</td>
+                <td><a href="https://github.com/LaswitchTech/core-plugin-process">LaswitchTech/core-plugin-process</a></td>
+                <td>Core Plugin - Manage Task&#39;s Processes</td>
             </tr><tr>
                 <td>today</td>
-                <td><a href="https://github.com/ALBCIE/hub-plugin-apps">ALBCIE/hub-plugin-apps</a></td>
-                <td>WorkflowHub Plugin - Apps</td>
+                <td><a href="https://github.com/LaswitchTech/core-plugin-doctypes">LaswitchTech/core-plugin-doctypes</a></td>
+                <td>Core Plugin - Doctypes Management</td>
             </tr><tr>
                 <td>today</td>
-                <td><a href="https://github.com/LaswitchTech/core-plugin-excel">LaswitchTech/core-plugin-excel</a></td>
-                <td>Core Plugin - Excel</td>
+                <td><a href="https://github.com/LaswitchTech/core-plugin-roles">LaswitchTech/core-plugin-roles</a></td>
+                <td>Core Plugin - Manage Roles and Permissions</td>
             </tr>
         </table>
     </p>
