@@ -55,16 +55,16 @@
             </tr>
             <tr>
                 <td>today</td>
+                <td><a href="https://github.com/ALBCIE/hub-plugin-apps">ALBCIE/hub-plugin-apps</a></td>
+                <td>WorkflowHub Plugin - Apps</td>
+            </tr><tr>
+                <td>today</td>
                 <td><a href="https://github.com/LaswitchTech/core">LaswitchTech/core</a></td>
                 <td>Core Framework</td>
             </tr><tr>
                 <td>1 day ago</td>
-                <td><a href="https://github.com/LaswitchTech/core-plugin-datatables">LaswitchTech/core-plugin-datatables</a></td>
-                <td>Core Plugin - Datatables</td>
-            </tr><tr>
-                <td>1 day ago</td>
-                <td><a href="https://github.com/LaswitchTech/core-plugin-tasks">LaswitchTech/core-plugin-tasks</a></td>
-                <td>Core Plugin - Manage Tasks</td>
+                <td><a href="https://github.com/LaswitchTech/core-plugin-bootstrap">LaswitchTech/core-plugin-bootstrap</a></td>
+                <td>Core Plugin - Bootstrap</td>
             </tr><tr>
                 <td>1 day ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-crm">LaswitchTech/core-plugin-crm</a></td>
@@ -75,8 +75,8 @@
                 <td>Core Plugin - Manage installed modules, plugins, and themes.</td>
             </tr><tr>
                 <td>1 day ago</td>
-                <td><a href="https://github.com/LaswitchTech/core-plugin-feed">LaswitchTech/core-plugin-feed</a></td>
-                <td>Core Plugin - Feed</td>
+                <td><a href="https://github.com/LaswitchTech/core-plugin-excel">LaswitchTech/core-plugin-excel</a></td>
+                <td>Core Plugin - Excel</td>
             </tr><tr>
                 <td>1 day ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-vcards">LaswitchTech/core-plugin-vcards</a></td>
@@ -87,8 +87,8 @@
                 <td>Core Plugin - Manage Task&#39;s Processes</td>
             </tr><tr>
                 <td>1 day ago</td>
-                <td><a href="https://github.com/LaswitchTech/core-plugin-components">LaswitchTech/core-plugin-components</a></td>
-                <td>Core Plugin - Core Components &amp; Layouts</td>
+                <td><a href="https://github.com/LaswitchTech/core-plugin-tasks">LaswitchTech/core-plugin-tasks</a></td>
+                <td>Core Plugin - Manage Tasks</td>
             </tr><tr>
                 <td>1 day ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-roles">LaswitchTech/core-plugin-roles</a></td>
