@@ -75,8 +75,8 @@
                 <td>Core Plugin - Manage installed modules, plugins, and themes.</td>
             </tr><tr>
                 <td>2 days ago</td>
-                <td><a href="https://github.com/LaswitchTech/core-plugin-excel">LaswitchTech/core-plugin-excel</a></td>
-                <td>Core Plugin - Excel</td>
+                <td><a href="https://github.com/LaswitchTech/core-theme-glass">LaswitchTech/core-theme-glass</a></td>
+                <td>Core Theme - Glass</td>
             </tr><tr>
                 <td>2 days ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-vcards">LaswitchTech/core-plugin-vcards</a></td>
