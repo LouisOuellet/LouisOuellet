@@ -54,6 +54,10 @@
                 <th>Description</th>
             </tr>
             <tr>
+                <td>today</td>
+                <td><a href="https://github.com/LaswitchTech/core-plugin-event">LaswitchTech/core-plugin-event</a></td>
+                <td>Core Plugin - Events Management</td>
+            </tr><tr>
                 <td>5 days ago</td>
                 <td><a href="https://github.com/ALBCIE/hub-plugin-apps">ALBCIE/hub-plugin-apps</a></td>
                 <td>WorkflowHub Plugin - Apps</td>
@@ -63,16 +67,12 @@
                 <td>Core Framework</td>
             </tr><tr>
                 <td>6 days ago</td>
+                <td><a href="https://github.com/LaswitchTech/core-plugin-bootstrap">LaswitchTech/core-plugin-bootstrap</a></td>
+                <td>Core Plugin - Bootstrap</td>
+            </tr><tr>
+                <td>6 days ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-crm">LaswitchTech/core-plugin-crm</a></td>
                 <td>Core Plugin - CRM</td>
-            </tr><tr>
-                <td>6 days ago</td>
-                <td><a href="https://github.com/LaswitchTech/core-plugin-extensions">LaswitchTech/core-plugin-extensions</a></td>
-                <td>Core Plugin - Manage installed modules, plugins, and themes.</td>
-            </tr><tr>
-                <td>6 days ago</td>
-                <td><a href="https://github.com/LaswitchTech/core-plugin-select2">LaswitchTech/core-plugin-select2</a></td>
-                <td>Core Plugin - Select2</td>
             </tr><tr>
                 <td>6 days ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-vcards">LaswitchTech/core-plugin-vcards</a></td>
@@ -83,16 +83,16 @@
                 <td>Core Plugin - Manage Task&#39;s Processes</td>
             </tr><tr>
                 <td>6 days ago</td>
-                <td><a href="https://github.com/LaswitchTech/core-plugin-stepper">LaswitchTech/core-plugin-stepper</a></td>
-                <td>Core Plugin - Stepper</td>
+                <td><a href="https://github.com/LaswitchTech/core-plugin-extensions">LaswitchTech/core-plugin-extensions</a></td>
+                <td>Core Plugin - Manage installed modules, plugins, and themes.</td>
             </tr><tr>
                 <td>6 days ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-roles">LaswitchTech/core-plugin-roles</a></td>
                 <td>Core Plugin - Manage Roles and Permissions</td>
             </tr><tr>
                 <td>6 days ago</td>
-                <td><a href="https://github.com/LaswitchTech/core-plugin-tasks">LaswitchTech/core-plugin-tasks</a></td>
-                <td>Core Plugin - Manage Tasks</td>
+                <td><a href="https://github.com/LaswitchTech/core-theme-gentelella">LaswitchTech/core-theme-gentelella</a></td>
+                <td>Core Theme - Gentelella</td>
             </tr>
         </table>
     </p>
