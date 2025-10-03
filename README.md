@@ -55,6 +55,10 @@
             </tr>
             <tr>
                 <td>today</td>
+                <td><a href="https://github.com/LaswitchTech/core-plugin-event">LaswitchTech/core-plugin-event</a></td>
+                <td>Core Plugin - Events Management</td>
+            </tr><tr>
+                <td>today</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-roles">LaswitchTech/core-plugin-roles</a></td>
                 <td>Core Plugin - Manage Roles and Permissions</td>
             </tr><tr>
@@ -63,8 +67,12 @@
                 <td>Core Plugin - Manage Tasks</td>
             </tr><tr>
                 <td>today</td>
-                <td><a href="https://github.com/LaswitchTech/core-plugin-event">LaswitchTech/core-plugin-event</a></td>
-                <td>Core Plugin - Events Management</td>
+                <td><a href="https://github.com/LaswitchTech/core-plugin-documents">LaswitchTech/core-plugin-documents</a></td>
+                <td>Core Plugin - Documents Management</td>
+            </tr><tr>
+                <td>today</td>
+                <td><a href="https://github.com/LaswitchTech/core-plugin-notes">LaswitchTech/core-plugin-notes</a></td>
+                <td>Core Plugin - Manage Notes</td>
             </tr><tr>
                 <td>today</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-dashboard">LaswitchTech/core-plugin-dashboard</a></td>
@@ -83,16 +91,8 @@
                 <td>WorkflowHub Plugin - Apps</td>
             </tr><tr>
                 <td>1 week ago</td>
-                <td><a href="https://github.com/LaswitchTech/core-plugin-feed">LaswitchTech/core-plugin-feed</a></td>
-                <td>Core Plugin - Feed</td>
-            </tr><tr>
-                <td>1 week ago</td>
-                <td><a href="https://github.com/LaswitchTech/core-theme-glass">LaswitchTech/core-theme-glass</a></td>
-                <td>Core Theme - Glass</td>
-            </tr><tr>
-                <td>1 week ago</td>
-                <td><a href="https://github.com/LaswitchTech/core-theme-gentelella">LaswitchTech/core-theme-gentelella</a></td>
-                <td>Core Theme - Gentelella</td>
+                <td><a href="https://github.com/LaswitchTech/core-plugin-pdfviewer">LaswitchTech/core-plugin-pdfviewer</a></td>
+                <td>Core Plugin - PDF Viewer</td>
             </tr>
         </table>
     </p>
