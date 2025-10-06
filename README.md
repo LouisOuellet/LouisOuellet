@@ -55,8 +55,8 @@
             </tr>
             <tr>
                 <td>today</td>
-                <td><a href="https://github.com/LaswitchTech/core">LaswitchTech/core</a></td>
-                <td>Core Framework</td>
+                <td><a href="https://github.com/ALBCIE/hub-plugin-assessments">ALBCIE/hub-plugin-assessments</a></td>
+                <td>WorkflowHub Plugin - Assessments</td>
             </tr><tr>
                 <td>today</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-leads">LaswitchTech/core-plugin-leads</a></td>
@@ -75,12 +75,12 @@
                 <td>Core Plugin - CRM</td>
             </tr><tr>
                 <td>today</td>
-                <td><a href="https://github.com/ALBCIE/hub-plugin-assessments">ALBCIE/hub-plugin-assessments</a></td>
-                <td>WorkflowHub Plugin - Assessments</td>
-            </tr><tr>
-                <td>today</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-datatables">LaswitchTech/core-plugin-datatables</a></td>
                 <td>Core Plugin - Datatables</td>
+            </tr><tr>
+                <td>today</td>
+                <td><a href="https://github.com/LaswitchTech/core">LaswitchTech/core</a></td>
+                <td>Core Framework</td>
             </tr><tr>
                 <td>today</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-roles">LaswitchTech/core-plugin-roles</a></td>
@@ -90,9 +90,9 @@
                 <td><a href="https://github.com/LaswitchTech/core-plugin-clients">LaswitchTech/core-plugin-clients</a></td>
                 <td>Core Plugin - Clients Management</td>
             </tr><tr>
-                <td>3 days ago</td>
-                <td><a href="https://github.com/LaswitchTech/core-plugin-event">LaswitchTech/core-plugin-event</a></td>
-                <td>Core Plugin - Events Management</td>
+                <td>today</td>
+                <td><a href="https://github.com/LaswitchTech/core-plugin-relationship">LaswitchTech/core-plugin-relationship</a></td>
+                <td>Core Plugin - Manage Relationships</td>
             </tr>
         </table>
     </p>
