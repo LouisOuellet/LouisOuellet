@@ -54,13 +54,17 @@
                 <th>Description</th>
             </tr>
             <tr>
-                <td>3 days ago</td>
-                <td><a href="https://github.com/LaswitchTech/core-plugin-documents">LaswitchTech/core-plugin-documents</a></td>
-                <td>Core Plugin - Documents Management</td>
+                <td>today</td>
+                <td><a href="https://github.com/ALBCIE/hub-plugin-assessments">ALBCIE/hub-plugin-assessments</a></td>
+                <td>WorkflowHub Plugin - Assessments</td>
             </tr><tr>
                 <td>3 days ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-dashboard">LaswitchTech/core-plugin-dashboard</a></td>
                 <td>Core Plugin - Dashboards</td>
+            </tr><tr>
+                <td>3 days ago</td>
+                <td><a href="https://github.com/LaswitchTech/core-plugin-documents">LaswitchTech/core-plugin-documents</a></td>
+                <td>Core Plugin - Documents Management</td>
             </tr><tr>
                 <td>3 days ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-tasks">LaswitchTech/core-plugin-tasks</a></td>
@@ -89,10 +93,6 @@
                 <td>1 week ago</td>
                 <td><a href="https://github.com/ALBCIE/hub-plugin-apps">ALBCIE/hub-plugin-apps</a></td>
                 <td>WorkflowHub Plugin - Apps</td>
-            </tr><tr>
-                <td>1 week ago</td>
-                <td><a href="https://github.com/LaswitchTech/core-plugin-feed">LaswitchTech/core-plugin-feed</a></td>
-                <td>Core Plugin - Feed</td>
             </tr>
         </table>
     </p>
