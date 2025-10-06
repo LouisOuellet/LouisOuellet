@@ -91,8 +91,8 @@
                 <td>WorkflowHub Plugin - Apps</td>
             </tr><tr>
                 <td>1 week ago</td>
-                <td><a href="https://github.com/LaswitchTech/core-theme-default">LaswitchTech/core-theme-default</a></td>
-                <td>Core Theme - Default</td>
+                <td><a href="https://github.com/LaswitchTech/core-plugin-feed">LaswitchTech/core-plugin-feed</a></td>
+                <td>Core Plugin - Feed</td>
             </tr>
         </table>
     </p>
