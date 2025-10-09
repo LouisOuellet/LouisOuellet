@@ -79,16 +79,16 @@
                 <td>Core Plugin - Menu</td>
             </tr><tr>
                 <td>2 days ago</td>
-                <td><a href="https://github.com/LaswitchTech/core-plugin-contacts">LaswitchTech/core-plugin-contacts</a></td>
-                <td>Core Plugin - Contacts Management</td>
+                <td><a href="https://github.com/LaswitchTech/core-plugin-notes">LaswitchTech/core-plugin-notes</a></td>
+                <td>Core Plugin - Manage Notes</td>
             </tr><tr>
                 <td>2 days ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-services">LaswitchTech/core-plugin-services</a></td>
                 <td>Core Plugin - Services Management</td>
             </tr><tr>
                 <td>2 days ago</td>
-                <td><a href="https://github.com/LaswitchTech/core-plugin-notes">LaswitchTech/core-plugin-notes</a></td>
-                <td>Core Plugin - Manage Notes</td>
+                <td><a href="https://github.com/LaswitchTech/core-plugin-contacts">LaswitchTech/core-plugin-contacts</a></td>
+                <td>Core Plugin - Contacts Management</td>
             </tr><tr>
                 <td>2 days ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-documents">LaswitchTech/core-plugin-documents</a></td>
