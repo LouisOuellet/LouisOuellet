@@ -55,6 +55,10 @@
             </tr>
             <tr>
                 <td>today</td>
+                <td><a href="https://github.com/LaswitchTech/core-plugin-importers">LaswitchTech/core-plugin-importers</a></td>
+                <td>Core Plugin - Manage Importers</td>
+            </tr><tr>
+                <td>today</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-groups">LaswitchTech/core-plugin-groups</a></td>
                 <td>Core Plugin - Manage Groups</td>
             </tr><tr>
@@ -63,12 +67,12 @@
                 <td>Core Plugin - Manage Roles and Permissions</td>
             </tr><tr>
                 <td>6 days ago</td>
-                <td><a href="https://github.com/LaswitchTech/core">LaswitchTech/core</a></td>
-                <td>Core Framework</td>
-            </tr><tr>
-                <td>6 days ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-leads">LaswitchTech/core-plugin-leads</a></td>
                 <td>Core Plugin - Leads Management</td>
+            </tr><tr>
+                <td>6 days ago</td>
+                <td><a href="https://github.com/LaswitchTech/core">LaswitchTech/core</a></td>
+                <td>Core Framework</td>
             </tr><tr>
                 <td>6 days ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-theme-default">LaswitchTech/core-theme-default</a></td>
@@ -83,16 +87,12 @@
                 <td>Core Plugin - Manage Task&#39;s Processes</td>
             </tr><tr>
                 <td>1 week ago</td>
-                <td><a href="https://github.com/LaswitchTech/core-plugin-contacts">LaswitchTech/core-plugin-contacts</a></td>
-                <td>Core Plugin - Contacts Management</td>
-            </tr><tr>
-                <td>1 week ago</td>
-                <td><a href="https://github.com/LaswitchTech/core-plugin-notes">LaswitchTech/core-plugin-notes</a></td>
-                <td>Core Plugin - Manage Notes</td>
-            </tr><tr>
-                <td>1 week ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-documents">LaswitchTech/core-plugin-documents</a></td>
                 <td>Core Plugin - Documents Management</td>
+            </tr><tr>
+                <td>1 week ago</td>
+                <td><a href="https://github.com/LaswitchTech/core-plugin-users">LaswitchTech/core-plugin-users</a></td>
+                <td>Core Plugin - Manage Users and Colleagues</td>
             </tr>
         </table>
     </p>
