@@ -54,6 +54,26 @@
                 <th>Description</th>
             </tr>
             <tr>
+                <td>today</td>
+                <td><a href="https://github.com/LaswitchTech/core-plugin-backups">LaswitchTech/core-plugin-backups</a></td>
+                <td>Core Plugin - Backup the application</td>
+            </tr><tr>
+                <td>today</td>
+                <td><a href="https://github.com/ALBCIE/hub-plugin-assessments">ALBCIE/hub-plugin-assessments</a></td>
+                <td>WorkflowHub Plugin - Assessments</td>
+            </tr><tr>
+                <td>today</td>
+                <td><a href="https://github.com/LaswitchTech/core-plugin-auth">LaswitchTech/core-plugin-auth</a></td>
+                <td>Core Plugin - Auth Management</td>
+            </tr><tr>
+                <td>today</td>
+                <td><a href="https://github.com/LaswitchTech/core">LaswitchTech/core</a></td>
+                <td>Core Framework</td>
+            </tr><tr>
+                <td>today</td>
+                <td><a href="https://github.com/LaswitchTech/core-module-core">LaswitchTech/core-module-core</a></td>
+                <td>Core Module - Core</td>
+            </tr><tr>
                 <td>1 day ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-groups">LaswitchTech/core-plugin-groups</a></td>
                 <td>Core Plugin - Manage Groups</td>
@@ -67,32 +87,12 @@
                 <td>Core Plugin - Manage Importers</td>
             </tr><tr>
                 <td>1 week ago</td>
-                <td><a href="https://github.com/LaswitchTech/core-theme-default">LaswitchTech/core-theme-default</a></td>
-                <td>Core Theme - Default</td>
-            </tr><tr>
-                <td>1 week ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-leads">LaswitchTech/core-plugin-leads</a></td>
                 <td>Core Plugin - Leads Management</td>
             </tr><tr>
                 <td>1 week ago</td>
-                <td><a href="https://github.com/LaswitchTech/core">LaswitchTech/core</a></td>
-                <td>Core Framework</td>
-            </tr><tr>
-                <td>1 week ago</td>
-                <td><a href="https://github.com/LaswitchTech/core-plugin-event">LaswitchTech/core-plugin-event</a></td>
-                <td>Core Plugin - Events Management</td>
-            </tr><tr>
-                <td>1 week ago</td>
-                <td><a href="https://github.com/LaswitchTech/core-plugin-security">LaswitchTech/core-plugin-security</a></td>
-                <td>Core Plugin - Menu</td>
-            </tr><tr>
-                <td>1 week ago</td>
-                <td><a href="https://github.com/LaswitchTech/core-plugin-documents">LaswitchTech/core-plugin-documents</a></td>
-                <td>Core Plugin - Documents Management</td>
-            </tr><tr>
-                <td>1 week ago</td>
-                <td><a href="https://github.com/LaswitchTech/core-plugin-process">LaswitchTech/core-plugin-process</a></td>
-                <td>Core Plugin - Manage Task&#39;s Processes</td>
+                <td><a href="https://github.com/LaswitchTech/core-theme-default">LaswitchTech/core-theme-default</a></td>
+                <td>Core Theme - Default</td>
             </tr>
         </table>
     </p>
