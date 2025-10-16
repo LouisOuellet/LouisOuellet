@@ -28,7 +28,7 @@
                 <td>8 months ago</td>
                 <td><a href="https://laswitchtech.com/en/blog/2025/01/20/repurpose-old-printers-using-a-raspberry-pi#">Repurpose Old Printers Using a Raspberry Pi</a></td>
             </tr><tr>
-                <td>9 months ago</td>
+                <td>10 months ago</td>
                 <td><a href="https://laswitchtech.com/en/blog/2024/12/20/enhancing-your-dokuwiki-forms-with-custom-javascript-replacing-newlines-with-markdown-friendly-syntax#">Enhancing Your DokuWiki Forms with Custom JavaScript - Replacing Newlines with Markdown-Friendly Syntax</a></td>
             </tr><tr>
                 <td>10 months ago</td>
@@ -54,43 +54,43 @@
                 <th>Description</th>
             </tr>
             <tr>
-                <td>today</td>
+                <td>1 day ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-backups">LaswitchTech/core-plugin-backups</a></td>
                 <td>Core Plugin - Backup the application</td>
             </tr><tr>
-                <td>today</td>
+                <td>1 day ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-leads">LaswitchTech/core-plugin-leads</a></td>
                 <td>Core Plugin - Leads Management</td>
             </tr><tr>
-                <td>today</td>
+                <td>1 day ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-library">LaswitchTech/core-plugin-library</a></td>
                 <td>Core Plugin - Library Menu for Development</td>
             </tr><tr>
-                <td>today</td>
+                <td>1 day ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-extensions">LaswitchTech/core-plugin-extensions</a></td>
                 <td>Core Plugin - Manage installed modules, plugins, and themes.</td>
             </tr><tr>
-                <td>today</td>
+                <td>1 day ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-roles">LaswitchTech/core-plugin-roles</a></td>
                 <td>Core Plugin - Manage Roles and Permissions</td>
             </tr><tr>
-                <td>today</td>
+                <td>1 day ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-importers">LaswitchTech/core-plugin-importers</a></td>
                 <td>Core Plugin - Manage Importers</td>
             </tr><tr>
-                <td>today</td>
+                <td>1 day ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-process">LaswitchTech/core-plugin-process</a></td>
                 <td>Core Plugin - Manage Task&#39;s Processes</td>
             </tr><tr>
-                <td>today</td>
+                <td>1 day ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-vcards">LaswitchTech/core-plugin-vcards</a></td>
                 <td>Core Plugin - Add vCards to your application</td>
             </tr><tr>
-                <td>today</td>
+                <td>1 day ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-clients">LaswitchTech/core-plugin-clients</a></td>
                 <td>Core Plugin - Clients Management</td>
             </tr><tr>
-                <td>today</td>
+                <td>1 day ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-services">LaswitchTech/core-plugin-services</a></td>
                 <td>Core Plugin - Services Management</td>
             </tr>
