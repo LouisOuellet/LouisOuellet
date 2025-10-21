@@ -55,8 +55,8 @@
             </tr>
             <tr>
                 <td>today</td>
-                <td><a href="https://github.com/ALBCIE/hub-plugin-apps">ALBCIE/hub-plugin-apps</a></td>
-                <td>WorkflowHub Plugin - Apps</td>
+                <td><a href="https://github.com/LaswitchTech/core">LaswitchTech/core</a></td>
+                <td>Core Framework</td>
             </tr><tr>
                 <td>today</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-leads">LaswitchTech/core-plugin-leads</a></td>
@@ -75,8 +75,8 @@
                 <td>Core Plugin - Manage Roles and Permissions</td>
             </tr><tr>
                 <td>today</td>
-                <td><a href="https://github.com/LaswitchTech/core">LaswitchTech/core</a></td>
-                <td>Core Framework</td>
+                <td><a href="https://github.com/LaswitchTech/core-plugin-event">LaswitchTech/core-plugin-event</a></td>
+                <td>Core Plugin - Events Management</td>
             </tr><tr>
                 <td>today</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-crm">LaswitchTech/core-plugin-crm</a></td>
@@ -87,12 +87,12 @@
                 <td>Core Plugin - Menu</td>
             </tr><tr>
                 <td>today</td>
-                <td><a href="https://github.com/LaswitchTech/core-plugin-library">LaswitchTech/core-plugin-library</a></td>
-                <td>Core Plugin - Library Menu for Development</td>
-            </tr><tr>
-                <td>today</td>
                 <td><a href="https://github.com/ALBCIE/hub-plugin-assessments">ALBCIE/hub-plugin-assessments</a></td>
                 <td>WorkflowHub Plugin - Assessments</td>
+            </tr><tr>
+                <td>today</td>
+                <td><a href="https://github.com/LaswitchTech/core-plugin-library">LaswitchTech/core-plugin-library</a></td>
+                <td>Core Plugin - Library Menu for Development</td>
             </tr>
         </table>
     </p>
