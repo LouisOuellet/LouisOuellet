@@ -54,17 +54,17 @@
                 <th>Description</th>
             </tr>
             <tr>
+                <td>today</td>
+                <td><a href="https://github.com/LaswitchTech/core-plugin-tasks">LaswitchTech/core-plugin-tasks</a></td>
+                <td>Core Plugin - Manage Tasks</td>
+            </tr><tr>
                 <td>1 day ago</td>
-                <td><a href="https://github.com/ALBCIE/hub-plugin-assessments">ALBCIE/hub-plugin-assessments</a></td>
-                <td>WorkflowHub Plugin - Assessments</td>
+                <td><a href="https://github.com/LaswitchTech/core-plugin-auth">LaswitchTech/core-plugin-auth</a></td>
+                <td>Core Plugin - Auth Management</td>
             </tr><tr>
                 <td>1 day ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-leads">LaswitchTech/core-plugin-leads</a></td>
                 <td>Core Plugin - Leads Management</td>
-            </tr><tr>
-                <td>1 day ago</td>
-                <td><a href="https://github.com/LaswitchTech/core-plugin-tasks">LaswitchTech/core-plugin-tasks</a></td>
-                <td>Core Plugin - Manage Tasks</td>
             </tr><tr>
                 <td>1 day ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-clients">LaswitchTech/core-plugin-clients</a></td>
@@ -79,16 +79,16 @@
                 <td>Core Plugin - Manage Task&#39;s Processes</td>
             </tr><tr>
                 <td>1 day ago</td>
-                <td><a href="https://github.com/LaswitchTech/core-plugin-notifications">LaswitchTech/core-plugin-notifications</a></td>
-                <td>Core Plugin - Manage Notifications</td>
+                <td><a href="https://github.com/LaswitchTech/core-plugin-files">LaswitchTech/core-plugin-files</a></td>
+                <td>Core Plugin - File Management</td>
             </tr><tr>
                 <td>1 day ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-vcards">LaswitchTech/core-plugin-vcards</a></td>
                 <td>Core Plugin - Add vCards to your application</td>
             </tr><tr>
                 <td>1 day ago</td>
-                <td><a href="https://github.com/LaswitchTech/core-plugin-files">LaswitchTech/core-plugin-files</a></td>
-                <td>Core Plugin - File Management</td>
+                <td><a href="https://github.com/LaswitchTech/core-plugin-library">LaswitchTech/core-plugin-library</a></td>
+                <td>Core Plugin - Library Menu for Development</td>
             </tr><tr>
                 <td>1 day ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-followups">LaswitchTech/core-plugin-followups</a></td>
