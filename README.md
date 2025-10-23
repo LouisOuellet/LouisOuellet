@@ -75,12 +75,12 @@
                 <td>Core Plugin - Manage Roles and Permissions</td>
             </tr><tr>
                 <td>1 day ago</td>
-                <td><a href="https://github.com/LaswitchTech/core-plugin-notifications">LaswitchTech/core-plugin-notifications</a></td>
-                <td>Core Plugin - Manage Notifications</td>
-            </tr><tr>
-                <td>1 day ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-process">LaswitchTech/core-plugin-process</a></td>
                 <td>Core Plugin - Manage Task&#39;s Processes</td>
+            </tr><tr>
+                <td>1 day ago</td>
+                <td><a href="https://github.com/LaswitchTech/core-plugin-notifications">LaswitchTech/core-plugin-notifications</a></td>
+                <td>Core Plugin - Manage Notifications</td>
             </tr><tr>
                 <td>1 day ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-vcards">LaswitchTech/core-plugin-vcards</a></td>
