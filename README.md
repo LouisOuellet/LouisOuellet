@@ -59,8 +59,8 @@
                 <td>Core Plugin - Manage Tasks</td>
             </tr><tr>
                 <td>1 week ago</td>
-                <td><a href="https://github.com/ALBCIE/hub-plugin-assessments">ALBCIE/hub-plugin-assessments</a></td>
-                <td>WorkflowHub Plugin - Assessments</td>
+                <td><a href="https://github.com/LaswitchTech/core-plugin-importers">LaswitchTech/core-plugin-importers</a></td>
+                <td>Core Plugin - Manage Importers</td>
             </tr><tr>
                 <td>1 week ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-leads">LaswitchTech/core-plugin-leads</a></td>
@@ -79,16 +79,16 @@
                 <td>Core Plugin - Manage Task&#39;s Processes</td>
             </tr><tr>
                 <td>1 week ago</td>
-                <td><a href="https://github.com/LaswitchTech/core-plugin-notifications">LaswitchTech/core-plugin-notifications</a></td>
-                <td>Core Plugin - Manage Notifications</td>
+                <td><a href="https://github.com/LaswitchTech/core-plugin-doctypes">LaswitchTech/core-plugin-doctypes</a></td>
+                <td>Core Plugin - Doctypes Management</td>
             </tr><tr>
                 <td>1 week ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-vcards">LaswitchTech/core-plugin-vcards</a></td>
                 <td>Core Plugin - Add vCards to your application</td>
             </tr><tr>
                 <td>1 week ago</td>
-                <td><a href="https://github.com/LaswitchTech/core-plugin-files">LaswitchTech/core-plugin-files</a></td>
-                <td>Core Plugin - File Management</td>
+                <td><a href="https://github.com/LaswitchTech/core">LaswitchTech/core</a></td>
+                <td>Core Framework</td>
             </tr><tr>
                 <td>1 week ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-followups">LaswitchTech/core-plugin-followups</a></td>
