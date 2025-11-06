@@ -54,6 +54,14 @@
                 <th>Description</th>
             </tr>
             <tr>
+                <td>today</td>
+                <td><a href="https://github.com/LaswitchTech/core-theme-glass">LaswitchTech/core-theme-glass</a></td>
+                <td>Core Theme - Glass</td>
+            </tr><tr>
+                <td>today</td>
+                <td><a href="https://github.com/LaswitchTech/core">LaswitchTech/core</a></td>
+                <td>Core Framework</td>
+            </tr><tr>
                 <td>2 days ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-followups">LaswitchTech/core-plugin-followups</a></td>
                 <td>Core Plugin - Follow-Ups Management</td>
@@ -67,28 +75,20 @@
                 <td>Core Plugin - Manage Tasks</td>
             </tr><tr>
                 <td>2 weeks ago</td>
-                <td><a href="https://github.com/LaswitchTech/core-plugin-library">LaswitchTech/core-plugin-library</a></td>
-                <td>Core Plugin - Library Menu for Development</td>
-            </tr><tr>
-                <td>2 weeks ago</td>
-                <td><a href="https://github.com/LaswitchTech/core-plugin-roles">LaswitchTech/core-plugin-roles</a></td>
-                <td>Core Plugin - Manage Roles and Permissions</td>
+                <td><a href="https://github.com/LaswitchTech/core-plugin-importers">LaswitchTech/core-plugin-importers</a></td>
+                <td>Core Plugin - Manage Importers</td>
             </tr><tr>
                 <td>2 weeks ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-process">LaswitchTech/core-plugin-process</a></td>
                 <td>Core Plugin - Manage Task&#39;s Processes</td>
             </tr><tr>
                 <td>2 weeks ago</td>
-                <td><a href="https://github.com/LaswitchTech/core-plugin-notifications">LaswitchTech/core-plugin-notifications</a></td>
-                <td>Core Plugin - Manage Notifications</td>
-            </tr><tr>
-                <td>2 weeks ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-vcards">LaswitchTech/core-plugin-vcards</a></td>
                 <td>Core Plugin - Add vCards to your application</td>
             </tr><tr>
                 <td>2 weeks ago</td>
-                <td><a href="https://github.com/LaswitchTech/core-plugin-clients">LaswitchTech/core-plugin-clients</a></td>
-                <td>Core Plugin - Clients Management</td>
+                <td><a href="https://github.com/LaswitchTech/core-plugin-notifications">LaswitchTech/core-plugin-notifications</a></td>
+                <td>Core Plugin - Manage Notifications</td>
             </tr><tr>
                 <td>2 weeks ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-doctypes">LaswitchTech/core-plugin-doctypes</a></td>
