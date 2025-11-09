@@ -54,19 +54,19 @@
                 <th>Description</th>
             </tr>
             <tr>
-                <td>2 days ago</td>
+                <td>3 days ago</td>
                 <td><a href="https://github.com/LaswitchTech/core">LaswitchTech/core</a></td>
                 <td>Core Framework</td>
             </tr><tr>
-                <td>2 days ago</td>
+                <td>3 days ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-theme-glass">LaswitchTech/core-theme-glass</a></td>
                 <td>Core Theme - Glass</td>
             </tr><tr>
-                <td>4 days ago</td>
+                <td>5 days ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-followups">LaswitchTech/core-plugin-followups</a></td>
                 <td>Core Plugin - Follow-Ups Management</td>
             </tr><tr>
-                <td>4 days ago</td>
+                <td>5 days ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-documents">LaswitchTech/core-plugin-documents</a></td>
                 <td>Core Plugin - Documents Management</td>
             </tr><tr>
