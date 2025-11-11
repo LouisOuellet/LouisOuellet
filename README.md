@@ -54,6 +54,10 @@
                 <th>Description</th>
             </tr>
             <tr>
+                <td>today</td>
+                <td><a href="https://github.com/LaswitchTech/core-plugin-tasks">LaswitchTech/core-plugin-tasks</a></td>
+                <td>Core Plugin - Manage Tasks</td>
+            </tr><tr>
                 <td>5 days ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-theme-glass">LaswitchTech/core-theme-glass</a></td>
                 <td>Core Theme - Glass</td>
@@ -69,10 +73,6 @@
                 <td>1 week ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-documents">LaswitchTech/core-plugin-documents</a></td>
                 <td>Core Plugin - Documents Management</td>
-            </tr><tr>
-                <td>2 weeks ago</td>
-                <td><a href="https://github.com/LaswitchTech/core-plugin-tasks">LaswitchTech/core-plugin-tasks</a></td>
-                <td>Core Plugin - Manage Tasks</td>
             </tr><tr>
                 <td>2 weeks ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-library">LaswitchTech/core-plugin-library</a></td>
