@@ -22,7 +22,7 @@
                 <td>9 months ago</td>
                 <td><a href="https://laswitchtech.com/en/blog/2025/01/27/let-s-talk-why-and-how-i-use-artificial-intelligence#">Let&#39;s Talk - Why and How I Use Artificial Intelligence</a></td>
             </tr><tr>
-                <td>9 months ago</td>
+                <td>10 months ago</td>
                 <td><a href="https://laswitchtech.com/en/blog/2025/01/24/let-s-talk-building-a-modular-php-framework-from-scratch#">Let&#39;s Talk - Building a Modular PHP Framework from Scratch</a></td>
             </tr><tr>
                 <td>10 months ago</td>
@@ -58,11 +58,11 @@
                 <td><a href="https://github.com/LaswitchTech/core-plugin-tasks">LaswitchTech/core-plugin-tasks</a></td>
                 <td>Core Plugin - Manage Tasks</td>
             </tr><tr>
-                <td>1 week ago</td>
+                <td>2 weeks ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-theme-glass">LaswitchTech/core-theme-glass</a></td>
                 <td>Core Theme - Glass</td>
             </tr><tr>
-                <td>1 week ago</td>
+                <td>2 weeks ago</td>
                 <td><a href="https://github.com/LaswitchTech/core">LaswitchTech/core</a></td>
                 <td>Core Framework</td>
             </tr><tr>
