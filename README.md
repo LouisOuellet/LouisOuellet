@@ -54,17 +54,21 @@
                 <th>Description</th>
             </tr>
             <tr>
+                <td>today</td>
+                <td><a href="https://github.com/LaswitchTech/thinOS">LaswitchTech/thinOS</a></td>
+                <td>This is a linux customization installation script for Debian based OS. The customizations are aimed at creating thin clients..</td>
+            </tr><tr>
                 <td>1 week ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-tasks">LaswitchTech/core-plugin-tasks</a></td>
                 <td>Core Plugin - Manage Tasks</td>
             </tr><tr>
                 <td>2 weeks ago</td>
-                <td><a href="https://github.com/LaswitchTech/core-theme-glass">LaswitchTech/core-theme-glass</a></td>
-                <td>Core Theme - Glass</td>
-            </tr><tr>
-                <td>2 weeks ago</td>
                 <td><a href="https://github.com/LaswitchTech/core">LaswitchTech/core</a></td>
                 <td>Core Framework</td>
+            </tr><tr>
+                <td>2 weeks ago</td>
+                <td><a href="https://github.com/LaswitchTech/core-theme-glass">LaswitchTech/core-theme-glass</a></td>
+                <td>Core Theme - Glass</td>
             </tr><tr>
                 <td>2 weeks ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-followups">LaswitchTech/core-plugin-followups</a></td>
@@ -75,20 +79,16 @@
                 <td>Core Plugin - Documents Management</td>
             </tr><tr>
                 <td>4 weeks ago</td>
-                <td><a href="https://github.com/LaswitchTech/core-plugin-library">LaswitchTech/core-plugin-library</a></td>
-                <td>Core Plugin - Library Menu for Development</td>
-            </tr><tr>
-                <td>4 weeks ago</td>
-                <td><a href="https://github.com/LaswitchTech/core-plugin-process">LaswitchTech/core-plugin-process</a></td>
-                <td>Core Plugin - Manage Task&#39;s Processes</td>
+                <td><a href="https://github.com/ALBCIE/hub-plugin-assessments">ALBCIE/hub-plugin-assessments</a></td>
+                <td>WorkflowHub Plugin - Assessments</td>
             </tr><tr>
                 <td>4 weeks ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-vcards">LaswitchTech/core-plugin-vcards</a></td>
                 <td>Core Plugin - Add vCards to your application</td>
             </tr><tr>
                 <td>4 weeks ago</td>
-                <td><a href="https://github.com/LaswitchTech/core-plugin-notifications">LaswitchTech/core-plugin-notifications</a></td>
-                <td>Core Plugin - Manage Notifications</td>
+                <td><a href="https://github.com/LaswitchTech/core-plugin-process">LaswitchTech/core-plugin-process</a></td>
+                <td>Core Plugin - Manage Task&#39;s Processes</td>
             </tr><tr>
                 <td>4 weeks ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-roles">LaswitchTech/core-plugin-roles</a></td>
