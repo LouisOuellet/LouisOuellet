@@ -91,8 +91,8 @@
                 <td>Core Plugin - Add vCards to your application</td>
             </tr><tr>
                 <td>1 month ago</td>
-                <td><a href="https://github.com/LaswitchTech/core-plugin-process">LaswitchTech/core-plugin-process</a></td>
-                <td>Core Plugin - Manage Task&#39;s Processes</td>
+                <td><a href="https://github.com/LaswitchTech/core-plugin-roles">LaswitchTech/core-plugin-roles</a></td>
+                <td>Core Plugin - Manage Roles and Permissions</td>
             </tr>
         </table>
     </p>
