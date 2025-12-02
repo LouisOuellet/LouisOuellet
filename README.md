@@ -54,7 +54,7 @@
                 <th>Description</th>
             </tr>
             <tr>
-                <td>3 days ago</td>
+                <td>4 days ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-telico">LaswitchTech/core-plugin-telico</a></td>
                 <td>Core Plugin - Telico API</td>
             </tr><tr>
@@ -62,7 +62,7 @@
                 <td><a href="https://github.com/LaswitchTech/thinOS">LaswitchTech/thinOS</a></td>
                 <td>This is a linux customization installation script for Debian based OS. The customizations are aimed at creating thin clients..</td>
             </tr><tr>
-                <td>2 weeks ago</td>
+                <td>3 weeks ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-tasks">LaswitchTech/core-plugin-tasks</a></td>
                 <td>Core Plugin - Manage Tasks</td>
             </tr><tr>
@@ -74,11 +74,11 @@
                 <td><a href="https://github.com/LaswitchTech/core">LaswitchTech/core</a></td>
                 <td>Core Framework</td>
             </tr><tr>
-                <td>3 weeks ago</td>
+                <td>4 weeks ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-documents">LaswitchTech/core-plugin-documents</a></td>
                 <td>Core Plugin - Documents Management</td>
             </tr><tr>
-                <td>3 weeks ago</td>
+                <td>4 weeks ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-followups">LaswitchTech/core-plugin-followups</a></td>
                 <td>Core Plugin - Follow-Ups Management</td>
             </tr><tr>
