@@ -87,8 +87,8 @@
                 <td>Core Plugin - Follow-Ups Management</td>
             </tr><tr>
                 <td>1 month ago</td>
-                <td><a href="https://github.com/LaswitchTech/core-plugin-library">LaswitchTech/core-plugin-library</a></td>
-                <td>Core Plugin - Library Menu for Development</td>
+                <td><a href="https://github.com/LaswitchTech/core-plugin-products">LaswitchTech/core-plugin-products</a></td>
+                <td>Core Plugin - Products Management</td>
             </tr><tr>
                 <td>1 month ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-vcards">LaswitchTech/core-plugin-vcards</a></td>
