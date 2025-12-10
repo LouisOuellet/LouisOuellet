@@ -55,16 +55,16 @@
             </tr>
             <tr>
                 <td>today</td>
-                <td><a href="https://github.com/LaswitchTech/corePY">LaswitchTech/corePY</a></td>
-                <td>corePY is a python framework</td>
-            </tr><tr>
-                <td>5 days ago</td>
                 <td><a href="https://github.com/LaswitchTech/PyRDPConnect">LaswitchTech/PyRDPConnect</a></td>
                 <td>PyRDPConnect is a cross-platform Python application designed to provide a sleek, modern, and efficient front-end interface for connecting to Remote Desktop (RDP) sessions. Built with PyQt5, the application supports both macOS and Linux, offering an intuitive and user-friendly experience for users who need to manage RDP connections.</td>
             </tr><tr>
-                <td>5 days ago</td>
+                <td>today</td>
                 <td><a href="https://github.com/LaswitchTech/thinOS">LaswitchTech/thinOS</a></td>
                 <td>This is a linux customization installation script for Debian based OS. The customizations are aimed at creating thin clients..</td>
+            </tr><tr>
+                <td>today</td>
+                <td><a href="https://github.com/LaswitchTech/corePY">LaswitchTech/corePY</a></td>
+                <td>corePY is a python framework</td>
             </tr><tr>
                 <td>1 week ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-telico">LaswitchTech/core-plugin-telico</a></td>
@@ -83,12 +83,12 @@
                 <td>Core Theme - Glass</td>
             </tr><tr>
                 <td>1 month ago</td>
-                <td><a href="https://github.com/LaswitchTech/core-plugin-documents">LaswitchTech/core-plugin-documents</a></td>
-                <td>Core Plugin - Documents Management</td>
-            </tr><tr>
-                <td>1 month ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-followups">LaswitchTech/core-plugin-followups</a></td>
                 <td>Core Plugin - Follow-Ups Management</td>
+            </tr><tr>
+                <td>1 month ago</td>
+                <td><a href="https://github.com/LaswitchTech/core-plugin-documents">LaswitchTech/core-plugin-documents</a></td>
+                <td>Core Plugin - Documents Management</td>
             </tr><tr>
                 <td>1 month ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-components">LaswitchTech/core-plugin-components</a></td>
