@@ -66,7 +66,7 @@
                 <td><a href="https://github.com/LaswitchTech/corePY">LaswitchTech/corePY</a></td>
                 <td>corePY is a python framework</td>
             </tr><tr>
-                <td>3 weeks ago</td>
+                <td>4 weeks ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-telico">LaswitchTech/core-plugin-telico</a></td>
                 <td>Core Plugin - Telico API</td>
             </tr><tr>
