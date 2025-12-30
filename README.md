@@ -13,7 +13,7 @@
                 <th>Blog Post</th>
             </tr>
             <tr>
-                <td>10 months ago</td>
+                <td>11 months ago</td>
                 <td><a href="https://laswitchtech.com/en/blog/2025/02/03/let-s-talk-building-a-modular-php-framework-part-3#">Let&#39;s Talk - Building a Modular PHP Framework part 3</a></td>
             </tr><tr>
                 <td>11 months ago</td>
