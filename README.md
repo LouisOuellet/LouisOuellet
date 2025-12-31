@@ -62,7 +62,7 @@
                 <td><a href="https://github.com/LaswitchTech/thinOS">LaswitchTech/thinOS</a></td>
                 <td>This is a linux customization installation script for Debian based OS. The customizations are aimed at creating thin clients..</td>
             </tr><tr>
-                <td>2 weeks ago</td>
+                <td>3 weeks ago</td>
                 <td><a href="https://github.com/LaswitchTech/corePY">LaswitchTech/corePY</a></td>
                 <td>corePY is a python framework</td>
             </tr><tr>
