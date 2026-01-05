@@ -54,11 +54,11 @@
                 <th>Description</th>
             </tr>
             <tr>
-                <td>2 weeks ago</td>
+                <td>3 weeks ago</td>
                 <td><a href="https://github.com/LaswitchTech/PyRDPConnect">LaswitchTech/PyRDPConnect</a></td>
                 <td>PyRDPConnect is a cross-platform Python application designed to provide a sleek, modern, and efficient front-end interface for connecting to Remote Desktop (RDP) sessions. Built with PyQt5, the application supports both macOS and Linux, offering an intuitive and user-friendly experience for users who need to manage RDP connections.</td>
             </tr><tr>
-                <td>2 weeks ago</td>
+                <td>3 weeks ago</td>
                 <td><a href="https://github.com/LaswitchTech/thinOS">LaswitchTech/thinOS</a></td>
                 <td>This is a linux customization installation script for Debian based OS. The customizations are aimed at creating thin clients..</td>
             </tr><tr>
@@ -74,11 +74,11 @@
                 <td><a href="https://github.com/LaswitchTech/core-plugin-tasks">LaswitchTech/core-plugin-tasks</a></td>
                 <td>Core Plugin - Manage Tasks</td>
             </tr><tr>
-                <td>1 month ago</td>
+                <td>2 months ago</td>
                 <td><a href="https://github.com/LaswitchTech/core">LaswitchTech/core</a></td>
                 <td>Core Framework</td>
             </tr><tr>
-                <td>1 month ago</td>
+                <td>2 months ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-theme-glass">LaswitchTech/core-theme-glass</a></td>
                 <td>Core Theme - Glass</td>
             </tr><tr>
