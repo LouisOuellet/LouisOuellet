@@ -54,7 +54,7 @@
                 <th>Description</th>
             </tr>
             <tr>
-                <td>today</td>
+                <td>1 day ago</td>
                 <td><a href="https://github.com/LaswitchTech/Replicator">LaswitchTech/Replicator</a></td>
                 <td>Data Replication Software, Replacement for Windows DFSR with support for Local, SMB and FTP filesystems.</td>
             </tr><tr>
@@ -74,7 +74,7 @@
                 <td><a href="https://github.com/LaswitchTech/core-plugin-telico">LaswitchTech/core-plugin-telico</a></td>
                 <td>Core Plugin - Telico API</td>
             </tr><tr>
-                <td>1 month ago</td>
+                <td>2 months ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-tasks">LaswitchTech/core-plugin-tasks</a></td>
                 <td>Core Plugin - Manage Tasks</td>
             </tr><tr>
