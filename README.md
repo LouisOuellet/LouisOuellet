@@ -54,15 +54,15 @@
                 <th>Description</th>
             </tr>
             <tr>
-                <td>2 days ago</td>
+                <td>3 days ago</td>
                 <td><a href="https://github.com/LaswitchTech/Replicator">LaswitchTech/Replicator</a></td>
                 <td>Data Replication Software, Replacement for Windows DFSR with support for Local, SMB and FTP filesystems.</td>
             </tr><tr>
-                <td>3 weeks ago</td>
+                <td>4 weeks ago</td>
                 <td><a href="https://github.com/LaswitchTech/thinOS">LaswitchTech/thinOS</a></td>
                 <td>This is a linux customization installation script for Debian based OS. The customizations are aimed at creating thin clients..</td>
             </tr><tr>
-                <td>3 weeks ago</td>
+                <td>4 weeks ago</td>
                 <td><a href="https://github.com/LaswitchTech/PyRDPConnect">LaswitchTech/PyRDPConnect</a></td>
                 <td>PyRDPConnect is a cross-platform Python application designed to provide a sleek, modern, and efficient front-end interface for connecting to Remote Desktop (RDP) sessions. Built with PyQt5, the application supports both macOS and Linux, offering an intuitive and user-friendly experience for users who need to manage RDP connections.</td>
             </tr><tr>
