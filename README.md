@@ -78,11 +78,11 @@
                 <td><a href="https://github.com/LaswitchTech/core-plugin-tasks">LaswitchTech/core-plugin-tasks</a></td>
                 <td>Core Plugin - Manage Tasks</td>
             </tr><tr>
-                <td>2 months ago</td>
+                <td>3 months ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-theme-glass">LaswitchTech/core-theme-glass</a></td>
                 <td>Core Theme - Glass</td>
             </tr><tr>
-                <td>2 months ago</td>
+                <td>3 months ago</td>
                 <td><a href="https://github.com/LaswitchTech/core">LaswitchTech/core</a></td>
                 <td>Core Framework</td>
             </tr><tr>
