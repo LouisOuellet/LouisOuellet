@@ -56,7 +56,7 @@
             <tr>
                 <td>4 weeks ago</td>
                 <td><a href="https://github.com/LaswitchTech/Replicator">LaswitchTech/Replicator</a></td>
-                <td>Data Replication Software, Replacement for Windows DFSR with support for Local, SMB and FTP filesystems.</td>
+                <td>Data Replication Software, Replacement for Windows DFSR with support for Local and SMB filesystems.</td>
             </tr><tr>
                 <td>1 month ago</td>
                 <td><a href="https://github.com/LaswitchTech/PyRDPConnect">LaswitchTech/PyRDPConnect</a></td>
