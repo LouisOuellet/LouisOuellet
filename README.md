@@ -74,7 +74,7 @@
                 <td><a href="https://github.com/LaswitchTech/core-plugin-telico">LaswitchTech/core-plugin-telico</a></td>
                 <td>Core Plugin - Telico API</td>
             </tr><tr>
-                <td>2 months ago</td>
+                <td>3 months ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-tasks">LaswitchTech/core-plugin-tasks</a></td>
                 <td>Core Plugin - Manage Tasks</td>
             </tr><tr>
