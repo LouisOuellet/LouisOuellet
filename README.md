@@ -54,6 +54,10 @@
                 <th>Description</th>
             </tr>
             <tr>
+                <td>today</td>
+                <td><a href="https://github.com/LaswitchTech/writr">LaswitchTech/writr</a></td>
+                <td>Bold, minimalist and modern DokuWiki template, converted from the Writr WordPress theme</td>
+            </tr><tr>
                 <td>1 month ago</td>
                 <td><a href="https://github.com/LaswitchTech/Replicator">LaswitchTech/Replicator</a></td>
                 <td>Data Replication Software, Replacement for Windows DFSR with support for Local and SMB filesystems.</td>
@@ -89,10 +93,6 @@
                 <td>3 months ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-followups">LaswitchTech/core-plugin-followups</a></td>
                 <td>Core Plugin - Follow-Ups Management</td>
-            </tr><tr>
-                <td>3 months ago</td>
-                <td><a href="https://github.com/LaswitchTech/core-plugin-documents">LaswitchTech/core-plugin-documents</a></td>
-                <td>Core Plugin - Documents Management</td>
             </tr>
         </table>
     </p>
