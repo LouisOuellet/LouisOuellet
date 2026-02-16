@@ -54,6 +54,10 @@
                 <th>Description</th>
             </tr>
             <tr>
+                <td>today</td>
+                <td><a href="https://github.com/LaswitchTech/thinOS">LaswitchTech/thinOS</a></td>
+                <td>This is a linux customization installation script for Debian based OS. The customizations are aimed at creating thin clients..</td>
+            </tr><tr>
                 <td>3 days ago</td>
                 <td><a href="https://github.com/LaswitchTech/writr">LaswitchTech/writr</a></td>
                 <td>Bold, minimalist and modern DokuWiki template, converted from the Writr WordPress theme</td>
@@ -65,10 +69,6 @@
                 <td>2 months ago</td>
                 <td><a href="https://github.com/LaswitchTech/PyRDPConnect">LaswitchTech/PyRDPConnect</a></td>
                 <td>PyRDPConnect is a cross-platform Python application designed to provide a sleek, modern, and efficient front-end interface for connecting to Remote Desktop (RDP) sessions. Built with PyQt5, the application supports both macOS and Linux, offering an intuitive and user-friendly experience for users who need to manage RDP connections.</td>
-            </tr><tr>
-                <td>2 months ago</td>
-                <td><a href="https://github.com/LaswitchTech/thinOS">LaswitchTech/thinOS</a></td>
-                <td>This is a linux customization installation script for Debian based OS. The customizations are aimed at creating thin clients..</td>
             </tr><tr>
                 <td>2 months ago</td>
                 <td><a href="https://github.com/LaswitchTech/corePY">LaswitchTech/corePY</a></td>
