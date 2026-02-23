@@ -54,11 +54,11 @@
                 <th>Description</th>
             </tr>
             <tr>
-                <td>5 days ago</td>
+                <td>6 days ago</td>
                 <td><a href="https://github.com/LaswitchTech/writr">LaswitchTech/writr</a></td>
                 <td>Bold, minimalist and modern DokuWiki template, converted from the Writr WordPress theme</td>
             </tr><tr>
-                <td>6 days ago</td>
+                <td>1 week ago</td>
                 <td><a href="https://github.com/LaswitchTech/thinOS">LaswitchTech/thinOS</a></td>
                 <td>This is a linux customization installation script for Debian based OS. The customizations are aimed at creating thin clients..</td>
             </tr><tr>
