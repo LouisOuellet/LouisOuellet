@@ -58,7 +58,7 @@
                 <td><a href="https://github.com/LaswitchTech/writr">LaswitchTech/writr</a></td>
                 <td>Bold, minimalist and modern DokuWiki template, converted from the Writr WordPress theme</td>
             </tr><tr>
-                <td>1 week ago</td>
+                <td>2 weeks ago</td>
                 <td><a href="https://github.com/LaswitchTech/thinOS">LaswitchTech/thinOS</a></td>
                 <td>This is a linux customization installation script for Debian based OS. The customizations are aimed at creating thin clients..</td>
             </tr><tr>
