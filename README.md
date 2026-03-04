@@ -90,7 +90,7 @@
                 <td><a href="https://github.com/LaswitchTech/core">LaswitchTech/core</a></td>
                 <td>Core Framework</td>
             </tr><tr>
-                <td>3 months ago</td>
+                <td>4 months ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-documents">LaswitchTech/core-plugin-documents</a></td>
                 <td>Core Plugin - Documents Management</td>
             </tr>
