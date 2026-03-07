@@ -13,7 +13,7 @@
                 <th>Blog Post</th>
             </tr>
             <tr>
-                <td>2 weeks ago</td>
+                <td>3 weeks ago</td>
                 <td><a href="https://laswitchtech.com/en/blog/2026/02/14/rediscovering-engineering-through-3d-printing#">Rediscovering Engineering Through 3D Printing</a></td>
             </tr><tr>
                 <td>1 year ago</td>
