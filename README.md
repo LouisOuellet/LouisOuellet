@@ -54,7 +54,7 @@
                 <th>Description</th>
             </tr>
             <tr>
-                <td>2 weeks ago</td>
+                <td>3 weeks ago</td>
                 <td><a href="https://github.com/LaswitchTech/writr">LaswitchTech/writr</a></td>
                 <td>Bold, minimalist and modern DokuWiki template, converted from the Writr WordPress theme</td>
             </tr><tr>
@@ -62,7 +62,7 @@
                 <td><a href="https://github.com/LaswitchTech/thinOS">LaswitchTech/thinOS</a></td>
                 <td>This is a linux customization installation script for Debian based OS. The customizations are aimed at creating thin clients..</td>
             </tr><tr>
-                <td>1 month ago</td>
+                <td>2 months ago</td>
                 <td><a href="https://github.com/LaswitchTech/Replicator">LaswitchTech/Replicator</a></td>
                 <td>Data Replication Software, Replacement for Windows DFSR with support for Local and SMB filesystems.</td>
             </tr><tr>
@@ -70,7 +70,7 @@
                 <td><a href="https://github.com/LaswitchTech/PyRDPConnect">LaswitchTech/PyRDPConnect</a></td>
                 <td>PyRDPConnect is a cross-platform Python application designed to provide a sleek, modern, and efficient front-end interface for connecting to Remote Desktop (RDP) sessions. Built with PyQt5, the application supports both macOS and Linux, offering an intuitive and user-friendly experience for users who need to manage RDP connections.</td>
             </tr><tr>
-                <td>2 months ago</td>
+                <td>3 months ago</td>
                 <td><a href="https://github.com/LaswitchTech/corePY">LaswitchTech/corePY</a></td>
                 <td>corePY is a python framework</td>
             </tr><tr>
