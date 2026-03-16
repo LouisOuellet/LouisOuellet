@@ -13,7 +13,7 @@
                 <th>Blog Post</th>
             </tr>
             <tr>
-                <td>4 weeks ago</td>
+                <td>1 month ago</td>
                 <td><a href="https://laswitchtech.com/en/blog/2026/02/14/rediscovering-engineering-through-3d-printing#">Rediscovering Engineering Through 3D Printing</a></td>
             </tr><tr>
                 <td>1 year ago</td>
@@ -58,7 +58,7 @@
                 <td><a href="https://github.com/LaswitchTech/writr">LaswitchTech/writr</a></td>
                 <td>Bold, minimalist and modern DokuWiki template, converted from the Writr WordPress theme</td>
             </tr><tr>
-                <td>3 weeks ago</td>
+                <td>4 weeks ago</td>
                 <td><a href="https://github.com/LaswitchTech/thinOS">LaswitchTech/thinOS</a></td>
                 <td>This is a linux customization installation script for Debian based OS. The customizations are aimed at creating thin clients..</td>
             </tr><tr>
