@@ -90,7 +90,7 @@
                 <td><a href="https://github.com/LaswitchTech/core-theme-glass">LaswitchTech/core-theme-glass</a></td>
                 <td>Core Theme - Glass</td>
             </tr><tr>
-                <td>4 months ago</td>
+                <td>5 months ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-documents">LaswitchTech/core-plugin-documents</a></td>
                 <td>Core Plugin - Documents Management</td>
             </tr>
