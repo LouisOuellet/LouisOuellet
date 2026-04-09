@@ -14,6 +14,9 @@
             </tr>
             <tr>
                 <td>2 weeks ago</td>
+                <td><a href="https://laswitchtech.com/en/blog/2026/03/24/pinas-v2-design-progress-hdd-cage-and-caddies-validated#">PiNAS v2 – Design Progress (HDD Cage &amp; Caddies Validated)</a></td>
+            </tr><tr>
+                <td>2 weeks ago</td>
                 <td><a href="https://laswitchtech.com/en/blog/2026/03/22/when-it-s-not-the-network-an-rdp-investigation-that-led-elsewhere#">When It’s Not the Network: An RDP Investigation That Led Elsewhere</a></td>
             </tr><tr>
                 <td>1 month ago</td>
@@ -39,9 +42,6 @@
             </tr><tr>
                 <td>1 year ago</td>
                 <td><a href="https://laswitchtech.com/en/blog/2024/12/06/how-to-connect-an-iscsi-target-on-windows-server-2022#">How to Connect an iSCSI Target on Windows Server 2022</a></td>
-            </tr><tr>
-                <td>1 year ago</td>
-                <td><a href="https://laswitchtech.com/en/blog/2024/12/06/how-to-setup-server-backups-on-windows-server-2022#">How to Setup Server Backups on Windows Server 2022</a></td>
             </tr>
         </table>
     </p>
