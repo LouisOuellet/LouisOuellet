@@ -54,6 +54,10 @@
                 <th>Description</th>
             </tr>
             <tr>
+                <td>today</td>
+                <td><a href="https://github.com/LaswitchTech/kernel-web">LaswitchTech/kernel-web</a></td>
+                <td>Web Application Kernel</td>
+            </tr><tr>
                 <td>4 days ago</td>
                 <td><a href="https://github.com/LaswitchTech/NetMon">LaswitchTech/NetMon</a></td>
                 <td>Network Monitoring tool</td>
@@ -85,10 +89,6 @@
                 <td>5 months ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-tasks">LaswitchTech/core-plugin-tasks</a></td>
                 <td>Core Plugin - Manage Tasks</td>
-            </tr><tr>
-                <td>5 months ago</td>
-                <td><a href="https://github.com/LaswitchTech/core-theme-glass">LaswitchTech/core-theme-glass</a></td>
-                <td>Core Theme - Glass</td>
             </tr><tr>
                 <td>5 months ago</td>
                 <td><a href="https://github.com/LaswitchTech/core">LaswitchTech/core</a></td>
