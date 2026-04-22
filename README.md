@@ -54,6 +54,10 @@
                 <th>Description</th>
             </tr>
             <tr>
+                <td>today</td>
+                <td><a href="https://github.com/LaswitchTech/game">LaswitchTech/game</a></td>
+                <td>game RTS</td>
+            </tr><tr>
                 <td>5 days ago</td>
                 <td><a href="https://github.com/LaswitchTech/kernel-web">LaswitchTech/kernel-web</a></td>
                 <td>Web Application Kernel</td>
@@ -89,10 +93,6 @@
                 <td>5 months ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-tasks">LaswitchTech/core-plugin-tasks</a></td>
                 <td>Core Plugin - Manage Tasks</td>
-            </tr><tr>
-                <td>5 months ago</td>
-                <td><a href="https://github.com/LaswitchTech/core">LaswitchTech/core</a></td>
-                <td>Core Framework</td>
             </tr>
         </table>
     </p>
