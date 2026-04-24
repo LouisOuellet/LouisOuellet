@@ -13,7 +13,7 @@
                 <th>Blog Post</th>
             </tr>
             <tr>
-                <td>4 weeks ago</td>
+                <td>1 month ago</td>
                 <td><a href="https://laswitchtech.com/en/blog/2026/03/24/pinas-v2-design-progress-hdd-cage-and-caddies-validated#">PiNAS v2 – Design Progress (HDD Cage &amp; Caddies Validated)</a></td>
             </tr><tr>
                 <td>1 month ago</td>
@@ -54,11 +54,11 @@
                 <th>Description</th>
             </tr>
             <tr>
-                <td>1 day ago</td>
+                <td>2 days ago</td>
                 <td><a href="https://github.com/LaswitchTech/game">LaswitchTech/game</a></td>
                 <td>game RTS</td>
             </tr><tr>
-                <td>6 days ago</td>
+                <td>1 week ago</td>
                 <td><a href="https://github.com/LaswitchTech/kernel-web">LaswitchTech/kernel-web</a></td>
                 <td>Web Application Kernel</td>
             </tr><tr>
