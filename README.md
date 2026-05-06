@@ -54,7 +54,7 @@
                 <th>Description</th>
             </tr>
             <tr>
-                <td>1 week ago</td>
+                <td>2 weeks ago</td>
                 <td><a href="https://github.com/LaswitchTech/game">LaswitchTech/game</a></td>
                 <td>game RTS</td>
             </tr><tr>
