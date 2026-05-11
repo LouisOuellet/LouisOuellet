@@ -54,6 +54,10 @@
                 <th>Description</th>
             </tr>
             <tr>
+                <td>today</td>
+                <td><a href="https://github.com/LaswitchTech/writr">LaswitchTech/writr</a></td>
+                <td>Bold, minimalist and modern DokuWiki template, converted from the Writr WordPress theme</td>
+            </tr><tr>
                 <td>2 weeks ago</td>
                 <td><a href="https://github.com/LaswitchTech/game">LaswitchTech/game</a></td>
                 <td>game RTS</td>
@@ -65,10 +69,6 @@
                 <td>4 weeks ago</td>
                 <td><a href="https://github.com/LaswitchTech/NetMon">LaswitchTech/NetMon</a></td>
                 <td>Network Monitoring tool</td>
-            </tr><tr>
-                <td>2 months ago</td>
-                <td><a href="https://github.com/LaswitchTech/writr">LaswitchTech/writr</a></td>
-                <td>Bold, minimalist and modern DokuWiki template, converted from the Writr WordPress theme</td>
             </tr><tr>
                 <td>2 months ago</td>
                 <td><a href="https://github.com/LaswitchTech/thinOS">LaswitchTech/thinOS</a></td>
