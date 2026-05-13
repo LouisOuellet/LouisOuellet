@@ -54,11 +54,11 @@
                 <th>Description</th>
             </tr>
             <tr>
-                <td>1 day ago</td>
+                <td>2 days ago</td>
                 <td><a href="https://github.com/LaswitchTech/writr">LaswitchTech/writr</a></td>
                 <td>Bold, minimalist and modern DokuWiki template, converted from the Writr WordPress theme</td>
             </tr><tr>
-                <td>2 weeks ago</td>
+                <td>3 weeks ago</td>
                 <td><a href="https://github.com/LaswitchTech/game">LaswitchTech/game</a></td>
                 <td>game RTS</td>
             </tr><tr>
@@ -66,7 +66,7 @@
                 <td><a href="https://github.com/LaswitchTech/kernel-web">LaswitchTech/kernel-web</a></td>
                 <td>Web Application Kernel</td>
             </tr><tr>
-                <td>4 weeks ago</td>
+                <td>1 month ago</td>
                 <td><a href="https://github.com/LaswitchTech/NetMon">LaswitchTech/NetMon</a></td>
                 <td>Network Monitoring tool</td>
             </tr><tr>
