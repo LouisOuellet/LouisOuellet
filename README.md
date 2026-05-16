@@ -54,7 +54,7 @@
                 <th>Description</th>
             </tr>
             <tr>
-                <td>4 days ago</td>
+                <td>5 days ago</td>
                 <td><a href="https://github.com/LaswitchTech/writr">LaswitchTech/writr</a></td>
                 <td>Bold, minimalist and modern DokuWiki template, converted from the Writr WordPress theme</td>
             </tr><tr>
