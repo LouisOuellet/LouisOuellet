@@ -16,7 +16,7 @@
                 <td>1 month ago</td>
                 <td><a href="https://laswitchtech.com/en/blog/2026/03/24/pinas-v2-design-progress-hdd-cage-and-caddies-validated#">PiNAS v2 – Design Progress (HDD Cage &amp; Caddies Validated)</a></td>
             </tr><tr>
-                <td>1 month ago</td>
+                <td>2 months ago</td>
                 <td><a href="https://laswitchtech.com/en/blog/2026/03/22/when-it-s-not-the-network-an-rdp-investigation-that-led-elsewhere#">When It’s Not the Network: An RDP Investigation That Led Elsewhere</a></td>
             </tr><tr>
                 <td>3 months ago</td>
@@ -58,7 +58,7 @@
                 <td><a href="https://github.com/LaswitchTech/writr">LaswitchTech/writr</a></td>
                 <td>Bold, minimalist and modern DokuWiki template, converted from the Writr WordPress theme</td>
             </tr><tr>
-                <td>4 weeks ago</td>
+                <td>1 month ago</td>
                 <td><a href="https://github.com/LaswitchTech/game">LaswitchTech/game</a></td>
                 <td>game RTS</td>
             </tr><tr>
