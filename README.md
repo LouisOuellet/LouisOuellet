@@ -13,7 +13,7 @@
                 <th>Blog Post</th>
             </tr>
             <tr>
-                <td>1 month ago</td>
+                <td>2 months ago</td>
                 <td><a href="https://laswitchtech.com/en/blog/2026/03/24/pinas-v2-design-progress-hdd-cage-and-caddies-validated#">PiNAS v2 – Design Progress (HDD Cage &amp; Caddies Validated)</a></td>
             </tr><tr>
                 <td>2 months ago</td>
