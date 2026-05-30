@@ -40,7 +40,7 @@
                 <td>1 year ago</td>
                 <td><a href="https://laswitchtech.com/en/blog/2024/12/20/enhancing-your-dokuwiki-forms-with-custom-javascript-replacing-newlines-with-markdown-friendly-syntax#">Enhancing Your DokuWiki Forms with Custom JavaScript - Replacing Newlines with Markdown-Friendly Syntax</a></td>
             </tr><tr>
-                <td>1 year ago</td>
+                <td>2 years ago</td>
                 <td><a href="https://laswitchtech.com/en/blog/2024/12/06/how-to-connect-an-iscsi-target-on-windows-server-2022#">How to Connect an iSCSI Target on Windows Server 2022</a></td>
             </tr>
         </table>
@@ -54,7 +54,7 @@
                 <th>Description</th>
             </tr>
             <tr>
-                <td>1 day ago</td>
+                <td>2 days ago</td>
                 <td><a href="https://github.com/LaswitchTech/PiNAS-UI">LaswitchTech/PiNAS-UI</a></td>
                 <td>This repository contains a python application meant to compliment PiNAS</td>
             </tr><tr>
