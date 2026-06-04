@@ -54,13 +54,13 @@
                 <th>Description</th>
             </tr>
             <tr>
+                <td>today</td>
+                <td><a href="https://github.com/LaswitchTech/writr">LaswitchTech/writr</a></td>
+                <td>Bold, minimalist and modern DokuWiki template, converted from the Writr WordPress theme</td>
+            </tr><tr>
                 <td>1 week ago</td>
                 <td><a href="https://github.com/LaswitchTech/PiNAS-UI">LaswitchTech/PiNAS-UI</a></td>
                 <td>This repository contains a python application meant to compliment PiNAS</td>
-            </tr><tr>
-                <td>3 weeks ago</td>
-                <td><a href="https://github.com/LaswitchTech/writr">LaswitchTech/writr</a></td>
-                <td>Bold, minimalist and modern DokuWiki template, converted from the Writr WordPress theme</td>
             </tr><tr>
                 <td>1 month ago</td>
                 <td><a href="https://github.com/LaswitchTech/game">LaswitchTech/game</a></td>
