@@ -54,7 +54,7 @@
                 <th>Description</th>
             </tr>
             <tr>
-                <td>6 days ago</td>
+                <td>1 week ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-docs">LaswitchTech/core-plugin-docs</a></td>
                 <td>Core Plugin - Documentations</td>
             </tr><tr>
