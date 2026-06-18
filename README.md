@@ -55,6 +55,10 @@
             </tr>
             <tr>
                 <td>today</td>
+                <td><a href="https://github.com/LaswitchTech/core-web">LaswitchTech/core-web</a></td>
+                <td>Core Web is a Web Application Framework</td>
+            </tr><tr>
+                <td>today</td>
                 <td><a href="https://github.com/LaswitchTech/pms-ai">LaswitchTech/pms-ai</a></td>
                 <td>Project Management System - This is application makes it easier to plan feature and address bugs in your projects. It is built to power OpenCode and LLMs such as Qwen3-coder using Ollama. So it includes several prompts and steps to automate and ensure your project is built according to the specification you design.</td>
             </tr><tr>
@@ -89,10 +93,6 @@
                 <td>5 months ago</td>
                 <td><a href="https://github.com/LaswitchTech/Replicator">LaswitchTech/Replicator</a></td>
                 <td>Data Replication Software, Replacement for Windows DFSR with support for Local and SMB filesystems.</td>
-            </tr><tr>
-                <td>6 months ago</td>
-                <td><a href="https://github.com/LaswitchTech/PyRDPConnect">LaswitchTech/PyRDPConnect</a></td>
-                <td>PyRDPConnect is a cross-platform Python application designed to provide a sleek, modern, and efficient front-end interface for connecting to Remote Desktop (RDP) sessions. Built with PyQt5, the application supports both macOS and Linux, offering an intuitive and user-friendly experience for users who need to manage RDP connections.</td>
             </tr>
         </table>
     </p>
