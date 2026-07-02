@@ -58,7 +58,7 @@
                 <td><a href="https://github.com/LaswitchTech/pms-ai">LaswitchTech/pms-ai</a></td>
                 <td>Project Management System - This is application makes it easier to plan feature and address bugs in your projects. It is built to power OpenCode and LLMs such as Qwen3-coder using Ollama. So it includes several prompts and steps to automate and ensure your project is built according to the specification you design.</td>
             </tr><tr>
-                <td>1 week ago</td>
+                <td>2 weeks ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-web">LaswitchTech/core-web</a></td>
                 <td>Core Web is a Web Application Framework</td>
             </tr><tr>
@@ -66,7 +66,7 @@
                 <td><a href="https://github.com/LaswitchTech/core-plugin-docs">LaswitchTech/core-plugin-docs</a></td>
                 <td>Core Plugin - Documentations</td>
             </tr><tr>
-                <td>3 weeks ago</td>
+                <td>4 weeks ago</td>
                 <td><a href="https://github.com/LaswitchTech/writr">LaswitchTech/writr</a></td>
                 <td>Bold, minimalist and modern DokuWiki template, converted from the Writr WordPress theme</td>
             </tr><tr>
