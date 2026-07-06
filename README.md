@@ -62,7 +62,7 @@
                 <td><a href="https://github.com/LaswitchTech/core-web">LaswitchTech/core-web</a></td>
                 <td>Core Web is a Web Application Framework</td>
             </tr><tr>
-                <td>3 weeks ago</td>
+                <td>4 weeks ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-docs">LaswitchTech/core-plugin-docs</a></td>
                 <td>Core Plugin - Documentations</td>
             </tr><tr>
