@@ -62,7 +62,7 @@
                 <td><a href="https://github.com/LaswitchTech/core-web">LaswitchTech/core-web</a></td>
                 <td>Core Web is a Web Application Framework</td>
             </tr><tr>
-                <td>4 weeks ago</td>
+                <td>1 month ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-plugin-docs">LaswitchTech/core-plugin-docs</a></td>
                 <td>Core Plugin - Documentations</td>
             </tr><tr>
@@ -90,7 +90,7 @@
                 <td><a href="https://github.com/LaswitchTech/thinOS">LaswitchTech/thinOS</a></td>
                 <td>This is a linux customization installation script for Debian based OS. The customizations are aimed at creating thin clients..</td>
             </tr><tr>
-                <td>5 months ago</td>
+                <td>6 months ago</td>
                 <td><a href="https://github.com/LaswitchTech/Replicator">LaswitchTech/Replicator</a></td>
                 <td>Data Replication Software, Replacement for Windows DFSR with support for Local and SMB filesystems.</td>
             </tr>
