@@ -31,7 +31,7 @@
                 <td>1 year ago</td>
                 <td><a href="https://laswitchtech.com/en/blog/2025/01/27/let-s-talk-why-and-how-i-use-artificial-intelligence#">Let&#39;s Talk - Why and How I Use Artificial Intelligence</a></td>
             </tr><tr>
-                <td>1 year ago</td>
+                <td>2 years ago</td>
                 <td><a href="https://laswitchtech.com/en/blog/2025/01/24/let-s-talk-building-a-modular-php-framework-from-scratch#">Let&#39;s Talk - Building a Modular PHP Framework from Scratch</a></td>
             </tr><tr>
                 <td>2 years ago</td>
@@ -58,7 +58,7 @@
                 <td><a href="https://github.com/LaswitchTech/pms-ai">LaswitchTech/pms-ai</a></td>
                 <td>Project Management System - This is application makes it easier to plan feature and address bugs in your projects. It is built to power OpenCode and LLMs such as Qwen3-coder using Ollama. So it includes several prompts and steps to automate and ensure your project is built according to the specification you design.</td>
             </tr><tr>
-                <td>4 weeks ago</td>
+                <td>1 month ago</td>
                 <td><a href="https://github.com/LaswitchTech/core-web">LaswitchTech/core-web</a></td>
                 <td>Core Web is a Web Application Framework</td>
             </tr><tr>
